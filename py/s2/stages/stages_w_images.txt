@@ -1,0 +1,75 @@
+== Stages ==
+{| align="left" cellpadding="1px" style="background:#FFFFFF; text-align:center; border: 3px solid #F03C78; {{roundy}}
+|-
+! colspan="4"|Stages in [[File:Mode_Icon_Splat_Zones.png|24px]] [[Splat Zones]]
+|-
+| [[File:S2 Stage Starfish Mainstage.png|150px|link=Starfish Mainstage]]<br />[[Starfish Mainstage]]
+| [[File:S2 Stage Inkblot Art Academy.png|150px|link=Inkblot Art Academy]]<br />[[Inkblot Art Academy]]
+| [[File:S2 Stage Kelp Dome.png|150px|link=Kelp Dome]]<br />[[Kelp Dome]]
+| [[File:S2 Stage Blackbelly Skatepark.png|150px|link=Blackbelly Skatepark]]<br />[[Blackbelly Skatepark]]
+|-
+| [[File:S2 Stage MakoMart.png|150px|link=MakoMart]]<br />[[MakoMart]]
+| [[File:S2 Stage Arowana Mall.png|150px|link=Arowana Mall]]<br />[[Arowana Mall]]
+| [[File:S2 Stage Wahoo World.png|150px|link=Wahoo World]]<br />[[Wahoo World]]
+| [[File:S2 Stage Ancho-V Games.png|150px|link=Ancho-V Games]]<br />[[Ancho-V Games]]
+|
+|}
+
+{| align="left" cellpadding="1px" style="background:#FFFFFF; text-align:center; border: 3px solid #F03C78; {{roundy}}
+|-
+! colspan="4"|Stages in [[File:Mode_Icon_Tower_Control.png|24px]] [[Tower Control]]
+|-
+| [[File:S2 Stage The Reef.png|150px|link=The Reef]]<br />[[The Reef]]
+| [[File:S2 Stage Moray Towers.png|150px|link=Moray Towers]]<br />[[Moray Towers]]
+| [[File:S2 Stage Blackbelly Skatepark.png|150px|link=Blackbelly Skatepark]]<br />[[Blackbelly Skatepark]]
+| [[File:S2 Stage Walleye Warehouse.png|150px|link=Walleye Warehouse]]<br />[[Walleye Warehouse]]
+|-
+| [[File:S2 Stage Goby Arena.png|150px|link=Goby Arena]]<br />[[Goby Arena]]
+| [[File:S2 Stage Piranha Pit.png|150px|link=Piranha Pit]]<br />[[Piranha Pit]]
+| [[File:S2 Stage Camp Triggerfish.png|150px|link=Camp Triggerfish]]<br />[[Camp Triggerfish]]
+| [[File:S2 Stage Skipper Pavilion.png|150px|link=Skipper Pavilion]]<br />[[Skipper Pavilion]]
+|
+|}
+
+{| align="left" cellpadding="1px" style="background:#FFFFFF; text-align:center; border: 3px solid #F03C78; {{roundy}}
+|-
+! colspan="4"|Stages in [[File:Mode_Icon_Rainmaker.png|24px]] [[Rainmaker]]
+|-
+| [[File:S2 Stage Musselforge Fitness.png|150px|link=Musselforge Fitness]]<br />[[Musselforge Fitness]]
+| [[File:S2 Stage Humpback Pump Track.png|150px|link=Humpback Pump Track]]<br />[[Humpback Pump Track]]
+| [[File:S2 Stage Inkblot Art Academy.png|150px|link=Inkblot Art Academy]]<br />[[Inkblot Art Academy]]
+| [[File:S2 Stage Manta Maria.png|150px|link=Manta Maria]]<br />[[Manta Maria]]
+|-
+| [[File:S2 Stage Kelp Dome.png|150px|link=Kelp Dome]]<br />[[Kelp Dome]]
+| [[File:S2 Stage Snapper Canal.png|150px|link=Snapper Canal]]<br />[[Snapper Canal]]
+| [[File:S2 Stage Shellendorf Institute.png|150px|link=Shellendorf Institute]]<br />[[Shellendorf Institute]]
+| [[File:S2 Stage Piranha Pit.png|150px|link=Piranha Pit]]<br />[[Piranha Pit]]
+|
+|}
+
+{| align="left" cellpadding="1px" style="background:#FFFFFF; text-align:center; border: 3px solid #F03C78; {{roundy}}
+|-
+! colspan="4"|Stages in [[File:Mode_Icon_Clam_Blitz.png|24px]] [[Clam Blitz]]
+|-
+| [[File:S2 Stage The Reef.png|150px|link=The Reef]]<br />[[The Reef]]
+| [[File:S2 Stage Humpback Pump Track.png|150px|link=Humpback Pump Track]]<br />[[Humpback Pump Track]]
+| [[File:S2 Stage Sturgeon Shipyard.png|150px|link=Sturgeon Shipyard]]<br />[[Sturgeon Shipyard]]
+| [[File:S2 Stage Port Mackerel.png|150px|link=Port Mackerel]]<br />[[Port Mackerel]]
+|-
+| [[File:S2 Stage Manta Maria.png|150px|link=Manta Maria]]<br />[[Manta Maria]]
+| [[File:S2 Stage MakoMart.png|150px|link=MakoMart]]<br />[[MakoMart]]
+| [[File:S2 Stage Wahoo World.png|150px|link=Wahoo World]]<br />[[Wahoo World]]
+| [[File:S2 Stage New Albacore Hotel.png|150px|link=New Albacore Hotel]]<br />[[New Albacore Hotel]]
+|
+|}
+{{-}}
+== Stages ==
+{| align="left" cellpadding="1px" style="background:#FFFFFF; text-align:center; border: 3px solid #F03C78; {{roundy}}
+|-
+! colspan="4"|Stages in [[File:Mode_Icon_Splat_Zones.png|24px]] [[Splat Zones]]
+|-
+== Stages ==
+{| align="left" cellpadding="1px" style="background:#FFFFFF; text-align:center; border: 3px solid #F03C78; {{roundy}}
+|-
+! colspan="4"|Stages in [[File:Mode_Icon_Splat_Zones.png|24px]] [[Splat Zones]]
+|-

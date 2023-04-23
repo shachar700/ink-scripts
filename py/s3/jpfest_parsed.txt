@@ -1,0 +1,203 @@
+{| class="wikitable sitecolor-s3 mw-collapsible mw-collapsed
+! Rank !! Name !! Power !! Weapon !! Title !! <br>Splashtag
+|-
+| 1 || RIG_れんたな <small>#1816</small> || 2907.5 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Legendary Sloshing Machine User || {{UserSplashtag|11049|Slosher 5|X Battle Top 10|Sloshing Machine 5}}
+|-
+| 2 || RE_Rus <small>#1225</small> || 2863.6 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Big Chosen One || {{UserSplashtag|11051|Cohozuna 10|Big Run Top 5 Percent|Big Shot 100}}
+|-
+| 3 || 　　ちょこぺろマン！ <small>#1289</small> || 2858.2 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Submersible Bug || {{UserSplashtag|11061|Forge Splattershot Pro 4|Splat Roller 4|X Battle Top 10}}
+|-
+| 4 || せいふうめいげつ <small>#7524</small> || 2845.9 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Legendary Agent 3 || {{UserSplashtag|800|Splash-o-matic 5|X Battle Top 500|Gone Fission Hydroplant 999}}
+|-
+| 5 || とどてゃ <small>#1173</small> || 2831.2 || [[File:S3 Weapon Main Squeezer Flat.png|24px|link=Squeezer]] [[Squeezer]] || Fluid Magician || {{UserSplashtag|912|Tricolor Defender 10|Tricolor Attacker 10}}
+|-
+| 6 || pt0sp <small>#2910</small> || 2829.1 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Groundbreaking Fisherfolk || {{UserSplashtag|11021|Crab Tank 1200|Rank S+|X Battle Top 10}}
+|-
+| 7 || xe <small>#1791</small> || 2827.5 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Splatlandian Youth || {{UserSplashtag|11003}}
+|-
+| 8 || IGZ_RiuKun <small>#2561</small> || 2819.8 || [[File:S3 Weapon Main Ballpoint Splatling Flat.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]] || Decade-Experienced Ballpoint Splatling User || {{UserSplashtag|11003|Splash-o-matic 5|Sloshing Machine 5|Crab Tank 1200}}
+|-
+| 9 || かれんちゃ´∀` <small>#1459</small> || 2817.2 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Overheated Imp || {{UserSplashtag|11004|Splash-o-matic 5|Neo Splash-o-matic 4|Spawning Grounds 999}}
+|-
+| 10 || こくしむそう <small>#2925</small> || 2815.9 || [[File:S3 Weapon Main Slosher Flat.png|24px|link=Slosher]] [[Slosher]] || Fortunate Heavy Splatling User || {{UserSplashtag|12001|Splatana Stamper 4|E-liter 4K 4|Splash-o-matic 4}}
+|-
+| 11 || あまぺろきゃんでぃ♪ <small>#3194</small> || 2814.9 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Front-Line Kid || {{UserSplashtag|11051|Big Run Top 20 Percent|Rank S|Tableturf Cards 120}}
+|-
+| 12 || TWPG_ひいらぎ <small>#3207</small> || 2796.7 || [[File:S3 Weapon Main Splattershot Flat.png|24px|link=Splattershot]] [[Splattershot]] || Fun Tableturf Battler || {{UserSplashtag|11051|Kraken Royale 180|Crab Tank 180|Trizooka 180}}
+|-
+| 13 || サンちゃん <small>#2201</small> || 2793.9 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || The Great Snowstorm || {{UserSplashtag|11010|Splash-o-matic 5|Splat Zones 1000}}
+|-
+| 14 || りな　Youtube <small>#1381</small> || 2785.1 || [[File:S3 Weapon Main Squeezer Flat.png|24px|link=Squeezer]] [[Squeezer]] || Arctic Ocean Jokester || {{UserSplashtag|10001}}
+|-
+| 15 || ホップソナーマン <small>#1034</small> || 2781.8 || [[File:S3 Weapon Main Ballpoint Splatling Flat.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]] || The Great Villain || {{UserSplashtag|912|Splat Zones 1000}}
+|-
+| 16 || ちゅうぴー <small>#2305</small> || 2781.8 || [[File:S3 Weapon Main Aerospray RG Flat.png|24px|link=Aerospray RG]] [[Aerospray RG]] || Sacred Otaku || {{UserSplashtag|911|Food 100|Shrimp Kicks 1M|Shoes 1M}}
+|-
+| 17 || オードリかすがだいP <small>#2525</small> || 2781.6 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Fluttering Beginner || {{UserSplashtag|1}}
+|-
+| 18 || DTN_メンしの <small>#2338</small> || 2779.5 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Wibbly-Wobbly Dog || {{UserSplashtag|11051|Jelly Fresh 100K|Shrimp Kicks 100K|Cooler Heads 100K}}
+|-
+| 19 || ku <small>#2864</small> || 2774.3 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Endangered Cat || {{UserSplashtag|11052|Turf War 250|Turf War 50}}
+|-
+| 20 || つきあかりのみなも <small>#1413</small> || 2770.4 || [[File:S3 Weapon Main Splatana Stamper Flat.png|24px|link=Splatana Stamper]] [[Splatana Stamper]] || Top-Ranked Ghost || {{UserSplashtag|911|Splatana Stamper 5|Big Run Top 5 Percent|Zipcaster 1200}}
+|-
+| 21 || メルム・ノクス <small>#8007</small> || 2770.4 || [[File:S3 Weapon Main Dynamo Roller Flat.png|24px|link=Dynamo Roller]] [[Dynamo Roller]] || Buoyant Cat || {{UserSplashtag|11002|Turf War 50|Turf War 250}}
+|-
+| 22 || ロットn..n <small>#2827</small> || 2769.4 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Soft-and-Fluffy Sis || {{UserSplashtag|11026}}
+|-
+| 23 || クイボぽいぽい <small>#9704</small> || 2767.1 || [[File:S3 Weapon Main Splattershot Jr. Flat.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]] || Limited-Edition Turf Warrior || {{UserSplashtag|1|Big Bubbler 30|Big Bubbler 180|Big Bubbler 1200}}
+|-
+| 24 || Sgg*はっち <small>#3232</small> || 2765.9 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Reliable Big Swig Roller User || {{UserSplashtag|2010|Crab Tank 1200|X Battle Top 500|Steelhead 10000}}
+|-
+| 25 || ごごちー('ω') <small>#1306</small> || 2759.3 || [[File:S3 Weapon Main H-3 Nozzlenose Flat.png|24px|link=H-3 Nozzlenose]] [[H-3 Nozzlenose]] || Pretty Good Booyah || {{UserSplashtag|11011|Level 30|Grizzco 10K|Level 50}}
+|-
+| 26 || るっと <small>#1603</small> || 2755.6 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Stale Salmon || {{UserSplashtag|11075|Splat Zones 1000|Booyah Bomb 1200|Big Run Top 5 Percent}}
+|-
+| 27 || かがみん　オピュレ <small>#3093</small> || 2755.2 || [[File:S3 Weapon Main Splatana Stamper Flat.png|24px|link=Splatana Stamper]] [[Splatana Stamper]] || 8-Tentacled Splatana Stamper User || {{UserSplashtag|11025|Zipcaster 1200|Splatana Stamper 5|Zipcaster 180}}
+|-
+| 28 || Sheeran <small>#4041</small> || 2749.5 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Snowy Squid || {{UserSplashtag|10003|.52 Gal 4|Takoroka 30|Clam Blitz 100}}
+|-
+| 29 || れーに <small>#1182</small> || 2748.3 || [[File:S3 Weapon Main Splattershot Flat.png|24px|link=Splattershot]] [[Splattershot]] || Growing Ink || {{UserSplashtag|800|Spawning Grounds 999|Trizooka 1200|Splattershot 5}}
+|-
+| 30 || かこけいのペン <small>#1870</small> || 2745.6 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Splatlandian Youth || {{UserSplashtag|11027}}
+|-
+| 31 || DFM_しぇるたん <small>#2734</small> || 2744.4 || [[File:S3 Weapon Main Splatana Stamper Flat.png|24px|link=Splatana Stamper]] [[Splatana Stamper]] || Sharp-Edged Singer || {{UserSplashtag|2101|Sloshing Machine 5|Zipcaster 180|Splatana Stamper 4}}
+|-
+| 32 || Snorunt <small>#1820</small> || 2744.1 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Cosmic Pack Leader || {{UserSplashtag|800}}
+|-
+| 33 || ゆりりたりっりたりん <small>#1974</small> || 2743.7 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Ambiguous Recollection || {{UserSplashtag|911|Z+F 30}}
+|-
+| 34 || かおちん <small>#1427</small> || 2743.6 || [[File:S3 Weapon Main Splattershot Jr. Flat.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]] || Slapdash Suction Bomb User || {{UserSplashtag|11033|Splat Zones 1000}}
+|-
+| 35 || shou <small>#1380</small> || 2741.7 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || The Real Ultimate Warrior || {{UserSplashtag|11054|Big Run Top 5 Percent|Splash-o-matic 5|Rank S+}}
+|-
+| 36 || ぼくさまくん <small>#2465</small> || 2741.7 || [[File:S3 Weapon Main Splatana Stamper Flat.png|24px|link=Splatana Stamper]] [[Splatana Stamper]] || Instantaneous Rice Bowl || {{UserSplashtag|2006|Splatana Stamper 5|Carbon Roller Deco 5}}
+|-
+| 37 || 20キルおとこ <small>#1054</small> || 2739.8 || [[File:S3 Weapon Main Dualie Squelchers Flat.png|24px|link=Dualie Squelchers]] [[Dualie Squelchers]] || Slippery Otaku || {{UserSplashtag|911|Wave Breaker 1200|Dualie Squelchers 5|Marooner's Bay 999}}
+|-
+| 38 || Abyss <small>#2488</small> || 2738.7 || [[File:S3 Weapon Main Ballpoint Splatling Flat.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]] || Splatlandian Youth || {{UserSplashtag|1|Ballpoint Splatling 4}}
+|-
+| 39 || ny <small>#2822</small> || 2737.5 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Mischievous Boy || {{UserSplashtag|11026|Marooner's Bay 999}}
+|-
+| 40 || みけむら <small>#7545</small> || 2731.9 || [[File:S3 Weapon Main Custom Splattershot Jr. Flat.png|24px|link=Custom Splattershot Jr.]] [[Custom Splattershot Jr.]] || Mysterious Avocado Roll || {{UserSplashtag|2104|Turf War 250|X Battle Top 500|Tableturf Cards 120}}
+|-
+| 41 || ゆきおとこのベイたけ <small>#2687</small> || 2730.1 || [[File:S3 Weapon Main Bamboozler 14 Mk I Flat.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]] || Enigmatic Prime Cut || {{UserSplashtag|11026|X Battle Top 500|Bamboozler 14 Mk I 5|Big Run Top 5 Percent}}
+|-
+| 42 || ホクサイヒュー…? <small>#2921</small> || 2728 || [[File:S3 Weapon Main Octobrush Flat.png|24px|link=Octobrush]] [[Octobrush]] || Splatlandian Youth || {{UserSplashtag|1}}
+|-
+| 43 || あ <small>#14287</small> || 2727.8 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Sleepy Princess || {{UserSplashtag|10001|Splash-o-matic 5|X Battle Top 500|Rockenberg 30}}
+|-
+| 44 || かえむら <small>#1349</small> || 2726.5 || [[File:S3 Weapon Main Explosher Flat.png|24px|link=Explosher]] [[Explosher]] || Legit Pauper || {{UserSplashtag|10001|Explosher 5|Turf War 1200|Range Blaster 5}}
+|-
+| 45 || つきこ <small>#3711</small> || 2723.5 || [[File:S3 Weapon Main N-ZAP '85 Flat.png|24px|link=N-ZAP '85]] [[N-ZAP '85]] || Sleepy Fashionista || {{UserSplashtag|11071|Tacticooler 1200|Splash-o-matic 5|N-ZAP '85 5}}
+|-
+| 46 || ツルツルペンギン <small>#1660</small> || 2717.8 || [[File:S3 Weapon Main Bamboozler 14 Mk I Flat.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]] || Mahi-Mahi Resort Killer Wail 5.1 User || {{UserSplashtag|11003|Forge 100|Bamboozler 14 Mk I 5|Flyfish 10000}}
+|-
+| 47 || ふぁにゃ～ <small>#9209</small> || 2717.4 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || The Strongest Object of Affection || {{UserSplashtag|11053|Big Run Top 5 Percent|Tableturf Rank 50|Rank S+}}
+|-
+| 48 || うし"うし" <small>#1284</small> || 2716.5 || [[File:S3 Weapon Main Dark Tetra Dualies Flat.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]] || Partying Shark || {{UserSplashtag|11004|Dark Tetra Dualies 5|Clothing 1M}}
+|-
+| 49 || ゆめみてるVT <small>#2099</small> || 2714.6 || [[File:S3 Weapon Main Aerospray RG Flat.png|24px|link=Aerospray RG]] [[Aerospray RG]] || Grown-Up Bowl Cut || {{UserSplashtag|11081|Gone Fission Hydroplant 999|Spawning Grounds 999|Sockeye Station 999}}
+|-
+| 50 || れんたなきっず♭ <small>#6380</small> || 2706.9 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Confident Splash-o-matic User || {{UserSplashtag|911|Turf War 1200|Splash-o-matic 5|Shell-Out Machine 3M}}
+|-
+| 51 || しいな まひる <small>#3019</small> || 2706.3 || [[File:S3 Weapon Main Splattershot Jr. Flat.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]] || Super-Rare Splattershot Jr. User || {{UserSplashtag|11047|Big Bubbler 1200|Splattershot Jr. 5|Squeezer 5}}
+|-
+| 52 || VX_Ņīþãħ¿ω <small>#4789</small> || 2704.7 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Meditative Viewer || {{UserSplashtag|10003|Nautilus 47 5|X Battle Top 500|Tableturf Cards 150}}
+|-
+| 53 || キンいろタマしい <small>#5468</small> || 2701.9 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Decade-Experienced Bug || {{UserSplashtag|10002|Rank S+|Catalog 100|Shoes 1M}}
+|-
+| 54 || Nack <small>#8381</small> || 2701.4 || [[File:S3 Weapon Main L-3 Nozzlenose Flat.png|24px|link=L-3 Nozzlenose]] [[L-3 Nozzlenose]] || Endangered Teacher || {{UserSplashtag|11062|L-3 Nozzlenose 4|Splat Zones 100}}
+|-
+| 55 || ドブプライマー <small>#7134</small> || 2700.9 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Self-Identified Bug || {{UserSplashtag|11033|Forge Splattershot Pro 5}}
+|-
+| 56 || かふちゃん♪ <small>#5425</small> || 2700.3 || [[File:S3 Weapon Main L-3 Nozzlenose D Flat.png|24px|link=L-3 Nozzlenose D]] [[L-3 Nozzlenose D]] || Spring-Fresh L-3 Nozzlenose User || {{UserSplashtag|11021|Drizzler 100|L-3 Nozzlenose D 4|Cooler Heads 100K}}
+|-
+| 57 || おこもちやき <small>#1424</small> || 2698.9 || [[File:S3 Weapon Main Nautilus 47 Flat.png|24px|link=Nautilus 47]] [[Nautilus 47]] || Incandescent Magician || {{UserSplashtag|11059}}
+|-
+| 58 || 【すもぐりりょうし】 <small>#3117</small> || 2698 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Diving President || {{UserSplashtag|11051|Rank S+|Sloshing Machine 4}}
+|-
+| 59 || Я hal R <small>#4219</small> || 2695.8 || [[File:S3 Weapon Main Splat Dualies Flat.png|24px|link=Splat Dualies]] [[Splat Dualies]] || Fully Turtle || {{UserSplashtag|10002|Crab Tank 180|Splash-o-matic 5|Booyah Bomb 180}}
+|-
+| 60 || ねるねるねるあ <small>#3061</small> || 2694.2 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Arctic Ocean Hothead || {{UserSplashtag|11008|Food 100|Shrimp Kicks 100K|Turf War 250}}
+|-
+| 61 || ギャグまじん <small>#7695</small> || 2692.9 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Growing Fisherfolk || {{UserSplashtag|2006|Glooga Dualies 5|X Battle Top 500|Inkjet 30}}
+|-
+| 62 || ふるかわ <small>#1267</small> || 2692.7 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Country-Born Fisherfolk || {{UserSplashtag|11008|Marooner's Bay 999|Spawning Grounds 999|Sockeye Station 999}}
+|-
+| 63 || ロキシーかわいい <small>#2560</small> || 2692.4 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Childish Paradigm || {{UserSplashtag|10003|Crab Tank 30|Slosher 4|X Battle Top 500}}
+|-
+| 64 || えすてるみぃ <small>#3163</small> || 2691.1 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Splatlandian Youth || {{UserSplashtag|1}}
+|-
+| 65 || へたすぎてなえてます <small>#1682</small> || 2690 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Crusty Cat || {{UserSplashtag|1|Mr. Grizz}}
+|-
+| 66 || <nowiki>　ようちゃεïз~*</nowiki> <small>#9319</small> || 2689.6 || [[File:S3 Weapon Main Flingza Roller Flat.png|24px|link=Flingza Roller]] [[Flingza Roller]] || Painted Big Brother || {{UserSplashtag|10002|Flingza Roller 5|Tenta Missiles 1200|Splat Zones 1000}}
+|-
+| 67 || ヴェロア <small>#1336</small> || 2687.4 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Mysterious Viewer || {{UserSplashtag|11078|Trizooka 1200|Spawning Grounds 999|Splattershot 5}}
+|-
+| 68 || やましたしづきおし <small>#1771</small> || 2686.9 || [[File:S3 Weapon Main Heavy Splatling Flat.png|24px|link=Heavy Splatling]] [[Heavy Splatling]] || Beloved Pop Star || {{UserSplashtag|11016}}
+|-
+| 69 || なと³ <small>#2709</small> || 2686.6 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Ultra Ultra Stamp User || {{UserSplashtag|10002|Horrorboros 10|Big Shot 1000|Marooner's Bay 999}}
+|-
+| 70 || ストロベリーボーイ♀ <small>#1959</small> || 2685.4 || [[File:S3 Weapon Main Inkbrush Flat.png|24px|link=Inkbrush]] [[Inkbrush]] || First-Wave Range Blaster User || {{UserSplashtag|1}}
+|-
+| 71 || バナージ <small>#3209</small> || 2685 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Unperceived E-liter 4K User || {{UserSplashtag|11021|Kraken Royale 30}}
+|-
+| 72 || 　　　　　んー？ <small>#3187</small> || 2685 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || High-Tide Big Sister || {{UserSplashtag|11003}}
+|-
+| 73 || JP <small>#6340</small> || 2684.9 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Late-Night Equation || {{UserSplashtag|11040|Splat Zones 1000}}
+|-
+| 74 || ばななごはんα <small>#6086</small> || 2684.4 || [[File:S3 Weapon Main Tentatek Splattershot Flat.png|24px|link=Tentatek Splattershot]] [[Tentatek Splattershot]] || Lifelong Sprinkler User || {{UserSplashtag|1002|Splat Zones 1000|Splattershot 5|Tentatek Splattershot 5}}
+|-
+| 75 || KW2 MY Alt <small>#2063</small> || 2683.7 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || One-in-a-Million Chosen One || {{UserSplashtag|1|Splattershot 5|Trizooka 1200|Tentatek Splattershot 5}}
+|-
+| 76 || BTS_カヒョン <small>#1273</small> || 2683.1 || [[File:S3 Weapon Main Splatana Stamper Flat.png|24px|link=Splatana Stamper]] [[Splatana Stamper]] || Jet-Black Legendary Warrior || {{UserSplashtag|10003|Splat Zones 1000|Carbon Roller Deco 5|Splatana Stamper 5}}
+|-
+| 77 || くろる <small>#1680</small> || 2682.9 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Floaty Tempura || {{UserSplashtag|800|Ultra Stamp 180|Reefslider 180|Big Run Top 5 Percent}}
+|-
+| 78 ||      ///// <small>#3015</small> || 2682.3 || [[File:S3 Weapon Main Slosher Flat.png|24px|link=Slosher]] [[Slosher]] || Super-Duper Lucky Egg || {{UserSplashtag|10003|Slosher 5|Shrimp Kicks 100K|Triple Inkstrike 1200}}
+|-
+| 79 || すべてにかんしゃ <small>#2303</small> || 2681.5 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Legit Booyah || {{UserSplashtag|11037}}
+|-
+| 80 || bari <small>#2159</small> || 2680.8 || [[File:S3 Weapon Main Ballpoint Splatling Flat.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]] || 100% Cold Chill || {{UserSplashtag|11026|Sockeye Station 200|Gone Fission Hydroplant 200|Spawning Grounds 200}}
+|-
+| 81 || いわみまなか <small>#1982</small> || 2680.7 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Toon-Lovin' Otaku || {{UserSplashtag|11031}}
+|-
+| 82 || あんぽぴゅ♪ぜる <small>#1388</small> || 2680.4 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || The Duke || {{UserSplashtag|11068|Turf War 1200|Crab Tank 1200|Splat Zones 1000}}
+|-
+| 83 || なのぴこ <small>#9327</small> || 2680.2 || [[File:S3 Weapon Main Splatana Wiper Flat.png|24px|link=Splatana Wiper]] [[Splatana Wiper]] || Growing Driver || {{UserSplashtag|11071|Forge 100}}
+|-
+| 84 || りっちゃんママ <small>#1582</small> || 2679.7 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Splatlandian Youth || {{UserSplashtag|1}}
+|-
+| 85 || rinねてんせい <small>#6609</small> || 2679 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Enlightened Sloshing Machine User || {{UserSplashtag|11067|Triple Inkstrike 30|Slosher 5|Triple Inkstrike 180}}
+|-
+| 86 || ふうりんのねいろ <small>#5901</small> || 2678.1 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Soft-and-Fluffy Splattershot Jr. User || {{UserSplashtag|11066|Luna Blaster 5|Splattershot Jr. 5|Luna Blaster Neo 5}}
+|-
+| 87 || おおきなこいっしー <small>#2665</small> || 2677.8 || [[File:S3 Weapon Main Range Blaster Flat.png|24px|link=Range Blaster]] [[Range Blaster]] || Eternity's Firecracker || {{UserSplashtag|11033|Grizzco 100K|X Battle Top 500|Tableturf Cards 120}}
+|-
+| 88 || ああw <small>#2646</small> || 2677.6 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Eternity's Challenger || {{UserSplashtag|11080}}
+|-
+| 89 || viceplina <small>#1439</small> || 2677.1 || [[File:S3 Weapon Main .52 Gal Flat.png|24px|link=.52 Gal]] [[.52 Gal]] || Zipped-Lips Bifocal Wearer || {{UserSplashtag|11027}}
+|-
+| 90 || おくば <small>#2268</small> || 2675.6 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Pitch-Black Bowl Cut || {{UserSplashtag|11012|Zekko 30}}
+|-
+| 91 || xliskカゼ <small>#1098</small> || 2675.1 || [[File:S3 Weapon Main .52 Gal Flat.png|24px|link=.52 Gal]] [[.52 Gal]] || Pro Target || {{UserSplashtag|11025|Triple Inkstrike 180|Slosher 4|Gone Fission Hydroplant 999}}
+|-
+| 92 || さくらんぼちょーけん <small>#2533</small> || 2674.8 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Lifelong Angel || {{UserSplashtag|11005|Crab Tank 1200|Splat Zones 1000|Slosher 5}}
+|-
+| 93 || フグ, <small>#1888</small> || 2673 || [[File:S3 Weapon Main Aerospray MG Flat.png|24px|link=Aerospray MG]] [[Aerospray MG]] || Auspicious Snowperson || {{UserSplashtag|11025}}
+|-
+| 94 || ねるねるねるね <small>#2996</small> || 2672 || [[File:S3 Weapon Main Sloshing Machine Flat.png|24px|link=Sloshing Machine]] [[Sloshing Machine]] || Evil Life || {{UserSplashtag|11051|Splat Zones 100|Zipcaster 30|Splatana Stamper 4}}
+|-
+| 95 || PG_ぱいなぽ～ <small>#2717</small> || 2671.5 || [[File:S3 Weapon Main Neo Splash-o-matic Flat.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]] || Optimistic Range Blaster User || {{UserSplashtag|11045|Wave Breaker 1200|Big Run Top 5 Percent|Range Blaster 5}}
+|-
+| 96 || スカートだいすき <small>#2026</small> || 2671.5 || [[File:S3 Weapon Main Splash-o-matic Flat.png|24px|link=Splash-o-matic]] [[Splash-o-matic]] || Endangered Protected Species || {{UserSplashtag|911|Splat Zones 1000|X Battle Top 500|Crab Tank 1200}}
+|-
+| 97 || いなーちゅーん <small>#2207</small> || 2671.3 || [[File:S3 Weapon Main Nautilus 47 Flat.png|24px|link=Nautilus 47]] [[Nautilus 47]] || Swoon-Worthy Pop Star || {{UserSplashtag|911|Food 100|Steelhead 1000|Ultra Stamp 180}}
+|-
+| 98 || いめ <small>#1732</small> || 2670.4 || [[File:S3 Weapon Main N-ZAP '89 Flat.png|24px|link=N-ZAP '89]] [[N-ZAP '89]] || Evil Mood || {{UserSplashtag|11017|N-ZAP '89 4|Cohozuna 1000|Horrorboros 100}}
+|-
+| 99 || いりごま <small>#8614</small> || 2670 || [[File:S3 Weapon Main Slosher Flat.png|24px|link=Slosher]] [[Slosher]] || Soft-and-Fluffy Legend || {{UserSplashtag|800|Food 1000|Slosher 5|Tri-Slosher Nouveau 5}}
+|-
+| 100 || たにしげ <small>#1134</small> || 2669.5 || [[File:S3 Weapon Main N-ZAP '85 Flat.png|24px|link=N-ZAP '85]] [[N-ZAP '85]] || Splatlandian Youth || {{UserSplashtag|1}}
+|}

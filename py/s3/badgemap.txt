@@ -1,0 +1,385 @@
+3102000:Catalog 50
+3102001:Catalog 100
+5210000:Cohozuna 10
+5210001:Cohozuna 100
+5210002:Cohozuna 1000
+5110000:Max Hazard Level
+5000070:Gone Fission Hydroplant 200
+5000071:Gone Fission Hydroplant 400
+5000072:Gone Fission Hydroplant 600
+5000073:Gone Fission Hydroplant 999
+5000020:Sockeye Station 200
+5000021:Sockeye Station 400
+5000022:Sockeye Station 600
+5000023:Sockeye Station 999
+5000010:Spawning Grounds 200
+5000011:Spawning Grounds 400
+5000012:Spawning Grounds 600
+5000013:Spawning Grounds 999
+5200100:Big Shot 100
+5200101:Big Shot 1000
+5200102:Big Shot 10000
+5200080:Flipper-Flopper 100
+5200081:Flipper-Flopper 1000
+5200082:Flipper-Flopper 10000
+5200070:Fish Stick 100
+5200071:Fish Stick 1000
+5200072:Fish Stick 10000
+5200090:Slammin' Lid 100
+5200091:Slammin' Lid 100
+5200092:Slammin' Lid 100
+5200040:Maws 100
+5200041:Maws 1000
+5200042:Maws 10000
+5200000:Steelhead 100
+5200001:Steelhead 1000
+5200002:Steelhead 10000
+5200060:Flyfish 100
+5200061:Flyfish 1000
+5200062:Flyfish 10000
+5200020:Scrapper 100
+5200021:Scrapper 1000
+5200022:Scrapper 10000
+5200010:Steel Eel 100
+5200011:Steel Eel 1000
+5200012:Steel Eel 10000
+5200030:Stinger 100
+5200031:Stinger 1000
+5200032:Stinger 10000
+5200050:Drizzler 100
+5200051:Drizzler 1000
+5200052:Drizzler 10000
+3103001:Ruler of Splatfest
+4000000:SquidForce 30
+4000001:SquidForce 100
+4000010:Zink 30
+4000011:Zink 100
+4000020:Krak-On 30
+4000021:Krak-On 100
+4000030:Rockenberg 30
+4000031:Rockenberg 100
+4000040:Zekko 30
+4000041:Zekko 100
+4000050:Forge 30
+4000051:Forge 100
+4000060:Firefin 30
+4000061:Firefin 100
+4000070:Skalop 30
+4000071:Skalop 100
+4000080:Splash Mob 30
+4000081:Splash Mob 100
+4000090:Inkline 30
+4000091:Inkline 100
+4000100:Tentatek 30
+4000101:Tentatek 100
+4000110:Takoroka 30
+4000111:Takoroka 100
+4000150:Annaki 30
+4000151:Annaki 100
+4000160:Enperry 30
+4000161:Enperry 100
+4000170:Toni Kensa 30
+4000171:Toni Kensa 100
+4000190:Barazushi 30
+4000191:Barazushi 100
+4000200:Emberz 30
+4000201:Emberz 100
+6000000:DJ Octavio
+6000001:Cuttlefish
+6000002:Callie
+6000003:Marie
+6000004:Mr. Grizz
+7000100:Tableturf Cards 90
+7000101:Tableturf Cards 120
+7000102:Tableturf Cards 150
+7000000:Tableturf Rank 30
+7000001:Tableturf Rank 40
+7000002:Tableturf Rank 50
+7000200:Tableturf Level 3
+4100500:Food 10
+4100501:Food 100
+4100502:Food 1000
+4100400:Order 10
+4100401:Order 100
+4100100:Clothing 100K
+4100101:Clothing 1M
+4100300:Locker 100K
+4100301:Locker 1M
+4100000:Headgear 100K
+4100001:Headgear 1M
+4100200:Shoes 100K
+4100201:Shoes 1M
+5100000:Grizzco 10K
+5100001:Grizzco 100K
+5100002:Grizzco 10M
+3100000:Rank A
+3100001:Rank S
+3100002:Rank S+
+1002500:Rapid Blaster Pro 4
+1002501:Rapid Blaster Pro 5
+1002300:Clash Blaster 4
+1002301:Clash Blaster 5
+1002400:Rapid Blaster 4
+1002401:Rapid Blaster 5
+1002200:Range Blaster 4
+1002201:Range Blaster 5
+1002100:Blaster 4
+1002101:Blaster 5
+1002000:Luna Blaster 4
+1002001:Luna Blaster 5
+1011000:Inkbrush 4
+1011001:Inkbrush 5
+1011100:Octobrush 4
+1011101:Octobrush 5
+1020600:Goo Tuber 4
+1020601:Goo Tuber 5
+1020500:Bamboozler 14 Mk I 4
+1020501:Bamboozler 14 Mk I 5
+1020400:E-liter 4K Scope 4
+1020401:E-liter 4K Scope 5
+1020300:E-liter 4K 4
+1020301:E-liter 4K 5
+1020200:Splatterscope 4
+1020201:Splatterscope 5
+1020100:Splat Charger 4
+1020101:Splat Charger 5
+1020000:Classic Squiffer 4
+1020001:Classic Squiffer 5
+1050300:Dualie Squelchers 4
+1050301:Dualie Squelchers 5
+1050200:Glooga Dualies 4
+1050201:Glooga Dualies 5
+1050100:Splat Dualies 4
+1050101:Splat Dualies 5
+1050000:Dapple Dualies 4
+1050001:Dapple Dualies 5
+1050400:Dark Tetra Dualies 4
+1050401:Dark Tetra Dualies 5
+1010000:Carbon Roller 4
+1010001:Carbon Roller 5
+1010200:Dynamo Roller 4
+1010201:Dynamo Roller 5
+1010300:Flingza Roller 4
+1010301:Flingza Roller 5
+1010100:Splat Roller 4
+1010101:Splat Roller 5
+1080100:Splatana Wiper 4
+1080101:Splatana Wiper 5
+1080000:Splatana Stamper 4
+1080001:Splatana Stamper 5
+1060200:Undercover Brella 4
+1060201:Undercover Brella 5
+1060000:Splat Brella 4
+1060001:Splat Brella 5
+1060100:Tenta Brella 4
+1060101:Tenta Brella 5
+1000300:Aerospray MG 4
+1000301:Aerospray MG 5
+1000700:Splattershot Pro 4
+1000701:Splattershot Pro 5
+1000100:Splattershot Jr. 4
+1000101:Splattershot Jr. 5
+1004000:Squeezer 4
+1004001:Squeezer 5
+1000500:.52 Gal 4
+1000501:.52 Gal 5
+1000800:.96 Gal 4
+1000801:.96 Gal 5
+1000900:Jet Squelcher 4
+1000901:Jet Squelcher 5
+1000400:Splattershot 4
+1000401:Splattershot 5
+1000450:Hero Shot Replica 4
+1000451:Hero Shot Replica 5
+1000200:Splash-o-matic 4
+1000201:Splash-o-matic 5
+1000600:N-ZAP '85 4
+1000601:N-ZAP '85 5
+1000000:Sploosh-o-matic 4
+1000001:Sploosh-o-matic 5
+1003100:H-3 Nozzlenose 4
+1003101:H-3 Nozzlenose 5
+1003000:L-3 Nozzlenose 4
+1003001:L-3 Nozzlenose 5
+1030300:Bloblobber 4
+1030301:Bloblobber 5
+1030100:Tri-Slosher 4
+1030101:Tri-Slosher 5
+1030200:Sloshing Machine 4
+1030201:Sloshing Machine 5
+1030000:Slosher 4
+1030001:Slosher 5
+1030400:Explosher 4
+1030401:Explosher 5
+1040300:Ballpoint Splatling 4
+1040301:Ballpoint Splatling 5
+1040200:Hydra Splatling 4
+1040201:Hydra Splatling 5
+1040000:Mini Splatling 4
+1040001:Mini Splatling 5
+1040400:Nautilus 47 4
+1040401:Nautilus 47 5
+1040100:Heavy Splatling 4
+1040101:Heavy Splatling 5
+1070100:Tri-Stringer 4
+1070101:Tri-Stringer 5
+1070200:REEF-LUX 450 4
+1070201:REEF-LUX 450 5
+3000000:Turf War 50
+3000001:Turf War 250
+3000002:Turf War 1200
+3001000:Tricolor Attacker 1
+3001001:Tricolor Attacker 10
+3002000:Tricolor Defender 1
+3002001:Tricolor Defender 10
+3000100:Splat Zones 100
+3000101:Splat Zones 1000
+3000400:Clam Blitz 100
+3000401:Clam Blitz 1000
+3000300:Rainmaker 100
+3000301:Rainmaker 1000
+3000200:Tower Control 100
+3000201:Tower Control 1000
+2000080:Ink Vac 30
+2000081:Ink Vac 180
+2000082:Ink Vac 1200
+2000120:Crab Tank 30
+2000121:Crab Tank 180
+2000122:Crab Tank 1200
+2000150:Tacticooler 30
+2000151:Tacticooler 180
+2000152:Tacticooler 1200
+2000020:Big Bubbler 30
+2000021:Big Bubbler 180
+2000022:Big Bubbler 1200
+2000050:Ink Storm 30
+2000051:Ink Storm 180
+2000052:Ink Storm 1200
+2000100:Inkjet 30
+2000101:Inkjet 180
+2000102:Inkjet 1200
+2000090:Killer Wail 5.1 30
+2000091:Killer Wail 5.1 180
+2000092:Killer Wail 5.1 1200
+2000040:Tenta Missiles 30
+2000041:Tenta Missiles 180
+2000042:Tenta Missiles 1200
+2000060:Booyah Bomb 30
+2000061:Booyah Bomb 180
+2000062:Booyah Bomb 1200
+2000070:Wave Breaker 30
+2000071:Wave Breaker 180
+2000072:Wave Breaker 1200
+2000130:Reefslider 30
+2000131:Reefslider 180
+2000132:Reefslider 1200
+2000030:Zipcaster 30
+2000031:Zipcaster 180
+2000032:Zipcaster 1200
+2000140:Triple Inkstrike 30
+2000141:Triple Inkstrike 180
+2000142:Triple Inkstrike 1200
+2000010:Trizooka 30
+2000011:Trizooka 180
+2000012:Trizooka 1200
+2000110:Ultra Stamp 30
+2000111:Ultra Stamp 180
+2000112:Ultra Stamp 1200
+5220000:Big Run Top 50 Percent
+5220001:Big Run Top 20 Percent
+5220002:Big Run Top 5 Percent
+5000060:Marooner's Bay 200
+5000061:Marooner's Bay 400
+5000062:Marooner's Bay 600
+5000063:Marooner's Bay 999
+4100700:Shell-Out Machine Jackpot 4
+4100701:Shell-Out Machine Jackpot 8
+4100702:Shell-Out Machine Jackpot 16
+4100600:Shell-Out Machine 300K
+4100601:Shell-Out Machine 3M
+4100602:Shell-Out Machine 30M
+1002010:Luna Blaster Neo 4
+1002011:Luna Blaster Neo 5
+1011010:Inkbrush Nouveau 4
+1011011:Inkbrush Nouveau 5
+1020700:Snipewriter 5H 4
+1020701:Snipewriter 5H 5
+1050010:Dapple Dualies Nouveau 4
+1050011:Dapple Dualies Nouveau 5
+1010010:Carbon Roller Deco 4
+1010011:Carbon Roller Deco 5
+1010400:Big Swig Roller 4
+1010401:Big Swig Roller 5
+1000310:Aerospray RG 4
+1000311:Aerospray RG 5
+1000710:Forge Splattershot Pro 4
+1000711:Forge Splattershot Pro 5
+1000110:Custom Splattershot Jr. 4
+1000111:Custom Splattershot Jr. 5
+1000410:Tentatek Splattershot 4
+1000411:Tentatek Splattershot 5
+1001000:Splattershot Nova 4
+1001001:Splattershot Nova 5
+1030010:Slosher Deco 4
+1030011:Slosher Deco 5
+1040010:Zink Mini Splatling 4
+1040011:Zink Mini Splatling 5
+5210100:Horrorboros 10
+5210101:Horrorboros 100
+5210102:Horrorboros 1000
+5230000:Eggstra Work Top 50 Percent
+5230001:Eggstra Work Top 20 Percent
+5230002:Eggstra Work Top 5 Percent
+4000180:Z+F 30
+4000181:Z+F 100
+4100410:Spyke 10
+4100411:Spyke 100
+4100800:Level 30
+4100801:Level 50
+4100802:Level 100
+4100803:Level 200
+4100804:Level 300
+4100805:Level 400
+4100806:Level 500
+4100807:Level 600
+4100808:Level 700
+4100809:Level 800
+4100810:Level 900
+4100811:Level 999
+4100110:Jelly Fresh 100K
+4100111:Jelly Fresh 1M
+4100010:Cooler Heads 100K
+4100011:Cooler Heads 1M
+4100210:Shrimp Kicks 100K
+4100211:Shrimp Kicks 1M
+1002310:Clash Blaster Neo 4
+1002311:Clash Blaster Neo 5
+1002410:Rapid Blaster Deco 4
+1002411:Rapid Blaster Deco 5
+1020210:Z+F Splatterscope 4
+1020211:Z+F Splatterscope 5
+1010110:Krak-On Splat Roller 4
+1010111:Krak-On Splat Roller 5
+1000810:.96 Gal Deco 4
+1000811:.96 Gal Deco 5
+1000910:Custom Jet Squelcher 4
+1000911:Custom Jet Squelcher 5
+1000210:Neo Splash-o-matic 4
+1000211:Neo Splash-o-matic 5
+1000610:N-ZAP '89 4
+1000611:N-ZAP '89 5
+1000010:Neo Sploosh-o-matic 4
+1000011:Neo Sploosh-o-matic 5
+1003010:L-3 Nozzlenose D 4
+1003011:L-3 Nozzlenose D 5
+1030110:Tri-Slosher Nouveau 4
+1030111:Tri-Slosher Nouveau 5
+2000170:Kraken Royale 30
+2000171:Kraken Royale 180
+2000172:Kraken Royale 1200
+2000160:Super Chump 30
+2000161:Super Chump 180
+2000162:Super Chump 1200
+3101000:X Battle Top 3000
+3101001:X Battle Top 500
+3101002:X Battle Top 10
