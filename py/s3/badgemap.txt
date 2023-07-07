@@ -383,3 +383,42 @@
 3101000:X Battle Top 3000
 3101001:X Battle Top 500
 3101002:X Battle Top 10
+5000080:Jammin' Salmon Junction 200
+5000081:Jammin' Salmon Junction 400
+5000082:Jammin' Salmon Junction 600
+5000083:Jammin' Salmon Junction 999
+3101500:Challenge Top 50
+3101501:Challenge Top 20
+3101502:Challenge Top 5
+7000003:Tableturf Rank 100
+7000004:Tableturf Rank 200
+7000005:Tableturf Rank 300
+7000006:Tableturf Rank 400
+7000007:Tableturf Rank 500
+7000008:Tableturf Rank 600
+7000009:Tableturf Rank 700
+7000010:Tableturf Rank 800
+7000011:Tableturf Rank 900
+7000012:Tableturf Rank 999
+1011200:Painbrush 4
+1011201:Painbrush 5
+1002600:S-BLAST '92 4
+1002601:S-BLAST '92 5
+1060110:Tenta Sorella Brella 4
+1060111:Tenta Sorella Brella 5
+1050310:Custom Dualie Squelchers 4
+1050311:Custom Dualie Squelchers 5
+1050410:Light Tetra Dualies 4
+1050411:Light Tetra Dualies 5
+1040110:Heavy Splatling Deco 4
+1040111:Heavy Splatling Deco 5
+1003110:H-3 Nozzlenose D 4
+1003111:H-3 Nozzlenose D 5
+1002510:Rapid Blaster Pro Deco 4
+1002511:Rapid Blaster Pro Deco 5
+1080110:Splatana Wiper Deco 4
+1080111:Splatana Wiper Deco 5
+1001010:Annaki Splattershot Nova 4
+1001011:Annaki Splattershot Nova 5
+1010410:Big Swig Roller Express 4
+1010411:Big Swig Roller Express 5

@@ -572,3 +572,4 @@ VR: Virtual
 サクサクの: Streamlined
 ストリート系: Swaggy
 ナンプラー遺跡の: Um'ami Ruins		
+引きが強い: Ace
