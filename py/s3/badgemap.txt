@@ -387,9 +387,9 @@
 5000081:Jammin' Salmon Junction 400
 5000082:Jammin' Salmon Junction 600
 5000083:Jammin' Salmon Junction 999
-3101500:Challenge Top 50
-3101501:Challenge Top 20
-3101502:Challenge Top 5
+3101500:Challenge Top 50 Percent
+3101501:Challenge Top 20 Percent
+3101502:Challenge Top 5 Percent
 7000003:Tableturf Rank 100
 7000004:Tableturf Rank 200
 7000005:Tableturf Rank 300
@@ -422,3 +422,4 @@
 1001011:Annaki Splattershot Nova 5
 1010410:Big Swig Roller Express 4
 1010411:Big Swig Roller Express 5
+empty:empty
