@@ -7,6 +7,7 @@
  * @author Prod (http://www.strategywiki.org/wiki/User:Prod)
  * @author GuyPerfect ()
  * @author Shahar ()
+ * @author Inkrid ()
  */
 
 // not a valid entry point
@@ -193,67 +194,82 @@ class StrategyWikiSplatoonRotation {
 	}
 
 	public static function INK3BattleRender( $input, array $args, Parser $parser, PPFrame $frame ) {
-		$markup = self::fetch3('schedules');
-		if ($markup == null) {
-			return array( "Could not fetch schedule data from SplatNet." );
-		}
-
-		$now = new DateTime( "now", new DateTimeZone("UTC") );
-		$now = $now->format( "M d H:i" );
-
-		$schedules = json_decode($markup);
-		// Processes markup to extract the schedule information
-
-		if ($schedules->data->regularSchedules->nodes[0]->regularMatchSetting !== null and $schedules->data->regularSchedules->nodes[1]->regularMatchSetting !== null ){
-			$outputPreparse  = "{{S3Schedule/Battle\n";
-
-			for ($i = 0; $i < 2; $i++) {
-				//Regular Battle
-				$outputPreparse .= "|" . $schedules->data->regularSchedules->nodes[$i]->regularMatchSetting->vsRule->name;
-				$outputPreparse .= "|" . $schedules->data->regularSchedules->nodes[$i]->regularMatchSetting->vsStages[0]->name;
-				$outputPreparse .= "|" . $schedules->data->regularSchedules->nodes[$i]->regularMatchSetting->vsStages[1]->name . "\n";
-
-				//Anarchy
-				$outputPreparse .= "|" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[0]->vsRule->name;
-				$outputPreparse .= "|" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[0]->vsStages[0]->name;
-				$outputPreparse .= "|" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[0]->vsStages[1]->name . "\n";
-				$outputPreparse .= "|" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[1]->vsRule->name;
-				$outputPreparse .= "|" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[1]->vsStages[0]->name;
-				$outputPreparse .= "|" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[1]->vsStages[1]->name . "\n";
-
-				//X Battle
-				$outputPreparse .= "|" . $schedules->data->xSchedules->nodes[$i]->xMatchSetting->vsRule->name;
-				$outputPreparse .= "|" . $schedules->data->xSchedules->nodes[$i]->xMatchSetting->vsStages[0]->name;
-				$outputPreparse .= "|" . $schedules->data->xSchedules->nodes[$i]->xMatchSetting->vsStages[1]->name . "\n";
-
-				//League Battle
-				$outputPreparse .= "|" . $schedules->data->leagueSchedules->nodes[$i]->leagueMatchSetting->vsRule->name;
-				$outputPreparse .= "|" . $schedules->data->leagueSchedules->nodes[$i]->leagueMatchSetting->vsStages[0]->name;
-				$outputPreparse .= "|" . $schedules->data->leagueSchedules->nodes[$i]->leagueMatchSetting->vsStages[1]->name . "\n";
-			}
-
-			$outputPreparse .= "|" . $now . "\n";
-			$outputPreparse .= "}}\n";
-		}
-
-		if ($schedules->data->festSchedules->nodes[0]->festMatchSetting !== null and $schedules->data->festSchedules->nodes[1]->festMatchSetting !== null ){
-			$outputPreparse  = "{{S3Schedule/BattleFest\n";
-
-			for ($i = 0; $i < 2; $i++) {
-				//Splatfest
-				$outputPreparse .= "|" . $schedules->data->festSchedules->nodes[$i]->festMatchSetting->vsRule->name;
-				$outputPreparse .= "|" . $schedules->data->festSchedules->nodes[$i]->festMatchSetting->vsStages[0]->name;
-				$outputPreparse .= "|" . $schedules->data->festSchedules->nodes[$i]->festMatchSetting->vsStages[1]->name . "\n";
-			}
-
-			$outputPreparse .= "|" . $schedules->data->currentFest->tricolorStage->name . "\n";
-
-			$outputPreparse .= "|" . $now . "\n";
-			$outputPreparse .= "}}\n";
-		}
-
-		return array( $parser->recursiveTagParse( $outputPreparse, $frame ) );
-	}
+        $markup = self::fetch3('schedules');
+        if ($markup == null) {
+            return array( "Could not fetch schedule data from SplatNet." );
+        }
+ 
+        $now = new DateTime( "now", new DateTimeZone("UTC") );
+        $now = $now->format( "M d H:i" );
+ 
+        $schedules = json_decode($markup);
+        // Processes markup to extract the schedule information
+ 
+        $hasRegular = $schedules->data->regularSchedules->nodes[0]->regularMatchSetting !== null or $schedules->data->regularSchedules->nodes[1]->regularMatchSetting !== null;
+        $hasFest = $schedules->data->festSchedules->nodes[0]->festMatchSetting !== null or $schedules->data->festSchedules->nodes[1]->festMatchSetting !== null;
+        $hasAny = $hasRegular or $hasFest;
+ 
+        if ($hasAny){
+            $outputPreparse  = "{{S3Schedule/Battle\n";
+        }
+ 
+        if ($hasRegular){
+            for ($i = 0; $i < 2; $i++) {
+                if ($schedules->data->regularSchedules->nodes[$i]->regularMatchSetting === null){
+                    continue;
+                }
+ 
+                //Regular Battle
+                $outputPreparse .= "|regmode_"   . strval($i). "=" . $schedules->data->regularSchedules->nodes[$i]->regularMatchSetting->vsRule->name;
+                $outputPreparse .= "|regstage1_" . strval($i). "=" . $schedules->data->regularSchedules->nodes[$i]->regularMatchSetting->vsStages[0]->name;
+                $outputPreparse .= "|regstage2_" . strval($i). "=" . $schedules->data->regularSchedules->nodes[$i]->regularMatchSetting->vsStages[1]->name . "\n";
+ 
+                //Anarchy
+                $outputPreparse .= "|anaseriesmode_"   . strval($i). "=" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[0]->vsRule->name;
+                $outputPreparse .= "|anaseriesstage1_" . strval($i). "=" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[0]->vsStages[0]->name;
+                $outputPreparse .= "|anaseriesstage2_" . strval($i). "=" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[0]->vsStages[1]->name . "\n";
+                $outputPreparse .= "|anaopenmode_"     . strval($i). "=" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[1]->vsRule->name;
+                $outputPreparse .= "|anaopenstage1_"   . strval($i). "=" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[1]->vsStages[0]->name;
+                $outputPreparse .= "|anaopenstage2_"   . strval($i). "=" . $schedules->data->bankaraSchedules->nodes[$i]->bankaraMatchSettings[1]->vsStages[1]->name . "\n";
+ 
+                //X Battle
+                $outputPreparse .= "|xmode_"   . strval($i). "=" . $schedules->data->xSchedules->nodes[$i]->xMatchSetting->vsRule->name;
+                $outputPreparse .= "|xstage1_" . strval($i). "=" . $schedules->data->xSchedules->nodes[$i]->xMatchSetting->vsStages[0]->name;
+                $outputPreparse .= "|xstage2_" . strval($i). "=" . $schedules->data->xSchedules->nodes[$i]->xMatchSetting->vsStages[1]->name . "\n";
+ 
+                //League Battle
+                $outputPreparse .= "|leaguemode_"   . strval($i). "=" . $schedules->data->leagueSchedules->nodes[$i]->leagueMatchSetting->vsRule->name;
+                $outputPreparse .= "|leaguestage1_" . strval($i). "=" . $schedules->data->leagueSchedules->nodes[$i]->leagueMatchSetting->vsStages[0]->name;
+                $outputPreparse .= "|leaguestage2_" . strval($i). "=" . $schedules->data->leagueSchedules->nodes[$i]->leagueMatchSetting->vsStages[1]->name . "\n";
+            }
+ 
+        }
+ 
+        if ($hasFest){
+            for ($i = 0; $i < 2; $i++) {
+                if ($schedules->data->festSchedules->nodes[$i]->festMatchSettings === null){
+                    continue;
+                }
+ 
+                //Splatfest
+                $outputPreparse .= "|festpromode_"    . strval($i). "=" . $schedules->data->festSchedules->nodes[$i]->festMatchSettings[0]->vsRule->name;
+                $outputPreparse .= "|festprostage1_"  . strval($i). "=" . $schedules->data->festSchedules->nodes[$i]->festMatchSettings[0]->vsStages[0]->name;
+                $outputPreparse .= "|festprostage2_"  . strval($i). "=" . $schedules->data->festSchedules->nodes[$i]->festMatchSettings[0]->vsStages[1]->name . "\n";
+                $outputPreparse .= "|festopenmode_"   . strval($i). "=" . $schedules->data->festSchedules->nodes[$i]->festMatchSettings[1]->vsRule->name;
+                $outputPreparse .= "|festopenstage1_" . strval($i). "=" . $schedules->data->festSchedules->nodes[$i]->festMatchSettings[1]->vsStages[0]->name;
+                $outputPreparse .= "|festopenstage2_" . strval($i). "=" . $schedules->data->festSchedules->nodes[$i]->festMatchSettings[1]->vsStages[1]->name . "\n";
+            }
+ 
+            $outputPreparse .= "|" . $schedules->data->currentFest->tricolorStage->name . "\n";
+        }
+ 
+        if ($hasAny){
+            $outputPreparse .= "|time=" . $now . "\n";
+            $outputPreparse .= "}}\n";
+        }
+ 
+        return array( $parser->recursiveTagParse( $outputPreparse, $frame ) );
+    }
 
 	public static function INKRotationRender( $input, array $args, Parser $parser, PPFrame $frame ) {
 		global $wgSplatoonWikiRotationCookie;
@@ -386,7 +402,7 @@ class StrategyWikiSplatoonRotation {
 	}
 
 	private static function salmon3Weapon( $weapon ){
-		return ($weapon->__splatoon3ink_id == "edcfecb7e8acd1a7") ? "??" : (($weapon->name == "Random") ? "?" : trim($weapon->name));
+		return ($weapon->__splatoon3ink_id == "6e17fbe20efecca9") ? "??" : (($weapon->name == "Random") ? "?" : trim($weapon->name));
 	}
 
 	private static function addRankedRule( &$markup ) {

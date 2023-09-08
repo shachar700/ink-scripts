@@ -3,7 +3,7 @@ import base64
 
 #Update weapons list from: https://stat.ink/api/v3/weapon
 
-with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00007.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/top 100/festivals.ranking.JP.JUEA-00008.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
@@ -37,10 +37,10 @@ with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles-
 #print(data_dict)
 
 #create txt file if there aren't any there
-with open("C:/Users/User/Downloads/fest_output.txt", 'w', encoding="utf8") as file_out:
+with open("C:/Users/User/Downloads/top 100/fest_jp_output.txt", 'w', encoding="utf8") as file_out:
 
     for team in data['data']['fest']['teams']:
-        file_out.write("=== " + team["teamName"] +" ===\n")
+        file_out.write("==== " + team["teamName"] +" ====\n")
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
         file_out.write("! Rank !! Name !! Power !! Weapon !! Title !! <br>Splashtag\n")
         for player in team['result']['rankingHolders']['edges']:

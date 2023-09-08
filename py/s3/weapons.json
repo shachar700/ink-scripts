@@ -1813,6 +1813,43 @@
         "reskin_of": "dynamo"
     },
     {
+        "key": "dynamo_tesla",
+        "aliases": [
+            "1021",
+            "gold_dynamo_roller"
+        ],
+        "type": {
+            "key": "roller",
+            "aliases": [],
+            "name": {
+                "en_US": "Rollers",
+                "ja_JP": "ローラー"
+            }
+        },
+        "name": {
+            "en_US": "Gold Dynamo Roller",
+            "ja_JP": "ダイナモローラーテスラ"
+        },
+        "main": "dynamo",
+        "sub": {
+            "key": "splashbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Splat Bomb",
+                "ja_JP": "スプラッシュボム"
+            }
+        },
+        "special": {
+            "key": "decoy",
+            "aliases": [],
+            "name": {
+                "en_US": "Super Chump",
+                "ja_JP": "デコイチラシ"
+            }
+        },
+        "reskin_of": "dynamo_tesla"
+    },
+    {
         "key": "splatroller",
         "aliases": [
             "1010",
@@ -2071,6 +2108,43 @@
             }
         },
         "reskin_of": "hokusai"
+    },
+    {
+        "key": "hokusai_hue",
+        "aliases": [
+            "1111",
+            "octobrush_nouveau"
+        ],
+        "type": {
+            "key": "brush",
+            "aliases": [],
+            "name": {
+                "en_US": "Brushes",
+                "ja_JP": "フデ"
+            }
+        },
+        "name": {
+            "en_US": "Octobrush Nouveau",
+            "ja_JP": "ホクサイ・ヒュー"
+        },
+        "main": "hokusai",
+        "sub": {
+            "key": "jumpbeacon",
+            "aliases": [],
+            "name": {
+                "en_US": "Squid Beakon",
+                "ja_JP": "ジャンプビーコン"
+            }
+        },
+        "special": {
+            "key": "amefurashi",
+            "aliases": [],
+            "name": {
+                "en_US": "Ink Storm",
+                "ja_JP": "アメフラシ"
+            }
+        },
+        "reskin_of": "hokusai_hue"
     },
     {
         "key": "pablo",
@@ -2443,6 +2517,43 @@
         "reskin_of": "soytuber"
     },
     {
+        "key": "soytuber_custom",
+        "aliases": [
+            "2061",
+            "custom_goo_tuber"
+        ],
+        "type": {
+            "key": "charger",
+            "aliases": [],
+            "name": {
+                "en_US": "Chargers",
+                "ja_JP": "チャージャー"
+            }
+        },
+        "name": {
+            "en_US": "Custom Goo Tuber",
+            "ja_JP": "ソイチューバーカスタム"
+        },
+        "main": "soytuber",
+        "sub": {
+            "key": "tansanbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Fizzy Bomb",
+                "ja_JP": "タンサンボム"
+            }
+        },
+        "special": {
+            "key": "ultrahanko",
+            "aliases": [],
+            "name": {
+                "en_US": "Ultra Stamp",
+                "ja_JP": "ウルトラハンコ"
+            }
+        },
+        "reskin_of": "soytuber_custom"
+    },
+    {
         "key": "splatcharger",
         "aliases": [
             "2010",
@@ -2775,6 +2886,43 @@
         "reskin_of": "furo"
     },
     {
+        "key": "furo_deco",
+        "aliases": [
+            "3031",
+            "bloblobber_deco"
+        ],
+        "type": {
+            "key": "slosher",
+            "aliases": [],
+            "name": {
+                "en_US": "Sloshers",
+                "ja_JP": "スロッシャー"
+            }
+        },
+        "name": {
+            "en_US": "Bloblobber Deco",
+            "ja_JP": "オーバーフロッシャーデコ"
+        },
+        "main": "furo",
+        "sub": {
+            "key": "linemarker",
+            "aliases": [],
+            "name": {
+                "en_US": "Angle Shooter",
+                "ja_JP": "ラインマーカー"
+            }
+        },
+        "special": {
+            "key": "teioika",
+            "aliases": [],
+            "name": {
+                "en_US": "Kraken Royale",
+                "ja_JP": "テイオウイカ"
+            }
+        },
+        "reskin_of": "furo_deco"
+    },
+    {
         "key": "hissen",
         "aliases": [
             "3010",
@@ -2849,6 +2997,43 @@
         "reskin_of": "hissen_hue"
     },
     {
+        "key": "moprin",
+        "aliases": [
+            "3050",
+            "dread_wringer"
+        ],
+        "type": {
+            "key": "slosher",
+            "aliases": [],
+            "name": {
+                "en_US": "Sloshers",
+                "ja_JP": "スロッシャー"
+            }
+        },
+        "name": {
+            "en_US": "Dread Wringer",
+            "ja_JP": "モップリン"
+        },
+        "main": "moprin",
+        "sub": {
+            "key": "kyubanbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Suction Bomb",
+                "ja_JP": "キューバンボム"
+            }
+        },
+        "special": {
+            "key": "sameride",
+            "aliases": [],
+            "name": {
+                "en_US": "Reefslider",
+                "ja_JP": "サメライド"
+            }
+        },
+        "reskin_of": "moprin"
+    },
+    {
         "key": "screwslosher",
         "aliases": [
             "3020",
@@ -2884,6 +3069,43 @@
             }
         },
         "reskin_of": "screwslosher"
+    },
+    {
+        "key": "screwslosher_neo",
+        "aliases": [
+            "3021",
+            "sloshing_machine_neo"
+        ],
+        "type": {
+            "key": "slosher",
+            "aliases": [],
+            "name": {
+                "en_US": "Sloshers",
+                "ja_JP": "スロッシャー"
+            }
+        },
+        "name": {
+            "en_US": "Sloshing Machine Neo",
+            "ja_JP": "スクリュースロッシャーネオ"
+        },
+        "main": "screwslosher",
+        "sub": {
+            "key": "pointsensor",
+            "aliases": [],
+            "name": {
+                "en_US": "Point Sensor",
+                "ja_JP": "ポイントセンサー"
+            }
+        },
+        "special": {
+            "key": "ultrashot",
+            "aliases": [],
+            "name": {
+                "en_US": "Trizooka",
+                "ja_JP": "ウルトラショット"
+            }
+        },
+        "reskin_of": "screwslosher_neo"
     },
     {
         "key": "barrelspinner",
@@ -2960,6 +3182,43 @@
         "reskin_of": "barrelspinner_deco"
     },
     {
+        "key": "examiner",
+        "aliases": [
+            "4050",
+            "heavy_edit_splatling"
+        ],
+        "type": {
+            "key": "spinner",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatlings",
+                "ja_JP": "スピナー"
+            }
+        },
+        "name": {
+            "en_US": "Heavy Edit Splatling",
+            "ja_JP": "イグザミナー"
+        },
+        "main": "examiner",
+        "sub": {
+            "key": "curlingbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Curling Bomb",
+                "ja_JP": "カーリングボム"
+            }
+        },
+        "special": {
+            "key": "energystand",
+            "aliases": [],
+            "name": {
+                "en_US": "Tacticooler",
+                "ja_JP": "エナジースタンド"
+            }
+        },
+        "reskin_of": "examiner"
+    },
+    {
         "key": "hydra",
         "aliases": [
             "4020",
@@ -3032,6 +3291,43 @@
             }
         },
         "reskin_of": "kugelschreiber"
+    },
+    {
+        "key": "kugelschreiber_hue",
+        "aliases": [
+            "4031",
+            "ballpoint_splatling_nouveau"
+        ],
+        "type": {
+            "key": "spinner",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatlings",
+                "ja_JP": "スピナー"
+            }
+        },
+        "name": {
+            "en_US": "Ballpoint Splatling Nouveau",
+            "ja_JP": "クーゲルシュライバー・ヒュー"
+        },
+        "main": "kugelschreiber_hue",
+        "sub": {
+            "key": "trap",
+            "aliases": [],
+            "name": {
+                "en_US": "Ink Mine",
+                "ja_JP": "トラップ"
+            }
+        },
+        "special": {
+            "key": "kyuinki",
+            "aliases": [],
+            "name": {
+                "en_US": "Ink Vac",
+                "ja_JP": "キューインキ"
+            }
+        },
+        "reskin_of": "kugelschreiber_hue"
     },
     {
         "key": "nautilus47",
@@ -3256,6 +3552,43 @@
         "reskin_of": "parashelter"
     },
     {
+        "key": "parashelter_sorella",
+        "aliases": [
+            "6001",
+            "sorella_brella"
+        ],
+        "type": {
+            "key": "brella",
+            "aliases": [],
+            "name": {
+                "en_US": "Brellas",
+                "ja_JP": "シェルター"
+            }
+        },
+        "name": {
+            "en_US": "Sorella Brella",
+            "ja_JP": "パラシェルターソレーラ"
+        },
+        "main": "parashelter",
+        "sub": {
+            "key": "robotbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Autobomb",
+                "ja_JP": "ロボットボム"
+            }
+        },
+        "special": {
+            "key": "jetpack",
+            "aliases": [],
+            "name": {
+                "en_US": "Inkjet",
+                "ja_JP": "ジェットパック"
+            }
+        },
+        "reskin_of": "parashelter_sorella"
+    },
+    {
         "key": "spygadget",
         "aliases": [
             "6020",
@@ -3365,5 +3698,42 @@
             }
         },
         "reskin_of": "tristringer"
+    },
+    {
+        "key": "tristringer_collabo",
+        "aliases": [
+            "7011",
+            "inkline_tri_stringer"
+        ],
+        "type": {
+            "key": "stringer",
+            "aliases": [],
+            "name": {
+                "en_US": "Stringers",
+                "ja_JP": "ストリンガー"
+            }
+        },
+        "name": {
+            "en_US": "Inkline Tri-Stringer",
+            "ja_JP": "トライストリンガーコラボ"
+        },
+        "main": "tristringer",
+        "sub": {
+            "key": "sprinkler",
+            "aliases": [],
+            "name": {
+                "en_US": "Sprinkler",
+                "ja_JP": "スプリンクラー"
+            }
+        },
+        "special": {
+            "key": "decoy",
+            "aliases": [],
+            "name": {
+                "en_US": "Super Chump",
+                "ja_JP": "デコイチラシ"
+            }
+        },
+        "reskin_of": "tristringer_collabo"
     }
 ]
