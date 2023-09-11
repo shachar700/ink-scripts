@@ -423,3 +423,33 @@
 1010410:Big Swig Roller Express 4
 1010411:Big Swig Roller Express 5
 empty:empty
+5000040:Salmonid Smokeyard 200
+5000041:Salmonid Smokeyard 400
+5000042:Salmonid Smokeyard 600
+5000043:Salmonid Smokeyard 999
+3003000:Shiver 10x Join
+3003001:Frye 10x Join
+3003002:Big Man 10x Join
+3003100:Shiver 10x Win
+3003101:Frye 10x Win
+3003102:Big Man 10x Win
+1030500:Dread Wringer 4
+1030501:Dread Wringer 5
+1030310:Bloblobber Deco 4
+1030311:Bloblobber Deco 5
+1030210:Sloshing Machine Neo 4
+1030211:Sloshing Machine Neo 5
+1060010:Sorella Brella 4
+1060011:Sorella Brella 5
+1010210:Gold Dynamo Roller 4
+1010211:Gold Dynamo Roller 5
+1020610:Custom Goo Tuber 4
+1020611:Custom Goo Tuber 5
+1011110:Octobrush Nouveau 4
+1011111:Octobrush Nouveau 5
+1040500:Heavy Edit Splatling 4
+1040501:Heavy Edit Splatling 5
+1040310:Ballpoint Splatling Nouveau 4
+1040311:Ballpoint Splatling Nouveau 5
+1070110:Inkline Tri-Stringer 4
+1070111:Inkline Tri-Stringer 5

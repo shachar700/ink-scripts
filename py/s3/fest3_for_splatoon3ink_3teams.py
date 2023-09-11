@@ -3,7 +3,7 @@ import base64
 
 # This program reads a JSON file and writes the contents to a text file with wiki markup.
 
-with open("C:/Users/User/Downloads/top 100/festivals.ranking.US.JUEA-00008.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.AP.JUEA-00009.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
@@ -17,7 +17,7 @@ with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/badgema
 #print(data_dict)
 
 #create txt file if there aren't any there
-with open('C:/Users/User/Downloads/top 100/fest_output.txt', 'w', encoding="utf8") as file_out:
+with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as file_out:
 
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
@@ -83,7 +83,7 @@ with open('C:/Users/User/Downloads/top 100/fest_output.txt', 'w', encoding="utf8
 
             file_out.write("|-\n")
             file_out.write("| " +  str(rank) + " || " + name + " <small>#" + nameid + "</small> || " + str(power)  +
-                        " || [[File:S3 Weapon Main " +weapon + " Flat.png|24px|link=" +weapon +
+                        " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
                         "]] [[" + weapon+ "]] || " + title + " || {{UserSplashtag|" + banner)
             if badgeslist == ['empty', 'empty', 'empty']:
                 print("all are empty")

@@ -3,7 +3,7 @@ import base64
 
 #Update weapons list from: https://stat.ink/api/v3/weapon
 
-with open("C:/Users/User/Downloads/top 100/festivals.ranking.JP.JUEA-00008.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00009.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
@@ -20,13 +20,13 @@ with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/weapons
     data_weapons = json.load(weapons_json_file)
 
 data_dict_adj = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles-adj.txt', 'r', encoding="utf8") as titles_adj:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles_adj.txt', 'r', encoding="utf8") as titles_adj:
     for line in titles_adj:
         k, v = line.strip().split(':')
         data_dict_adj[k.strip()] = v.strip()
 
 data_dict_subj = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles-sbj.txt', 'r', encoding="utf8") as titles_subj:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles_sbj.txt', 'r', encoding="utf8") as titles_subj:
     for line in titles_subj:
         k, v = line.strip().split(':')
         data_dict_subj[k.strip()] = v.strip()
@@ -37,7 +37,7 @@ with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles-
 #print(data_dict)
 
 #create txt file if there aren't any there
-with open("C:/Users/User/Downloads/top 100/fest_jp_output.txt", 'w', encoding="utf8") as file_out:
+with open("C:/Users/User/Downloads/fest_jp_output.txt", 'w', encoding="utf8") as file_out:
 
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
@@ -69,7 +69,7 @@ with open("C:/Users/User/Downloads/top 100/fest_jp_output.txt", 'w', encoding="u
             badge1 = ""
             badge2 = ""
             badge3 = ""
-            print(badges)
+            #print(badges)
 
             if badges[0] is not None:
                 badge1 = badges[0]["id"]
@@ -101,7 +101,9 @@ with open("C:/Users/User/Downloads/top 100/fest_jp_output.txt", 'w', encoding="u
             #for item in badgeslist:
                 #mapping.find(badge1)
 
-            #switch all cases
+            print("title= " + title)
+
+            # switch all cases
             for adjective in data_dict_adj:
                 if adjective in title:
                     adj_title = data_dict_adj[adjective]
@@ -113,7 +115,7 @@ with open("C:/Users/User/Downloads/top 100/fest_jp_output.txt", 'w', encoding="u
 
             file_out.write("|-\n")
             file_out.write("| " +  str(rank) + " || " + name + " <small>#" + nameid + "</small> || " + str(power)  +
-                           " || [[File:S3 Weapon Main " +weapon + " Flat.png|24px|link=" +weapon +
+                           " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
                            "]] [[" + weapon+ "]] || " + adj_title + " " + subj_title + " || {{UserSplashtag|" + banner)
 
             if badgeslist == ['empty', 'empty', 'empty']:
@@ -133,6 +135,6 @@ with open("C:/Users/User/Downloads/top 100/fest_jp_output.txt", 'w', encoding="u
             #     file_out.write("|" + badgeslist[2])
             file_out.write("}}\n")
 
-        file_out.write("|}\n")
+        file_out.write("|}\n\n")
 
 print("Done!")
