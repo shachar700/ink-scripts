@@ -3,7 +3,7 @@ import base64
 
 #Update weapons list from: https://stat.ink/api/v3/weapon
 
-with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00009.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00010.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
