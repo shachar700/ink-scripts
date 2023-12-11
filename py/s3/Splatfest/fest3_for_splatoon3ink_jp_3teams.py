@@ -1,32 +1,32 @@
 import json
 import base64
 
-#Update weapons list from: https://stat.ink/api/v3/weapon
 
-with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00010.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.JP.J-00011.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
 
 #extract mapping of badges from file to dictionary
 data_dict_badges = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/badgemap.txt', 'r') as mapping:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/HelpingLists/badgemap.txt', 'r') as mapping:
     for line in mapping:
         k, v = line.strip().split(':')
         data_dict_badges[k.strip()] = v.strip()
 
+#Update weapons list from: https://stat.ink/api/v3/weapon
 #extract weapon names from file to dictionary
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/weapons.json', 'r', encoding="utf8") as weapons_json_file:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/FromHika/weapon.json', 'r', encoding="utf8") as weapons_json_file:
     data_weapons = json.load(weapons_json_file)
 
 data_dict_adj = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles_adj.txt', 'r', encoding="utf8") as titles_adj:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/HelpingLists/titles_adj.txt', 'r', encoding="utf8") as titles_adj:
     for line in titles_adj:
         k, v = line.strip().split(':')
         data_dict_adj[k.strip()] = v.strip()
 
 data_dict_subj = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/titles_sbj.txt', 'r', encoding="utf8") as titles_subj:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/HelpingLists/titles_sbj.txt', 'r', encoding="utf8") as titles_subj:
     for line in titles_subj:
         k, v = line.strip().split(':')
         data_dict_subj[k.strip()] = v.strip()

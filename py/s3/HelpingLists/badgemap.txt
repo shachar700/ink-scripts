@@ -453,3 +453,57 @@ empty:empty
 1040311:Ballpoint Splatling Nouveau 5
 1070110:Inkline Tri-Stringer 4
 1070111:Inkline Tri-Stringer 5
+2000180:Triple Splashdown 30
+2000181:Triple Splashdown 180
+2000182:Triple Splashdown 1200
+2000190:Splattercolor Screen 30
+2000191:Splattercolor Screen 180
+2000192:Splattercolor Screen 1200
+1004010:Foil Squeezer 4
+1004011:Foil Squeezer 5
+1020710:Snipewriter 5B 4
+1020711:Snipewriter 5B 5
+1050110:Enperry Splat Dualies 4
+1050111:Enperry Splat Dualies 5
+1060210:Undercover Sorella Brella 4
+1060211:Undercover Sorella Brella 5
+1002110:Custom Blaster 4
+1002111:Custom Blaster 5
+1002610:S-BLAST '91 4
+1002611:S-BLAST '91 5
+1011210:Painbrush Nouveau 4
+1011211:Painbrush Nouveau 5
+1070210:REEF-LUX 450 Deco 4
+1070211:REEF-LUX 450 Deco 5
+1080010:Neo Splatana Stamper 4
+1080011:Neo Splatana Stamper 5
+3100200:Straight Anarchy Battles (Series) 10
+3100201:Straight Anarchy Battles (Series) 50
+3100202:Straight Anarchy Battles (Series) 250
+5210200:Megalodontia 10
+5210201:Megalodontia 100
+5210202:Megalodontia 1000
+3101101:2000 Power X Battles Tentatek
+3101100:2000 Power X Battles Takoroka
+3101201:Straight 2000 Power X Battles Tentatek 15
+3101211:Straight 2000 Power X Battles Tentatek 70
+3101221:Straight 2000 Power X Battles Tentatek 350
+3101200:Straight 2000 Power X Battles Takoroka 15
+3101210:Straight 2000 Power X Battles Takoroka 70
+3101220:Straight 2000 Power X Battles Takoroka 350
+3101301:X Battle Top 50000 Tentatek
+3101311:X Battle Top 30000 Tentatek
+3101321:X Battle Top 10000 Tentatek
+3101331:X Battle Top 5000 Tentatek
+3101341:X Battle Top 3000 Tentatek
+3101351:X Battle Top 1000 Tentatek
+3101361:X Battle Top 500 Tentatek
+3101371:X Battle Top 10 Tentatek
+3101300:X Battle Top 50000 Takoroka
+3101310:X Battle Top 30000 Takoroka
+3101320:X Battle Top 10000 Takoroka
+3101330:X Battle Top 5000 Takoroka
+3101340:X Battle Top 3000 Takoroka
+3101350:X Battle Top 1000 Takoroka
+3101360:X Battle Top 500 Takoroka
+3101370:X Battle Top 10 Takoroka

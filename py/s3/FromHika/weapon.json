@@ -222,6 +222,43 @@
         "reskin_of": "bottlegeyser"
     },
     {
+        "key": "bottlegeyser_foil",
+        "aliases": [
+            "401",
+            "foil_squeezer"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Foil Squeezer",
+            "ja_JP": "ボトルガイザーフォイル"
+        },
+        "main": "bottlegeyser",
+        "sub": {
+            "key": "robotbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Autobomb",
+                "ja_JP": "ロボットボム"
+            }
+        },
+        "special": {
+            "key": "suminagasheet",
+            "aliases": [],
+            "name": {
+                "en_US": "Splattercolor Screen",
+                "ja_JP": "スミナガシート"
+            }
+        },
+        "reskin_of": "bottlegeyser_foil"
+    },
+    {
         "key": "heroshooter_replica",
         "aliases": [
             "45",
@@ -962,6 +999,43 @@
         "reskin_of": "hotblaster"
     },
     {
+        "key": "hotblaster_custom",
+        "aliases": [
+            "211",
+            "custom_blaster"
+        ],
+        "type": {
+            "key": "blaster",
+            "aliases": [],
+            "name": {
+                "en_US": "Blasters",
+                "ja_JP": "ブラスター"
+            }
+        },
+        "name": {
+            "en_US": "Custom Blaster",
+            "ja_JP": "ホットブラスターカスタム"
+        },
+        "main": "hotblaster",
+        "sub": {
+            "key": "pointsensor",
+            "aliases": [],
+            "name": {
+                "en_US": "Point Sensor",
+                "ja_JP": "ポイントセンサー"
+            }
+        },
+        "special": {
+            "key": "ultra_chakuchi",
+            "aliases": [],
+            "name": {
+                "en_US": "Triple Splashdown",
+                "ja_JP": "ウルトラチャクチ"
+            }
+        },
+        "reskin_of": "hotblaster_custom"
+    },
+    {
         "key": "longblaster",
         "aliases": [
             "220",
@@ -1219,6 +1293,43 @@
             }
         },
         "reskin_of": "rapid_elite_deco"
+    },
+    {
+        "key": "sblast91",
+        "aliases": [
+            "261",
+            "s_blast_91"
+        ],
+        "type": {
+            "key": "blaster",
+            "aliases": [],
+            "name": {
+                "en_US": "Blasters",
+                "ja_JP": "ブラスター"
+            }
+        },
+        "name": {
+            "en_US": "S-BLAST '91",
+            "ja_JP": "S-BLAST91"
+        },
+        "main": "sblast92",
+        "sub": {
+            "key": "quickbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Burst Bomb",
+                "ja_JP": "クイックボム"
+            }
+        },
+        "special": {
+            "key": "nicedama",
+            "aliases": [],
+            "name": {
+                "en_US": "Booyah Bomb",
+                "ja_JP": "ナイスダマ"
+            }
+        },
+        "reskin_of": "sblast91"
     },
     {
         "key": "sblast92",
@@ -1552,6 +1663,43 @@
             }
         },
         "reskin_of": "maneuver"
+    },
+    {
+        "key": "maneuver_collabo",
+        "aliases": [
+            "5011",
+            "enperry_splat_dualies"
+        ],
+        "type": {
+            "key": "maneuver",
+            "aliases": [],
+            "name": {
+                "en_US": "Dualies",
+                "ja_JP": "マニューバー"
+            }
+        },
+        "name": {
+            "en_US": "Enperry Splat Dualies",
+            "ja_JP": "スプラマニューバーコラボ"
+        },
+        "main": "maneuver",
+        "sub": {
+            "key": "curlingbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Curling Bomb",
+                "ja_JP": "カーリングボム"
+            }
+        },
+        "special": {
+            "key": "ultra_chakuchi",
+            "aliases": [],
+            "name": {
+                "en_US": "Triple Splashdown",
+                "ja_JP": "ウルトラチャクチ"
+            }
+        },
+        "reskin_of": "maneuver_collabo"
     },
     {
         "key": "quadhopper_black",
@@ -2073,6 +2221,44 @@
         "reskin_of": "fincent"
     },
     {
+        "key": "fincent_hue",
+        "aliases": [
+            "1121",
+            "painbrush_nouveau",
+            "vincent_hue"
+        ],
+        "type": {
+            "key": "brush",
+            "aliases": [],
+            "name": {
+                "en_US": "Brushes",
+                "ja_JP": "フデ"
+            }
+        },
+        "name": {
+            "en_US": "Painbrush Nouveau",
+            "ja_JP": "フィンセント・ヒュー"
+        },
+        "main": "fincent",
+        "sub": {
+            "key": "pointsensor",
+            "aliases": [],
+            "name": {
+                "en_US": "Point Sensor",
+                "ja_JP": "ポイントセンサー"
+            }
+        },
+        "special": {
+            "key": "missile",
+            "aliases": [],
+            "name": {
+                "en_US": "Tenta Missiles",
+                "ja_JP": "マルチミサイル"
+            }
+        },
+        "reskin_of": "fincent_hue"
+    },
+    {
         "key": "hokusai",
         "aliases": [
             "1110",
@@ -2332,6 +2518,43 @@
         "reskin_of": "jimuwiper"
     },
     {
+        "key": "jimuwiper_hue",
+        "aliases": [
+            "8001",
+            "neo_splatana_stamper"
+        ],
+        "type": {
+            "key": "wiper",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatanas",
+                "ja_JP": "ワイパー"
+            }
+        },
+        "name": {
+            "en_US": "Neo Splatana Stamper",
+            "ja_JP": "ジムワイパー・ヒュー"
+        },
+        "main": "jimuwiper",
+        "sub": {
+            "key": "poisonmist",
+            "aliases": [],
+            "name": {
+                "en_US": "Toxic Mist",
+                "ja_JP": "ポイズンミスト"
+            }
+        },
+        "special": {
+            "key": "kanitank",
+            "aliases": [],
+            "name": {
+                "en_US": "Crab Tank",
+                "ja_JP": "カニタンク"
+            }
+        },
+        "reskin_of": "jimuwiper_hue"
+    },
+    {
         "key": "bamboo14mk1",
         "aliases": [
             "2050",
@@ -2441,6 +2664,43 @@
             }
         },
         "reskin_of": "liter4k_scope"
+    },
+    {
+        "key": "rpen_5b",
+        "aliases": [
+            "2071",
+            "snipewriter_5b"
+        ],
+        "type": {
+            "key": "charger",
+            "aliases": [],
+            "name": {
+                "en_US": "Chargers",
+                "ja_JP": "チャージャー"
+            }
+        },
+        "name": {
+            "en_US": "Snipewriter 5B",
+            "ja_JP": "R-PEN/5B"
+        },
+        "main": "rpen_5h",
+        "sub": {
+            "key": "splashshield",
+            "aliases": [],
+            "name": {
+                "en_US": "Splash Wall",
+                "ja_JP": "スプラッシュシールド"
+            }
+        },
+        "special": {
+            "key": "amefurashi",
+            "aliases": [],
+            "name": {
+                "en_US": "Ink Storm",
+                "ja_JP": "アメフラシ"
+            }
+        },
+        "reskin_of": "rpen_5b"
     },
     {
         "key": "rpen_5h",
@@ -3310,7 +3570,7 @@
             "en_US": "Ballpoint Splatling Nouveau",
             "ja_JP": "クーゲルシュライバー・ヒュー"
         },
-        "main": "kugelschreiber_hue",
+        "main": "kugelschreiber",
         "sub": {
             "key": "trap",
             "aliases": [],
@@ -3626,6 +3886,43 @@
         "reskin_of": "spygadget"
     },
     {
+        "key": "spygadget_sorella",
+        "aliases": [
+            "6021",
+            "undercover_sorella_brella"
+        ],
+        "type": {
+            "key": "brella",
+            "aliases": [],
+            "name": {
+                "en_US": "Brellas",
+                "ja_JP": "シェルター"
+            }
+        },
+        "name": {
+            "en_US": "Undercover Sorella Brella",
+            "ja_JP": "スパイガジェットソレーラ"
+        },
+        "main": "spygadget",
+        "sub": {
+            "key": "torpedo",
+            "aliases": [],
+            "name": {
+                "en_US": "Torpedo",
+                "ja_JP": "トーピード"
+            }
+        },
+        "special": {
+            "key": "suminagasheet",
+            "aliases": [],
+            "name": {
+                "en_US": "Splattercolor Screen",
+                "ja_JP": "スミナガシート"
+            }
+        },
+        "reskin_of": "spygadget_sorella"
+    },
+    {
         "key": "lact450",
         "aliases": [
             "7020",
@@ -3661,6 +3958,43 @@
             }
         },
         "reskin_of": "lact450"
+    },
+    {
+        "key": "lact450_deco",
+        "aliases": [
+            "7021",
+            "reef_lux_450_deco"
+        ],
+        "type": {
+            "key": "stringer",
+            "aliases": [],
+            "name": {
+                "en_US": "Stringers",
+                "ja_JP": "ストリンガー"
+            }
+        },
+        "name": {
+            "en_US": "REEF-LUX 450 Deco",
+            "ja_JP": "LACT-450デコ"
+        },
+        "main": "lact450",
+        "sub": {
+            "key": "splashshield",
+            "aliases": [],
+            "name": {
+                "en_US": "Splash Wall",
+                "ja_JP": "スプラッシュシールド"
+            }
+        },
+        "special": {
+            "key": "sameride",
+            "aliases": [],
+            "name": {
+                "en_US": "Reefslider",
+                "ja_JP": "サメライド"
+            }
+        },
+        "reskin_of": "lact450_deco"
     },
     {
         "key": "tristringer",
