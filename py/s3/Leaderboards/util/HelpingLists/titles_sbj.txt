@@ -1,5 +1,4 @@
 ボールドマーカー使い:Sploosh-o-matic User
-[group=0001 type=0002 params=]:[group=0001 type=0002 params=]
 わかばシューター使い:Splattershot Jr. User
 シャープマーカー使い:Splash-o-matic User
 プロモデラー使い:Aerospray User

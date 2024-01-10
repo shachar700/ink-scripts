@@ -8,7 +8,7 @@ def remove_ruby_tags(input_file, output_file):
             outfile.write(clean_line)
 
 # Replace 'input.txt' and 'output.txt' with your input and output file paths
-input_file = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/JPja_full_unicode.json'
-output_file = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/JPja_full_unicode_out.json'
+input_file = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/HelpingLists/titles_adj.txt'
+output_file = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/HelpingLists/titles_adj_out.txt'
 
 remove_ruby_tags(input_file, output_file)

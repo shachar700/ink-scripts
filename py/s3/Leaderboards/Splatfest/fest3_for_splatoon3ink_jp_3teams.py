@@ -1,23 +1,44 @@
 import json
 import base64
 
-# This program reads a JSON file and writes the contents to a text file with wiki markup.
+#v6.0.0
 
-with open("C:/Users/User/Downloads/festivals.ranking.AP.UEA-90011.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.JP.J-00011.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
 
-data_dict = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/HelpingLists/badgemap.txt', 'r') as mapping:
+#extract mapping of badges from file to dictionary
+data_dict_badges = {}
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/badgemap.txt', 'r') as mapping:
     for line in mapping:
         k, v = line.strip().split(':')
-        data_dict[k.strip()] = v.strip()
+        data_dict_badges[k.strip()] = v.strip()
 
+#Update weapons list from: https://stat.ink/api/v3/weapon
+#extract weapon names from file to dictionary
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/FromHika/weapon.json', 'r', encoding="utf8") as weapons_json_file:
+    data_weapons = json.load(weapons_json_file)
+
+data_dict_adj = {}
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/titles_adj.txt', 'r', encoding="utf8") as titles_adj:
+    for line in titles_adj:
+        k, v = line.strip().split(':')
+        data_dict_adj[k.strip()] = v.strip()
+
+data_dict_subj = {}
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/titles_sbj.txt', 'r', encoding="utf8") as titles_subj:
+    for line in titles_subj:
+        k, v = line.strip().split(':')
+        data_dict_subj[k.strip()] = v.strip()
+
+#print(data_dict_adj)
+#print(data_dict_subj)
+#print(data_dict_titles)
 #print(data_dict)
 
 #create txt file if there aren't any there
-with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as file_out:
+with open("C:/Users/User/Downloads/fest_jp_output.txt", 'w', encoding="utf8") as file_out:
 
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
@@ -34,6 +55,11 @@ with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as fi
                 name = "<nowiki>" + name + "</nowiki>"
             power = player["festPower"]
             weapon = player["weapon"]["name"]
+
+            for weapon_name in data_weapons:
+                if weapon in weapon_name['name']['ja_JP']:
+                    weapon = weapon_name['name']['en_US']
+
             title = player["byname"]
             banner64 = player["nameplate"]["background"]["id"]
             banner64_bytes = banner64.encode('ascii')
@@ -44,7 +70,7 @@ with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as fi
             badge1 = ""
             badge2 = ""
             badge3 = ""
-            print(badges)
+            #print(badges)
 
             if badges[0] is not None:
                 badge1 = badges[0]["id"]
@@ -72,28 +98,36 @@ with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as fi
                 badge3 = badge3[6:]
             else:
                 badge3 = "empty"
-
-            badgeslist = [badge1,badge2,badge3]
-            print("badgeslist:")
-            print(badgeslist)
+            badgeslist = [badge1, badge2, badge3]
             #for item in badgeslist:
                 #mapping.find(badge1)
 
-            #switch all cases
+            print("title= " + title)
+
+            # switch all cases
+            for adjective in data_dict_adj:
+                if adjective in title:
+                    adj_title = data_dict_adj[adjective]
+
+            for subject in data_dict_subj:
+                if subject in title:
+                    subj_title = data_dict_subj[subject]
+
 
             file_out.write("|-\n")
             file_out.write("| " +  str(rank) + " || " + name + " <small>#" + nameid + "</small> || " + str(power)  +
-                        " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
-                        "]] [[" + weapon+ "]] || " + title + " || {{UserSplashtag|" + banner)
+                           " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
+                           "]] [[" + weapon+ "]] || " + adj_title + " " + subj_title + " || {{UserSplashtag|" + banner)
+
             if badgeslist == ['empty', 'empty', 'empty']:
                 print("all are empty")
             else:
-                if badge1 in data_dict:
-                    file_out.write("|" + data_dict[badge1])
-                if badge2 in data_dict:
-                    file_out.write("|" + data_dict[badge2])
-                if badge3 in data_dict:
-                    file_out.write("|" + data_dict[badge3])
+                if badge1 in data_dict_badges:
+                    file_out.write("|" + data_dict_badges[badge1])
+                if badge2 in data_dict_badges:
+                    file_out.write("|" + data_dict_badges[badge2])
+                if badge3 in data_dict_badges:
+                    file_out.write("|" + data_dict_badges[badge3])
             # if badge1 != '':
             #     file_out.write("|" + badgeslist[0])
             # if badge2 != '':
@@ -103,3 +137,5 @@ with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as fi
             file_out.write("}}\n")
 
         file_out.write("|}\n\n")
+
+print("Done!")
