@@ -90,6 +90,8 @@ S-BLAST使い:S-BLAST '92 User
 エナジースタンド使い:Tacticooler User
 デコイチラシ使い:Super Chump User
 テイオウイカ使い:Kraken Royale User
+ウルトラチャクチ使い:Triple Splashdown User
+スミナガシート使い:Splattercolor Screen User
 バトロイカ好き:SquidForce Model
 アイロニック好き:Zink Model
 クラーゲス好き:Krak-On Model
@@ -968,6 +970,7 @@ VIP:VIP
 超能力者:Psychic
 重鎮:Arbiter
 文豪:Litterateur
+ジョー:Megalodontia
 思い出:Recollection
 スタイリスト:Stylist
 起業家:Entrepreneur
@@ -976,11 +979,14 @@ VIP:VIP
 風雲児:Mercenary
 連合:Alliance
 吟遊詩人:Bard
+ニューフェイス:Noob
+先導者:Vanguard
 ラッキーマン:Lucky Duck
 天然記念物:Protected Species
 選ばれし者:Chosen One
 遊び人:Gadabout
 チャンスメーカー:Point Guard
+幸せ者:Optimist
 若者:Youth
 イカ:Squid
 タコ:Octopus
@@ -1011,3 +1017,4 @@ VIP:VIP
 旅人:Traveler
 自転車乗り:Cyclist
 天ぷら:Tempura
+支援者:Booster
