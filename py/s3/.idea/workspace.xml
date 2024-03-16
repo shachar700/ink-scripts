@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dbe7df-b203-4163-b5bc-4e0d16f0ec46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_jp_3teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_jp_3teams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromLean/JPja_full_unicode.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromLean/JPja_full_unicode.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromLean/USen_full_unicode.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromLean/USen_full_unicode.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_adj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_sbj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

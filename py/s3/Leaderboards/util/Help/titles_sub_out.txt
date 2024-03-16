@@ -982,8 +982,11 @@ VIP:VIP
 風雲児:Mercenary
 連合:Alliance
 吟遊詩人:Bard
+<<<<<<< HEAD:py/s3/Leaderboards/util/HelpingLists/titles_sbj.txt
 異世界人:Otherworldly Being
 カオス:Chaos
+=======
+>>>>>>> a04447490dfe7f18de43ab6b40c63532a7dee696:py/s3/Leaderboards/util/Help/titles_sub_out.txt
 ニューフェイス:Noob
 先導者:Vanguard
 ラッキーマン:Lucky Duck
@@ -992,7 +995,10 @@ VIP:VIP
 遊び人:Gadabout
 チャンスメーカー:Point Guard
 幸せ者:Optimist
+<<<<<<< HEAD:py/s3/Leaderboards/util/HelpingLists/titles_sbj.txt
 勝負師:Daredevil
+=======
+>>>>>>> a04447490dfe7f18de43ab6b40c63532a7dee696:py/s3/Leaderboards/util/Help/titles_sub_out.txt
 若者:Youth
 イカ:Squid
 タコ:Octopus
@@ -1042,4 +1048,7 @@ VIP:VIP
 自転車乗り:Cyclist
 天ぷら:Tempura
 支援者:Booster
+<<<<<<< HEAD:py/s3/Leaderboards/util/HelpingLists/titles_sbj.txt
 歯ごたえ:Resilience
+=======
+>>>>>>> a04447490dfe7f18de43ab6b40c63532a7dee696:py/s3/Leaderboards/util/Help/titles_sub_out.txt
