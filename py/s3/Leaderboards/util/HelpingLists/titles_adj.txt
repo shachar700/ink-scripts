@@ -1,0 +1,1028 @@
+ユノハナ大渓谷の:Scorch Gorge
+ゴンズイ地区の:Eeltail Alley
+ヤガラ市場の:Hagglefish Market
+マテガイ放水路の:Undertow Spillway
+ナンプラー遺跡の:Um'ami Ruins
+ナメロウ金属の:Mincemeat Metalworks
+クサヤ温泉の:Brinewater Springs
+ヒラメが丘団地の:Flounder Heights
+マサバ海峡大橋の:Hammerhead Bridge
+キンメダイ美術館の:Museum d'Alfonsino
+マヒマヒリゾート＆スパの:Mahi-Mahi Resort
+海女美術大学の:Inkblot Art Academy
+チョウザメ造船の:Sturgeon Shipyard
+ザトウマーケットの:MakoMart
+スメーシーワールドの:Wahoo World
+タラポートショッピングパークの:Barnacle & Dime
+コンブトラックの:Humpback Pump Track
+マンタマリア号の:Manta Maria
+オヒョウ海運の:Shipshape Cargo Co.
+タカアシ経済特区の:Crableg Capital
+バイガイ亭の:Robo ROM-en
+ネギトロ炭鉱の:Bluefin Depot
+カジキ空港の:Marlin Airport
+シェケナダムの:Spawning Grounds
+難破船ドン・ブラコの:Marooner's Bay
+トキシラズいぶし工房の:Salmonid Smokeyard
+アラマキ砦の:Sockeye Station
+ムニ・エール海洋発電所の:Gone Fission Hydroplant
+すじこジャンクション跡の:Jammin' Salmon Junction
+どんぴこ闘技場の:Bonerattle Arena
+レギュラーマッチの:Regular Battle
+バンカラマッチの:Anarchy Battle
+プライベートマッチの:Private Battle
+ヒーローモードの:Story Mode
+サーモンランの:Salmon Run
+Xマッチの:X Battle
+イベントマッチの:Challenge
+トリカラマッチの:Tricolor Battle
+ビッグランの:Big Run
+バイトチームコンテストの:Eggstra Work
+インク切れの:Inkless
+週末の:Clocked-Out
+目立ちたがりな:Attention-Seeking
+左利きの:Southpaw
+バンカラ街の:Splatsville's
+買い物好きの:Big-Money
+ふつうの:Normcore
+まことの:Faithful
+スーパー:Defensive
+カリスマ:Champion
+えいえんの:Royal
+ブキ屋の:Ammo Knights
+アタマ屋の:Naut Couture
+フク屋の:Man-o'-Wardrobe
+クツ屋の:Crush Station
+ザッカ屋の:Hotlantis
+ナワバトラー道場の:Tableturf Battling
+研修中の:Research-Conducting
+かけだしの:Apprentice
+はんにんまえの:Part-Time
+いちにんまえの:Go-Gettin'
+じゅくれんの:Overachieving
+たつじんの:Profreshional
+でんせつの:Legendary
+ラッシュ中の:Mid-Rush
+満潮の:High-Tide
+大量発生中の:Cohock-Chargin'
+霧の中の:Foggy
+干潮の:Low-Tide
+秋の:Fall-Lovin'
+春の:Spring-Lovin'
+冬の:Winter-Lovin'
+夏の:Summer-Lovin'
+ハッピーな:Blissed-Out
+モードな:Trendy
+エッジの効いた:Sharp-Edged
+おしゃれな:Stylin'
+クールな:Cool
+シンプルな:Basic
+トラディショナルな:Traditional
+トレンドの:Trendsetting
+ナチュラルな:All-Natural
+ホットな:Sizzlin'
+今を楽しむ:Day-Seizing
+秋色の:Fall-Themed
+春色の:Spring-Fresh
+きれいめの:Captivating
+ザ・:The
+金欠の:Low-Rolling
+リッチな:High-Rolling
+司令にあこがれる:Commanding
+ヒーローになりたい:Wannabe
+百発百中の:Deadeye
+つっぱしる:Reckless
+冷静沈着な:Chilled-Out
+ミュート中の:Silent
+両利きの:Ambidextrous
+立ってプレイする:Stand-Up
+配信中の:Livestreaming
+正座中の:Meditative
+右利きの:Right-Handed
+無口な:Low-Key
+プロ級:Pro
+アマチュア:Amateur
+ハイカラスクエアの:Inkopolis Square's
+ハイカラシティの:Inkopolis's Own
+ハイカラな:Inkopolitan
+野生の:Feral
+都会の:Downtown
+いなかの:Country-Born
+どん欲な:Greedy
+流行りの:Trending
+裏通りの:Shortcut-Taking
+夜型の:Fluid
+明日が楽しみな:Optimistic
+夢見がちな:Daydreamin'
+文化系:Clever
+腹ペコの:Hungry, Hungry
+負けずぎらいな:Competitive
+付け焼き刃の:Slapdash
+テキトーな:Half-Hearted
+朝型の:Early-Bird
+だいたんな:Daring
+大食いの:Hungry
+体育会系:Athletic
+早朝の:Early-Morning
+早撃ち:Inkslinging
+早起きな:Up-and-at-'Em
+深海の:Deep-Sea
+寝起きの:Rise-and-Shine
+渚の:Beachy
+自由自在な:Freewheelin'
+時代おくれの:Old-Fashioned
+三国一の:World's Best
+国民的:National
+荒波の:Stormy
+こどくな:Lonely
+限界を超えた:Groundbreaking
+強気な:Assertive
+泣く子もだまる:Super-Scary
+休日の:Vacationing
+久しぶりの:Nostalgic
+帰ってきた:Homecoming
+がんばる:Hard-Workin'
+甘党の:Sweet-Toothed
+海の:Seafaring
+自己流の:Self-Taught
+夏休みの:Summer-Breaking
+加工された:Processed
+よごれた:Not-So-Fresh
+塩味の:Salty
+運まかせの:Destined
+井の中の:Gullible
+ワイプアウトの:Wiped-Out
+ロックな:Rockin'
+レトロな:Retro
+ルーズな:Careless
+よくばりな:Avaricious
+ヤンチャな:Mischievous
+やわらかい:Soft
+無敵の:Unrivaled
+ムキムキの:Swole
+ポップな:Hip
+フレッシュな:Brand-New
+フルスロットル:Full-Throttle
+ピチピチの:Peppy
+犯人は:Law-Breaking
+はたらく:At-Work
+はじめての:The First
+のびしろのある:Promising
+塗りたくる:Ink-Sloshing
+波乗り:Wave-Riding
+トレンディーな:Swanky
+とれたての:Fresh-Catch
+データで戦う:Scientific
+秩序の:Orderly
+たったひとりの:The Lone
+センチメンタルな:Sappy
+スライドする:Dodge-Rolling
+スミにおけない:Notable
+瞬発力のある:Explosive
+シャイな:Shy
+シオカラ:Calamari
+サバよんだ:Fishy
+ケバ立つ:Puffed-Up
+ケバい:Fuzzy
+グレート:The Great
+今日が誕生日の:Birthday-Celebratin'
+気まぐれな:Whimsical
+キケンな:Dangerous
+ガチ:Legit
+おいしい:Dandy
+ウルトラ:Ultra
+ウキワの:Floaty
+インドアな:Indoor
+インクまみれの:Ink-Covered
+インクしたたる:Ink-Dripping
+イカす:Fresh
+イカした:Wicked-Fresh
+ありふれた:Stale
+アッサリ系の:A Simple
+８本足の:8-Tentacled
+１０本足の:10-Tentacled
+真冬の:Midwinter
+想像以上に:Mind-Blowing
+生涯:Lifelong
+世界三大:Top-Ranked
+実は:Actual
+成長中の:Growing
+修行の身の:Studious
+圧倒的:Overpowering
+逃げ足の速い:Spineless
+直撃する:Headstrong
+はねる:Leaping
+走り回る:Running
+守る:Protective
+攻める:Attacking
+護衛好きな:Watchful
+協力好きな:Cooperative
+隠れ上手の:Hidden
+センプクする:Submersible
+ゴリ押しの:Brute
+カバー好きな:Stealthy
+平日の:Everyday
+ゲーミング:Gaming
+論理的な:Logical
+頼もしい:Reliable
+優しい:Gentle
+自信満々の:Confident
+まじめな:Serious
+ひかえめな:Mild-Mannered
+ゴキゲンな:Cheerful
+グルメな:High-End
+おしゃべりな:Chatty
+おカネが全ての:Cash-Stacking
+うっかりものの:Absentminded
+愛にあふれた:Beloved
+風の:Windy
+水の:Watery
+闇の:Sneaky
+炎の:Fiery
+光の:Incandescent
+若い:Young
+組織の:Organized
+カンペキな:Perfect
+不思議の国の:Mysterious
+世界の中心の:Central
+モーレツな:Fierce
+あいまいな:Ambiguous
+刹那の:Instantaneous
+例えるなら:Exemplary
+涙の:Tear-Stained
+旅行好きの:Traveling
+来年の:Next Year's
+夕暮れ時の:Twilight
+唯一無二の:The One and Only
+アブラの乗った:Hibernating
+目力の強い:Sharp-Eyed
+迷子の:Lost
+明日から本気出す:Procrastinating
+名誉:Honorary
+無味無臭の:Tasteless
+無慈悲な:Merciless
+無限の:Infinite
+眠れる:Sleepy
+未来から来た:Time-Traveling
+味のある:Suave
+吠える:Howling
+変幻自在の:Phantasmagoric
+舞い降りた:Celestial
+くさっても:Aged
+必殺の:Lethal
+秘密の:Secret
+秘伝の:Esoteric
+おつかれの:Exhausted
+比較的:Better-Than-You
+汎用型:All-Purpose
+発光する:Gleaming
+白昼の:Midday
+売れ残った:Unnoticed
+破天荒な:Unprecedented
+ねばり強い:Tenacious
+アツアツの:Scorching
+日中の:Daytime
+肉厚な:Meaty
+ナゾの:Enigmatic
+動じない:Unflappable
+頭脳明晰な:Savvy
+逃げる:Fleeing
+電池切れの:Drained
+転生した:Reincarnated
+天日干しの:Sun-Dried
+通称:AKA
+超人的:Superhuman
+地下生まれの:Subterranean
+大量の:Massive
+大地の:Terrestrial
+大事な:Important
+大漁の:Jumbo
+大海の:Oceanic
+大きな:Big
+のんびりやの:Easygoing
+太古の:Ancient
+増殖する:Multiplying
+全自動:Fully Automatic
+閃光の:Glimmering
+船酔いした:Seasick
+染まらない:Unblemished
+戦う:Fightin'
+先端を行く:Front-Line
+絶滅危惧種の:Endangered
+石の上にも:Persistent
+聖なる:Sacred
+生まれながらの:Local
+世紀末:Turn-of-the-Century
+世紀の:This Century's Best
+水そうの中の:Aquarium-Bound
+推せる:Fan-Favorite
+人気が出てきた:Rising
+辛党の:Spicy
+神速の:Lightning-Fast
+神がかった:Awe-Inspiring
+真夜中の:Midnight
+真っ白な:Stark-White
+真っ赤な:Deep-Red
+真っ青な:Bright-Blue
+真っ黒な:Pitch-Black
+森の:Woodsy
+新世紀:Next-Generation
+新手の:Novice
+新感覚:Sensational
+寝転ぶ:Dead-Tired
+笑顔がまぶしい:Dazzling
+招待された:Tagalong
+小さな:Little
+諸行無常の:Third-Eye-Opened
+初夏の:Early-Summer
+純白の:Alabaster
+純粋な:Pure
+熟成した:Grown-Up
+祝・:Partying
+渋い:Dapper
+邪悪なる:Evil
+漆黒の:Jet-Black
+執念深い:Vindictive
+自称:Self-Proclaimed
+自撮りする:Selfie-Snapping
+時の:Eternity's
+私は:Self-Identified
+子どもっぽい:Childish
+仕事好きな:Job-Lovin'
+残暑の:Late-Summer
+斬新な:Cutting-Edge
+山の:Mountain-Dwelling
+撮影する:Picture-Taking
+昨日は:Yesterday's
+才色兼備な:Graceful
+最前線の:First-Wave
+最新型:All-New
+最初の:The Very First
+最後の:The Final
+今年の:This Year's
+今日だけ特別:Limited-Edition
+今を生きる:Ever-Present
+とどろく:Booming
+紅の:Crimson
+硬派な:Steady
+好奇心旺盛な:Nosy
+悟った:Enlightened
+孤高の:Aloof
+健康的な:Hearty
+芸術的な:Artsy
+空飛ぶ:Flying
+筋金入りの:Die-Hard
+強運の:Fortunate
+去年の:Last Year's
+究極の:The True Ultimate
+鬼のような:Impish
+かがやく:Shining
+記憶のない:Forgetful
+気持ちのこもった:Heartfelt
+丸腰の:Unarmed
+甘い:Sweet
+感情的な:Sentimental
+干潟の:Sandy
+完全燃焼した:Overheated
+海鮮:Catch-of-the-Day
+海パン:Pool-Ready
+過去から来た:Anachronistic
+音速の:Supersonic
+恋する:Lovely
+映画好きの:Movie-Lovin'
+影の:Shadowy
+運命の:Fated
+宇宙の:Cosmic
+引っこみ思案な:Zipped-Lips
+一本釣りの:Gone-Fishin'
+一日:24-Hour
+いちおう:Mostly
+異世界の:Otherworldly
+わかばマークの:Junior-Grade
+ワイルドな:Wild
+リアルな:A Real
+ラッキーな:Lucky
+よく漬かった:Seasoned
+ゆるふわ:Soft-and-Fluffy
+やっぱり:100%
+野菜好きの:Veggie-Lovin'
+もふもふの:Fluffy
+モダンな:Modern
+もう迷わない:Lost-and-Found
+もう負けられない:Won't-Lose
+めでたい:Auspicious
+無邪気な:Innocent
+ミラクル:Miraculous
+ミーハーな:Poser
+マンガ好きの:Comic-Lovin'
+まな板の上の:Vulnerable
+ホワイトな:Light
+ボムの:Bomb-tastic
+ペラペラの:Fluttering
+ふわふわの:Buoyant
+プルプルの:Wibbly-Wobbly
+フルーツ好きの:Fruit-Lovin'
+ブラックな:Dark
+かぐわしい:Fragrant
+ファッショナブル:Fashionable
+ビッグな:Big-Time
+びしょぬれの:Drenched
+ヒゲの:Bearded
+ヒエヒエの:Frosty
+ハンパない:Incredible
+遥か彼方の:Faraway
+ハデな:Flashy
+バズりたい:Fame-Seeking
+はじける:Bursting
+ハイブランド好きの:Designer-Label
+ハートを撃ちぬく:Swoon-Worthy
+ハードな:Strict
+ヌルヌルの:Slippery
+塗りの:Painted
+なんてったって:Climactic
+名もなき:Nameless
+ナイスな:Nice
+ドロドロの:Muddy
+となりの:Neighborly
+ととのった:Tidy
+トゲトゲの:Barbed
+トガった:Pointy
+デカい:Big Honkin'
+つるつるの:Smooth
+つめた～い:Iced
+ちょっぴり:Occasional
+ただの:Just Another
+ダシがとれる:Essential
+ダイビング:Diving
+ダイナマイトな:Dynamite
+そんなこんなで:Overall
+せっかちな:Bargain-Binned
+スリムな:Slim
+すみっこの:Out-of-Options
+スチームパンクな:Steampunky
+しびれる:Numb
+さんぽ好きの:Hiking
+さまよえる:Wandering
+ゴワゴワの:Unyielding
+コスパのいい:Economical
+ゴシック:Gothic
+こう見えて:Covert
+高性能の:High-Performing
+けなげな:Praiseworthy
+ゲーセンの:Arcade-Hopping
+グッド:Pretty Good
+空前絶後の:The GOAT
+ギラギラな:Glistening
+キラキラな:Sparkling
+巨大化した:Gigantified
+カメラ目線の:Camera-Facing
+カチカチの:Clockwork
+かたい:Solid
+１００％:Fully
+隠れた:Unperceived
+お肉好きの:Carnivorous
+お茶の間の:Homebound
+お魚好きの:Fish-Lovin'
+お絵描きする:Sketching
+おませな:Precocious
+おちゃのこさいさい:Easy-Peasy
+オーダーメイドの:Made-to-Order
+エレガントな:Elegant
+エラ呼吸の:Water-Breathing
+エターナル:The Eternal
+インスタント:Instant
+いつもの:The Usual
+いつだって:Ready-to-Go
+イキのいい:Lively
+いい波乗ってる:Unstoppable
+アングラの:Underground
+アルティメット:The Real Ultimate
+あふれ出る:Overflowing
+アニメ好きの:Toon-Lovin'
+あっぱれ:Splendid
+あったか～い:Warm-and-Cozy
+アガる:Amped-Up
+アウトドアな:Outdoorsy
+IT界の:Tech-Minded
+I LOVE :Lovable
+amiiboの:amiibo-Collecting
+５年後には:5-Year-Planning
+１０年前は:Decade-Experienced
+サンカクスの:Crab-N-Go
+夏色の:Summer-Fun
+冬色の:Winter-Ready
+配信終わりの:Not-Streaming
+昼型の:Daylit
+夜明けの:Dawning
+リアリストな:Realistic
+小食の:Lightly Snacking
+夜ふかしの:Late-Night
+ふとんの中の:Comfy-Cozy
+弱気な:Fearful
+冬休みの:Winter-Breaking
+いわゆる:So-Called
+直感を信じる:Intuitive
+こってり系の:A Complex
+初代:The Original
+二代目:Second-Generation
+最高の:The Best
+さすらいの:Roaming
+DJ:DJ
+荒野の:Badlands
+雪原の:Snowy
+海辺の:Seaside
+大空の:Big-Sky
+チョーシあげたい:Dry
+チョーシぼちぼちの:Raw
+チョーシいい:Awesome
+チョーシサイコーの:SUPERFRESH
+スプラトゥーンの:Splatoon
+アバンギャルド:Avant-Garde
+パンク:Punk
+モッズ:Mod
+ゴス:Goth
+ロカビリー:Rockabilly
+アメカジ:Casual
+スポーティー:Sporty
+B系:Breakin'
+ヴィジュアル系:Glam
+古着:Vintage
+エスニック系:Bohemian
+グランジ:Grunge
+ヒップホップ:Hip-Hop
+雷の:Thunderous
+電光石火の:Turbo
+老いた:Wizened
+今日は:Today's
+VR:Virtual
+５０％:Half
+３％:Microscopic
+瞬足の:Swift
+みんなの:Everyone's
+お気軽な:Carefree
+New!:New
+かせぎまくりの:High-Earning
+チャンネルの:Pool-Frequenting
+よみがえる:Revived
+ハチャメチャな:Preposterous
+力持ちな:Mighty
+チルい:Chill
+ウワサ好きの:Gossip-Loving
+ソーシャル:Social
+静かにたたずむ:Crafty
+希望の:Hopeful
+封印された:Sealed
+理論上可能な:Theoretically Possible
+スターターデッキの:Rookie
+スリーブに入った:Sleeved
+世界初の:World's First
+自然あふれる:Nature-Loving
+勝ち気な:Inflexible
+とっておきの:Prized
+なんちゃって:Faux
+お手ごろな:Reasonable
+暴れん坊な:Unfettered
+とんでもない:Unthinkable
+幻の:Phantom
+ゴールド:Gold
+シルバー:Silver
+不敗の:Undefeated
+新年の:New Year's
+今年最後の:This Year's Final
+新発売の:Newly Released
+今夜は:Tonight's
+ひとりぼっちの:Reclusive
+煮込み:Stewed
+電脳:Cyber-Brainiac
+魔法の:Magical
+本日の:Of-the-Moment
+いつまでも:Forevermore
+期待の:Anticipated
+メカニカル:Automated
+ダーク:Drab
+シャイニング:Reflective
+古代の:Hoary
+並行世界の:Parallel World's
+力を秘めた:Power-Concealing
+具だくさんの:Nourishing
+栄養満点の:Highly Nutritious
+ライジング:Ascending
+ヤングな:Sprightly
+いつも心に:Always-in-Our-Hearts
+みんな大好き:Sanguine
+徹夜明けの:Daybreaking
+今日も一日:Repeating
+鳴りやまない:Endlessly Ringing
+アンニュイな:Listless
+旬の:In-Season
+暴走する:Rampaging
+ピカピカの:Scintillating
+深淵の:Abyssal
+メイドイン:Originally from
+何も知らない:Unknowing
+マイブームは:Currently Obsessed with
+終わらない:Nonstop
+生きがいは:Vivacious
+アグレッシブな:Aggressive
+今すぐやる:Immediate
+天然の:Natural
+高カロリーな:High-Calorie
+低カロリーな:Low-Calorie
+最近は:Recently
+人望のある:Esteemed
+大好きな:Treasured
+実在する:Existing
+実在しない:Nonexistent
+バイト中の:On-the-Job
+どちらかといえば:Choosy
+繊細な:Delicate
+おおざっぱな:Haphazard
+金イクラの:Golden Egg–Like
+かっこいい:Ice-Cold
+バッテリー切れの:Low-Battery
+バッテリー満タンの:Fully Charged
+昼時の:Noontime
+休憩中の:Break-Time
+いそがしい:Unavailable
+見守る:Protecting
+待望の:Long-Awaited
+強くなった:Now-Stronger
+息をひそめる:Breath-Holding
+正真正銘の:Genuine
+素早い:Nimble
+動ける:Movable
+自宅の:At-Home
+故郷の:Hometown
+シューター界の:Shooter-Using
+ローラー界の:Roller-Using
+チャージャー界の:Charger-Using
+スロッシャー界の:Slosher-Using
+スピナー界の:Splatling-Using
+マニューバー界の:Dualie-Using
+シェルター界の:Brella-Using
+ブラスター界の:Blaster-Using
+フデ界の:Brush-Using
+ストリンガー界の:Stringer-Using
+ワイパー界の:Splatana-Using
+満腹の:Replete with
+水を得た:Watered
+勝利の:Triumphant
+華がある:Tasteful
+映える:Outstanding
+スタイリッシュ:Stylish
+三ツ星:Three-Star
+カレンダー通りの:Scheduled
+ナウい:Trailblazing
+タンパクな:Satiating
+新・:Newish
+昔ながらの:Same-as-Ever
+どこからどう見ても:Multifaceted
+正統派:Orthodox
+王道の:Regal
+伝統的な:Classic
+旧式:Old-School
+そぼくな:Simplistic
+先進的な:Advanced
+独創的な:Prototypical
+誠実な:Sincere
+柔軟な:Flexible
+クリエイティブな:Creative
+しゃれた:Classy
+スマートな:Slender
+上品な:Genteel
+ナゾめいた:Shrouded-in-Mystery
+目新しい:Novel
+すがすがしい:Brisk
+不滅の:Undying
+パワフルな:Powerful
+腹のすわった:Unwavering
+ゆうかんな:Heroic
+闊歩する:Swaggering
+キレがある:Astute
+押しの強い:Pushy
+打たれ強い:Resilient
+たくましい:Burly
+すご腕の:Resourceful
+ユルい:Lax
+命知らずの:Daredevilish
+ミリョク的な:Magnetic
+ダイナミックな:Dynamic
+ユニークな:Unique
+俊敏な:Keen-and-Nimble
+社交的な:Cordial
+堂々とした:Dignified
+マイペースな:Flowy
+ミステリアスな:Cryptic
+威勢のいい:High-Spirited
+逆転の:Mind-Changing
+シックな:Chic
+巧みな:Witty
+陽気な:Cheery
+ビビッドな:Vivid
+めずらしい:Rare
+スキのない:Closed-Off
+シュールな:Surreal
+科学的な:Methodical
+ゴージャスな:Gorgeous
+キュートな:Cute
+ぎこちない:Awkward
+奥深い:Deep
+飾らない:Unadorned
+ソフトな:Cushy
+紳士的な:Gallant
+有能な:Adept
+爽快な:Invigorating
+ベールに包まれた:Veiled
+しんちょうな:Discreet
+フランクな:Frank
+合理的な:Rational
+チャーミングな:Charming
+もの静かな:Quiet
+聡明な:Wise
+内気な:Introverted
+抽象的な:Abstract
+シャープな:Sharp
+ガッツがある:Gutsy
+本格派:Authentic
+経験豊かな:Learned
+老練な:Experienced
+有望な:Gifted
+かしこい:Ingenious
+健全な:Healthy
+素直な:Honest
+ちょうどいい:Just-Right
+嵐のような:Blustery
+ファンキーな:Funky
+エキサイティングな:Exciting
+ノリノリの:Exuberant
+礼儀正しい:Well-Mannered
+義理がたい:Dutiful
+腰が低い:Modest
+格式高い:Prestigious
+愛想がいい:Affable
+人なつっこい:Sociable
+気さくな:Good-Humored
+おくゆかしい:Urbane
+しおらしい:Meek
+ふくよかな:Well-Rounded
+お行儀のよい:Well-Behaved
+律儀な:Upstanding
+心が広い:Big-Hearted
+大御所:Influential
+型破りな:Mold-Breaking
+すさまじい:Ghastly
+机上の:Academic
+度胸がある:Plucky
+図太い:Cheeky
+豪快な:Glorious
+マニアックな:Maniacal
+偉大な:Magnificent
+エネルギッシュな:Energetic
+迷える:Misplaced
+事実上の:De Facto
+３３３倍:333x
+青春の:Ageless
+見た目通りの:Apparent
+見た目とちがって:Ostensible
+ドキドキの:Heart-Thumping
+バリバリの:Starchy
+ギリギリの:Barely
+カツカツの:Narrowly
+おもしろ:Amusing
+ワクワク:Excited
+シュッとした:Swishy
+ホンモノの:The Genuine
+名前のない:Unnamed
+もう少しで:Glory-Hogging
+ツンツンした:Prickly
+デレデレした:Lackadaisical
+生き残る:Surviving
+エキセントリックな:Eccentric
+クセが強い:Idiosyncratic
+おきて破りの:Rule-Breaking
+センスがある:Snazzy
+ウマい:Zesty
+今をときめく:Most Popular
+売り出し中の:On-the-Rise
+うなぎのぼりの:Skyrocketing
+世渡り上手な:World-Wise
+アシストする:Assisting
+カバーする:Covering
+ブルジョワな:Bourgeois
+クリーンな:Clean
+オールマイティーな:Almighty
+元気な:Robust
+奮い立つ:Enlivened
+前のめりな:Proactive
+荒ぶる:Unruly
+全力をそそぐ:Fully Committed
+ゆかいな:Delightful
+花形:Flower-Shaped
+ただならぬ:Extraordinary
+オリジナル:Original
+とびきり:Top-Notch
+ひそかな:Clandestine
+切ない:Painful
+話題の:Topical
+コテコテの:Lavish
+胸おどらせる:Thrilling
+デラックス:Deluxe
+トリプル:Triple
+ツイン:Twin
+ダブル:Double
+シングル:Individual
+コミカルな:Comical
+ワケあり:Imperfect
+かつてない:Uncommon
+天下の:Peerless
+ホネのある:Vertebrate
+エキスパート:Expert
+ジャイアント:Giant
+タフな:Stalwart
+しなやかな:Exquisite
+アクロバティック:Acrobatic
+うっとりする:Captivated
+ひよっこ:Fledgling
+ゆったりした:Relaxed
+おちゃめな:Playful
+ありのままの:True
+裏表がない:Candid
+まっすぐな:Straightforward
+ピュアな:Unalloyed
+おおらかな:Magnanimous
+ストイックな:Stoic
+あどけない:Angelic
+いちずな:Single-Minded
+あっさり:Bland
+こってり:Rich
+ひたむきな:Earnest
+突き進む:Forward-Plunging
+ありったけの:Total
+血気盛んな:Passionate
+破竹の勢いの:Inexorable
+質素な:Plain
+思慮深い:Thoughtful
+ファジーな:Frizzy
+なんとなく:Somehow
+しゃんとした:Upright
+おだやかな:Peaceful
+はかない:Ephemeral
+明るい:Bright
+サバサバした:Laid-Back
+パサパサした:Dried-Out
+メタリック:Metallic
+月並みな:Common
+さりげない:Nonchalant
+しぶとい:Stubborn
+こだわりの:Custom
+わがままな:Self-Centered
+したたかな:Determined
+不屈の:Indomitable
+ブレない:Unswerving
+ゆるぎない:Steadfast
+奮闘する:All-Out
+何が何でも:Imperative
+くじけない:Undiscouraged
+耐え忍ぶ:Enduring
+持続する:Persisting
+やりぬく:Completing
+貫き通す:Piercing
+燃える:Hyped
+のしあがる:Climbing
+きちんとした:Proper
+見どころがある:Noteworthy
+さっぱりした:Relieved
+ふてぶてしい:Brazen
+飾り気のない:Unaffected
+けた外れの:Exceptional
+歯ごたえのある:Challenging
+知的な:Intellectual
+良心的な:Fair
+分別のある:Discerning
+一流の:First-Rate
+芯の強い:Strong-Willed
+手強い:Formidable
+正直な:Direct
+覇気がある:Ambitious
+しっかりした:Sturdy
+強じんな:Dogged
+堅実な:Dependable
+きちょうめんな:Meticulous
+みがけば光る:Enterprising
+勇ましい:Courageous
+覚悟を決めた:Resolved
+熱狂的:Zealous
+知る人ぞ知る:Insider
+ウデ利きの:Skilled
+イケイケな:Enthusiastic
+すばらしい:Wonderful
+ヘビー級の:Heavy-Duty
+あがく:Struggling
+とことん:Ultimate
+便利な:Convenient
+せわしない:Restless
+余裕のある:Composed
+わかりやすい:Comprehensible
+残された:Abandoned
+ラスト:Last
+マジカル:Supernatural
+ざわざわする:Clamorous
+重い:Dense
+軽い:Airy
+自分だけの:My Very Own
+改良型:Improved
+ブルーな:Blue
+めちゃくちゃ:Ridiculous
+とても:Very
+本当の:Really
+大胆不敵な:Dauntless
+これからは:Perpetual
+新卒の:Recently Graduated
+定年の:Retirement-Age
+ハナから:Commencing
+天才の:Genius
+祈る:Praying
+ときどき:Sometime
+たまには:Occasionally
+やりすぎの:Overdone
+昼休みの:Lunchtime
+名物:Speciality
+不死鳥の:Phoenix-Like
+サボりがちな:Slacking
+感謝の:Grateful
+絶対的:Absolute
+あからさまな:Blatant
+全盛期の:Wistful
+飛び回る:Airborne
+仮初めの:Temporary
+目立つ:Conspicuous
+魅了する:Mesmerizing
+ブロンズ:Bronzed
+ノーマル:Normal
+ちょい足し:Lightly Seasoned
+甘えん坊な:Pampered
+バーチャル:Simulated
+フェスの:Splatfest's
+フェスマッチの:Splatfest Battle's
+ゴツい:Rugged
+モノクロの:Monochrome
+長そでの:Long-Sleeved
+コラボ好きの:Collab-Loving
+ストリート系:Swaggy
+さわやかな:Refreshing
+たぎる:Simmering
+ポジティブな:Positive
+黄昏の:Dim
+規則正しい:Stable
+にぎやかな:Merry
+みずみずしい:Ebullient
+追い風に乗る:Tailwind-Riding
+大大吉の:Super-Duper Lucky
+激レアの:Super-Rare
+一万人に一人の:One-in-a-Million
+引きが強い:Ace
+奇跡の:Astonishing
+恵まれた:Adored
+ツイてる:Charmed
+バンカラな:Splatlandian
+インド洋の:Indian Ocean
+北大西洋の:North Atlantic
+北太平洋の:North Pacific
+南極海の:Antarctic Ocean
+北極海の:Arctic Ocean
+南大西洋の:South Atlantic
+南太平洋の:South Pacific
+イカッチャの:The Shoal's Own
+クマサン商会の:Official-Grizzco
+クレーターの:The Crater's
+広場の:The City's Own
+ロビーの:Lobby-Bound
+三代目:Third-Gen
+混沌の:Chaotic
+真夏の:Midsummer
+オルタナの:Alternan
+追憶の:Reminiscent
+ネリバースの:Memversal
+サイド・オーダーの:Side Orderly
+群れる:Swarming
+行進する:Marching
+制圧する:Battering
+スケルトーンの:Jelletonal
+撒き散らす:Drizzling
+疾走する:Panicking
+反射する:Whirling
+伸縮する:Springing
+噴出する:Gushing
+産み出す:Spawning
+飛来する:Homing
+そびえ立つ:Towering
+積層し円転する:Layered-Rotator
+閉じこもり反発する:Elusive-Bounder
+増殖し共鳴する:Intensifying-Harmony
+エンジョイ:Fun
+最強の:The Strongest
+アゲアゲの:Crusty
+立ちこぎの:Saddle-Straddlin'
+サクサクの:Streamlined
+ロブイチの:Wandercrust
+プリプリの:Tender

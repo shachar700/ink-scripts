@@ -3,35 +3,31 @@ import base64
 
 #v6.0.0
 
-<<<<<<< HEAD
 with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00008.json", 'r', encoding="utf8") as file_in:
-=======
-with open("C:/Users/Admin/Downloads/festivals.ranking.JP.JUEA-00012.json", 'r', encoding="utf8") as file_in:
->>>>>>> a04447490dfe7f18de43ab6b40c63532a7dee696
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
 
 #extract mapping of badges from file to dictionary
 data_dict_badges = {}
-with open('C:/Users/Admin/OneDrive/מסמכים/ink-scripts/py/s3/Leaderboards/util/Help/badgemap.txt', 'r') as mapping:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/badgemap.txt', 'r') as mapping:
     for line in mapping:
         k, v = line.strip().split(':')
         data_dict_badges[k.strip()] = v.strip()
 
 #Update weapons list from: https://stat.ink/api/v3/weapon
 #extract weapon names from file to dictionary
-with open('C:/Users/Admin/OneDrive/מסמכים/ink-scripts/py/s3/Leaderboards/util/FromHika/weapon.json', 'r', encoding="utf8") as weapons_json_file:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/FromHika/weapon.json', 'r', encoding="utf8") as weapons_json_file:
     data_weapons = json.load(weapons_json_file)
 
 data_dict_adj = {}
-with open('C:/Users/Admin/OneDrive/מסמכים/ink-scripts/py/s3/Leaderboards/util/Help/titles_adj_out.txt', 'r', encoding="utf8") as titles_adj:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/titles_adj.txt', 'r', encoding="utf8") as titles_adj:
     for line in titles_adj:
         k, v = line.strip().split(':')
         data_dict_adj[k.strip()] = v.strip()
 
 data_dict_subj = {}
-with open('C:/Users/Admin/OneDrive/מסמכים/ink-scripts/py/s3/Leaderboards/util/Help/titles_sub_out.txt', 'r', encoding="utf8") as titles_subj:
+with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/titles_sbj.txt', 'r', encoding="utf8") as titles_subj:
     for line in titles_subj:
         k, v = line.strip().split(':')
         data_dict_subj[k.strip()] = v.strip()
@@ -42,7 +38,7 @@ with open('C:/Users/Admin/OneDrive/מסמכים/ink-scripts/py/s3/Leaderboards/u
 #print(data_dict)
 
 #create txt file if there aren't any there
-with open("C:/Users/Admin/Downloads/fest_jp_output.txt", 'w', encoding="utf8") as file_out:
+with open("C:/Users/User/Downloads/fest_jp_output.txt", 'w', encoding="utf8") as file_out:
 
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
