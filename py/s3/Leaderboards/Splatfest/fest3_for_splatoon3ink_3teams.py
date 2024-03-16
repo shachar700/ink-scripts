@@ -5,7 +5,7 @@ import base64
 
 # This program reads a JSON file and writes the contents to a text file with wiki markup.
 
-with open("C:/Users/User/Downloads/festivals.ranking.AP.UEA-90011.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.AP.JUEA-00008.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams

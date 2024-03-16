@@ -356,6 +356,8 @@
 1002311:Clash Blaster Neo 5
 1002410:Rapid Blaster Deco 4
 1002411:Rapid Blaster Deco 5
+1020110:Z+F Splat Charger 4
+1020111:Z+F Splat Charger 5
 1020210:Z+F Splatterscope 4
 1020211:Z+F Splatterscope 5
 1010110:Krak-On Splat Roller 4
@@ -475,8 +477,8 @@ empty:empty
 1011211:Painbrush Nouveau 5
 1070210:REEF-LUX 450 Deco 4
 1070211:REEF-LUX 450 Deco 5
-1080010:Neo Splatana Stamper 4
-1080011:Neo Splatana Stamper 5
+1080010:Splatana Stamper Nouveau 4
+1080011:Splatana Stamper Nouveau 5
 3100200:Straight Anarchy Battles (Series) 10
 3100201:Straight Anarchy Battles (Series) 50
 3100202:Straight Anarchy Battles (Series) 250
@@ -507,3 +509,82 @@ empty:empty
 3101350:X Battle Top 1000 Takoroka
 3101360:X Battle Top 500 Takoroka
 3101370:X Battle Top 10 Takoroka
+6000100:Pearl
+6000101:Marina
+6000102:Acht
+6000103:Pearl Drone
+6000104:Cipher
+6000105:Low Hacks
+5000090:Bonerattle Arena 200
+5000091:Bonerattle Arena 400
+5000092:Bonerattle Arena 600
+5000093:Bonerattle Arena 999
+8000000:Tournament Manager 16
+8000001:Tournament Manager 250
+8000002:Tournament Manager 1000
+4100120:Ye Olde Cloth Shoppe 100K
+4100121:Ye Olde Cloth Shoppe 1M
+4100020:Headspace 100K
+4100021:Headspace 1M
+4100220:Shella Fresh 100K
+4100221:Shella Fresh 1M
+6100250:Drone Chip A
+6100251:Drone Chip B
+6100252:Drone Chip C
+6100210:Support Chip A
+6100211:Support Chip B
+6100212:Support Chip C
+6100200:Damage Chip A
+6100201:Damage Chip B
+6100202:Damage Chip C
+6100240:Lucky Chip A
+6100241:Lucky Chip B
+6100242:Lucky Chip C
+6100230:Mobility Chip A
+6100231:Mobility Chip B
+6100232:Mobility Chip C
+6100220:Range Chip A
+6100221:Range Chip B
+6100222:Range Chip C
+1002050:Order Blaster Replica 4
+1002051:Order Blaster Replica 5
+1011150:Orderbrush Replica 4
+1011151:Orderbrush Replica 5
+1020410:Custom E-liter 4K Scope 4
+1020411:Custom E-liter 4K Scope 5
+1020310:Custom E-liter 4K 4
+1020311:Custom E-liter 4K 5
+1020150:Order Charger Replica 4
+1020151:Order Charger Replica 5
+1020010:New Squiffer 4
+1020011:New Squiffer 5
+1050500:Douser Dualies FF 4
+1050501:Douser Dualies FF 5
+1050150:Order Dualie Replicas 4
+1050151:Order Dualie Replicas 5
+1010310:Foil Flingza Roller 4
+1010311:Foil Flingza Roller 5
+1010150:Order Roller Replica 4
+1010151:Order Roller Replica 5
+1080050:Order Splatana Replica 4
+1080051:Order Splatana Replica 5
+1060300:Recycled Brella 24 Mk I 4
+1060301:Recycled Brella 24 Mk I 5
+1060050:Order Brella Replica 4
+1060051:Order Brella Replica 5
+1000470:Order Shot Replica 4
+1000471:Order Shot Replica 5
+1000460:Octo Shot Replica 4
+1000461:Octo Shot Replica 5
+1030510:Dread Wringer D 4
+1030511:Dread Wringer D 5
+1030050:Order Slosher Replica 4
+1030051:Order Slosher Replica 5
+1030410:Custom Explosher 4
+1030411:Custom Explosher 5
+1040410:Nautilus 79 4
+1040411:Nautilus 79 5
+1040150:Order Splatling Replica 4
+1040151:Order Splatling Replica 5
+1070150:Order Stringer Replica 4
+1070151:Order Stringer Replica 5

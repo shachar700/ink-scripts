@@ -20,12 +20,14 @@
 タカアシ経済特区の:Crableg Capital
 バイガイ亭の:Robo ROM-en
 ネギトロ炭鉱の:Bluefin Depot
+カジキ空港の:Marlin Airport
 シェケナダムの:Spawning Grounds
 難破船ドン・ブラコの:Marooner's Bay
 トキシラズいぶし工房の:Salmonid Smokeyard
 アラマキ砦の:Sockeye Station
 ムニ・エール海洋発電所の:Gone Fission Hydroplant
 すじこジャンクション跡の:Jammin' Salmon Junction
+どんぴこ闘技場の:Bonerattle Arena
 レギュラーマッチの:Regular Battle
 バンカラマッチの:Anarchy Battle
 プライベートマッチの:Private Battle
@@ -555,6 +557,7 @@ B系:Breakin'
 VR:Virtual
 ５０％:Half
 ３％:Microscopic
+瞬足の:Swift
 みんなの:Everyone's
 お気軽な:Carefree
 New!:New
@@ -970,6 +973,8 @@ New!:New
 たぎる:Simmering
 ポジティブな:Positive
 黄昏の:Dim
+規則正しい:Stable
+にぎやかな:Merry
 みずみずしい:Ebullient
 追い風に乗る:Tailwind-Riding
 大大吉の:Super-Duper Lucky
@@ -978,6 +983,7 @@ New!:New
 引きが強い:Ace
 奇跡の:Astonishing
 恵まれた:Adored
+ツイてる:Charmed
 バンカラな:Splatlandian
 インド洋の:Indian Ocean
 北大西洋の:North Atlantic
@@ -995,9 +1001,28 @@ New!:New
 混沌の:Chaotic
 真夏の:Midsummer
 オルタナの:Alternan
+追憶の:Reminiscent
+ネリバースの:Memversal
+サイド・オーダーの:Side Orderly
+群れる:Swarming
+行進する:Marching
+制圧する:Battering
+スケルトーンの:Jelletonal
+撒き散らす:Drizzling
+疾走する:Panicking
+反射する:Whirling
+伸縮する:Springing
+噴出する:Gushing
+産み出す:Spawning
+飛来する:Homing
+そびえ立つ:Towering
+積層し円転する:Layered-Rotator
+閉じこもり反発する:Elusive-Bounder
+増殖し共鳴する:Intensifying-Harmony
 エンジョイ:Fun
 最強の:The Strongest
 アゲアゲの:Crusty
 立ちこぎの:Saddle-Straddlin'
 サクサクの:Streamlined
 ロブイチの:Wandercrust
+プリプリの:Tender

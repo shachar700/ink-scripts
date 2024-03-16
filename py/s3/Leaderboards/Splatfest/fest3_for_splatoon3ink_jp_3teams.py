@@ -3,7 +3,7 @@ import base64
 
 #v6.0.0
 
-with open("C:/Users/User/Downloads/festivals.ranking.JP.J-00011.json", 'r', encoding="utf8") as file_in:
+with open("C:/Users/User/Downloads/festivals.ranking.JP.JUEA-00008.json", 'r', encoding="utf8") as file_in:
     data = json.load(file_in)
 
 #data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
