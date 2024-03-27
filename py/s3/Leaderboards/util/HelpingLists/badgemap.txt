@@ -534,9 +534,9 @@ empty:empty
 6100210:Support Chip A
 6100211:Support Chip B
 6100212:Support Chip C
-6100200:Damage Chip A
-6100201:Damage Chip B
-6100202:Damage Chip C
+6100200:Power Chip A
+6100201:Power Chip B
+6100202:Power Chip C
 6100240:Lucky Chip A
 6100241:Lucky Chip B
 6100242:Lucky Chip C

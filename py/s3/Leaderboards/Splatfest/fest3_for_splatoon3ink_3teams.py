@@ -1,26 +1,50 @@
+import os
 import json
 import base64
+import tkinter as tk
+from tkinter import filedialog
 
-#v6.0.0
+#v7.1.0
 
-# This program reads a JSON file and writes the contents to a text file with wiki markup.
+# Create a Tkinter root window
+root = tk.Tk()
+root.withdraw()  # Hide the root window
 
-with open("C:/Users/User/Downloads/festivals.ranking.AP.JUEA-00008.json", 'r', encoding="utf8") as file_in:
-    data = json.load(file_in)
+# Ask the user to select a file
+file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
 
-#data = data['data']['fest']['teams'][2]['result']['rankingHolders']['edges'] #0,1,2 for alpha,bravo,charlie teams
+# Check if a file was selected
+if file_path:
+    with open(file_path, 'r', encoding="utf8") as file_in:
+        data = json.load(file_in)
+        # Process the data as needed
+else:
+    print("No file selected.")
+
+# Get the directory of the current script
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Relative paths to the files
+util_dir = os.path.join(current_dir, 'util', 'HelpingLists')
+# Relative path to the badgemap.txt file
+badgemap_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'badgemap.txt')
+
 
 data_dict = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingLists/badgemap.txt', 'r') as mapping:
+with open(badgemap_path, 'r') as mapping:
     for line in mapping:
         k, v = line.strip().split(':')
         data_dict[k.strip()] = v.strip()
 
-#print(data_dict)
 
-#create txt file if there aren't any there
-with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as file_out:
+# Get the user's home directory
+home_dir = os.path.expanduser("~")
 
+# Output file path
+output_path = os.path.join(home_dir, 'Downloads', 'fest_output.txt')
+
+# Write data to the output file
+with open(output_path, 'w', encoding="utf8") as file_out:
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
@@ -46,7 +70,6 @@ with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as fi
             badge1 = ""
             badge2 = ""
             badge3 = ""
-            print(badges)
 
             if badges[0] is not None:
                 badge1 = badges[0]["id"]
@@ -75,33 +98,21 @@ with open('C:/Users/User/Downloads/fest_output.txt', 'w', encoding="utf8") as fi
             else:
                 badge3 = "empty"
 
-            badgeslist = [badge1,badge2,badge3]
-            print("badgeslist:")
-            print(badgeslist)
-            #for item in badgeslist:
-                #mapping.find(badge1)
-
-            #switch all cases
+            badgeslist = [badge1, badge2, badge3]
 
             file_out.write("|-\n")
             file_out.write("| " +  str(rank) + " || " + name + " <small>#" + nameid + "</small> || " + str(power)  +
                         " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
                         "]] [[" + weapon+ "]] || " + title + " || {{UserSplashtag|" + banner)
-            if badgeslist == ['empty', 'empty', 'empty']:
-                print("all are empty")
-            else:
+            if badgeslist != ['empty', 'empty', 'empty']:
                 if badge1 in data_dict:
                     file_out.write("|" + data_dict[badge1])
                 if badge2 in data_dict:
                     file_out.write("|" + data_dict[badge2])
                 if badge3 in data_dict:
                     file_out.write("|" + data_dict[badge3])
-            # if badge1 != '':
-            #     file_out.write("|" + badgeslist[0])
-            # if badge2 != '':
-            #     file_out.write("|" + badgeslist[1])
-            # if badge3 != '':
-            #     file_out.write("|" + badgeslist[2])
             file_out.write("}}\n")
 
         file_out.write("|}\n\n")
+
+print("Done!")
