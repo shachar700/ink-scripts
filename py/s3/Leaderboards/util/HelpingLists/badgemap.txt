@@ -588,3 +588,24 @@ empty:empty
 1040151:Order Splatling Replica 5
 1070150:Order Stringer Replica 4
 1070151:Order Stringer Replica 5
+1002210:Custom Range Blaster 4
+1002210:Custom Range Blaster 5
+1020510:Bamboozler 14 Mk II 4
+1020511:Bamboozler 14 Mk II 5
+1040210:Custom Hydra Splatling 4
+1040211:Custom Hydra Splatling 5
+1040510:Heavy Edit Splatling Nouveau 4
+1040511:Heavy Edit Splatling Nouveau 5
+1050510:Custom Douser Dualies FF 4
+1050511:Custom Douser Dualies FF 5
+1060310:Recycled Brella 24 Mk II 4
+1060311:Recycled Brella 24 Mk II 5
+1080200:Mint Decavitator 4
+1080201:Mint Decavitator 5
+1080210:Charcoal Decavitator 4
+1080211:Charcoal Decavitator 5
+1070300:Wellstring V 4
+1070301:Wellstring V 5
+1070310:Custom Wellstring V 4
+1070311:Custom Wellstring V 5
+5211000:Dethroned a Triumvirate

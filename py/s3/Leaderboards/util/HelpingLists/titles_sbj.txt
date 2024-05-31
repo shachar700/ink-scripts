@@ -61,6 +61,8 @@ S-BLAST使い:S-BLAST '92 User
 イグザミナー使い:Heavy Edit Splatling User
 ガエンFF使い:Douser Dualies FF User
 24式張替傘使い:Recycled Brella 24 Mk I User
+フルイドV使い:Wellstring V User
+デンタルワイパー使い:Decavitator User
 スプラッシュボム使い:Splat Bomb User
 キューバンボム使い:Suction Bomb User
 クイックボム使い:Burst Bomb User
@@ -986,6 +988,8 @@ VIP:VIP
 カオス:Chaos
 ニューフェイス:Noob
 先導者:Vanguard
+豪傑:Luminary
+Playing:Playing
 ラッキーマン:Lucky Duck
 天然記念物:Protected Species
 選ばれし者:Chosen One
@@ -993,6 +997,7 @@ VIP:VIP
 チャンスメーカー:Point Guard
 幸せ者:Optimist
 勝負師:Daredevil
+当選者:Prizewinner
 若者:Youth
 イカ:Squid
 タコ:Octopus
@@ -1043,3 +1048,4 @@ VIP:VIP
 天ぷら:Tempura
 支援者:Booster
 歯ごたえ:Resilience
+エンディング:Finale

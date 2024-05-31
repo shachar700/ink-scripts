@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dbe7df-b203-4163-b5bc-4e0d16f0ec46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/ink-scripts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leaderboards/util/Help/titles_adj.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_jp_3teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_jp_3teams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/remove_ruby.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/Help/remove_ruby.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_jp_to_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/Help/titles_jp_to_en.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/Help/badgemap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_adj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/Help/titles_adj_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_sbj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromHika/weapon.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromHika/weapon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromLean/JPja_full_unicode.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromLean/JPja_full_unicode.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromLean/USen_full_unicode.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromLean/USen_full_unicode.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/badgemap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/remove_ruby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_adj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_adj_out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_jp_to_en.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub_out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_adj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_adj.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_sbj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_sbj.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,9 +153,9 @@
       <list>
         <item itemvalue="Python.remove_ruby" />
         <item itemvalue="Python.titles_jp_to_en" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.fest3_for_splatoon3ink_jp_3teams" />
         <item itemvalue="Python.fest3_for_splatoon3ink_3teams" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>

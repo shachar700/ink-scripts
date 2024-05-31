@@ -1,5 +1,8 @@
 import json
 
+#Download language data from: https://github.com/Leanny/splat3/blob/main/data/language
+# USen_full_unicode.json and JPja_full_unicode.json
+
 def create_japanese_english_mapping(json_file_japanese, json_file_english, output_file_adj, output_file_sub):
     with open(json_file_japanese, 'r', encoding='utf-8') as jap_file, open(json_file_english, 'r',
                                                                            encoding='utf-8') as eng_file:
@@ -38,7 +41,7 @@ def create_japanese_english_mapping(json_file_japanese, json_file_english, outpu
 # Replace 'japanese.json', 'english.json', 'titles_adj.txt', and 'titles_sub.txt' with your file paths
 json_file_japanese = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/FromLean/JPja_full_unicode.json'
 json_file_english = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/FromLean/USen_full_unicode.json'
-output_file_adj = 'titles_adj2.txt'
-output_file_sub = 'titles_sub2.txt'
+output_file_adj = 'titles_adj.txt'
+output_file_sub = 'titles_sbj.txt'
 
 create_japanese_english_mapping(json_file_japanese, json_file_english, output_file_adj, output_file_sub)
