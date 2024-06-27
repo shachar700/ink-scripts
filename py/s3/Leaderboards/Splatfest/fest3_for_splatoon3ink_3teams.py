@@ -4,7 +4,7 @@ import base64
 import tkinter as tk
 from tkinter import filedialog
 
-#v7.1.0
+#v8.0.0
 
 # Create a Tkinter root window
 root = tk.Tk()

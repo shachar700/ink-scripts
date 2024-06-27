@@ -1,8 +1,50 @@
+import os
 import json
 import base64
+import tkinter as tk
+from tkinter import filedialog
 
-with open('C:/Users/User/Downloads/new season 1st.json', 'r', encoding="utf8") as file_in:
-    data = json.load(file_in)
+# Create a Tkinter root window
+root = tk.Tk()
+root.withdraw()  # Hide the root window
+
+# Ask the user to select a file
+file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
+
+# Check if a file was selected
+if file_path:
+    with open(file_path, 'r', encoding="utf8") as file_in:
+        data = json.load(file_in)
+        # Process the data as needed
+else:
+    print("No file selected.")
+
+# Extract the base name of the input file (e.g., 'input_name' from 'input_name.json')
+base_name = os.path.splitext(os.path.basename(file_path))[0]
+
+# Create the output file name by appending '_out' to the base name
+output_file_name = base_name + '_out' + '.txt'
+
+# Get the user's home directory
+home_dir = os.path.expanduser("~")
+
+# Output file path
+output_path = os.path.join(home_dir, 'Downloads', output_file_name)
+
+# Get the directory of the current script
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Relative paths to the files
+util_dir = os.path.join(current_dir, 'util', 'HelpingLists')
+# Relative path to the badgemap.txt file
+badgemap_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'badgemap.txt')
+
+
+data_dict = {}
+with open(badgemap_path, 'r') as mapping:
+    for line in mapping:
+        k, v = line.strip().split(':')
+        data_dict[k.strip()] = v.strip()
 
 # 0 for solo
 # 1 for pair
@@ -11,15 +53,10 @@ data_solo = data['data']['rankingPeriod']['teams'][0]['details']['nodes']
 data_pair = data['data']['rankingPeriod']['teams'][1]['details']['nodes']
 data_team = data['data']['rankingPeriod']['teams'][2]['details']['nodes']
 
-data_dict = {}
-with open('C:/Users/User/Documents/github repositories/ink-scripts/py/s3/badgemap.txt', 'r') as mapping:
-    for line in mapping:
-        k, v = line.strip().split(':')
-        data_dict[k.strip()] = v.strip()
+# Write data to the output file
+with open(output_path, 'w', encoding="utf8") as file_out:
 
-with open('C:/Users/User/Downloads/new_season_1st_parsed.txt', 'w', encoding="utf8") as file_out:
-
-    file_out.write("===SOLO===\n")
+    file_out.write("=== Solo ===\n")
 
     file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
     file_out.write("! Rank !! Power !! Name !! Weapon !! Title !! <br>Splashtag\n")
@@ -75,7 +112,7 @@ with open('C:/Users/User/Downloads/new_season_1st_parsed.txt', 'w', encoding="ut
 
         file_out.write("|-\n")
         file_out.write("| " + str(rank) + " || " + str(power) + " || " + name + " <small>#" + nameid + "</small> " +
-                       " || [[File:S3 Weapon Main " + weapon + " Flat.png|24px|link=" + weapon +
+                       " || [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon +
                        "]] [[" + weapon + "]] || " + title + " || {{UserSplashtag|" + banner)
 
         if badge1 in data_dict:
@@ -89,7 +126,7 @@ with open('C:/Users/User/Downloads/new_season_1st_parsed.txt', 'w', encoding="ut
 
     file_out.write("|}\n")
 
-    file_out.write("===PAIR===\n")
+    file_out.write("=== Pair ===\n")
 
     file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
     file_out.write("! Rank !! Power !! Name !! Weapon !! Title !! <br>Splashtag\n")
@@ -151,7 +188,7 @@ with open('C:/Users/User/Downloads/new_season_1st_parsed.txt', 'w', encoding="ut
                 badge3 = "empty"
 
             file_out.write("| " + name + " <small>#" + nameid + "</small>" +
-                           " || [[File:S3 Weapon Main " + weapon + " Flat.png|24px|link=" + weapon +
+                           " || [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon +
                            "]] [[" + weapon + "]] || " + title + " || {{UserSplashtag|" + banner)
 
             if badge1 in data_dict:
@@ -169,7 +206,7 @@ with open('C:/Users/User/Downloads/new_season_1st_parsed.txt', 'w', encoding="ut
 
     file_out.write("|}\n")
 
-    file_out.write("===TEAM===\n")
+    file_out.write("=== Team ===\n")
 
     file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
     file_out.write("! Rank !! Power !! Name !! Weapon !! Title !! <br>Splashtag\n")
@@ -238,7 +275,7 @@ with open('C:/Users/User/Downloads/new_season_1st_parsed.txt', 'w', encoding="ut
                 badge3 = "empty"
 
             file_out.write("| " + name + " <small>#" + nameid + "</small>" +
-                           " || [[File:S3 Weapon Main " + weapon + " Flat.png|24px|link=" + weapon +
+                           " || [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon +
                            "]] [[" + weapon + "]] || " + title + " || {{UserSplashtag|" + banner)
 
             if badge1 in data_dict:

@@ -3,21 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="43dbe7df-b203-4163-b5bc-4e0d16f0ec46" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromHika/weapon.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromHika/weapon.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromLean/JPja_full_unicode.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromLean/JPja_full_unicode.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/FromLean/USen_full_unicode.json" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/FromLean/USen_full_unicode.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/badgemap.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/remove_ruby.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_adj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_adj_out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_jp_to_en.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/Help/titles_sub_out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/badgemap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_adj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_adj.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_sbj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingLists/titles_sbj.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/remove_ruby.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/util/HelpingScripts/titles_jp_to_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3 chatgpt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_jp_3teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Splatfest/fest3_for_splatoon3ink_jp_3teams.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +32,28 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/github repositories/ink-scripts/py/s3&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.remove_ruby">
+  <component name="RunManager" selected="Python.challenge lists splatnet3">
+    <configuration name="challenge lists splatnet3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="s3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leaderboards/Challenge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fest3_for_splatoon3ink_3teams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="s3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,27 +117,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="s3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leaderboards" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leaderboards/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="titles_jp_to_en" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="s3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.challenge lists splatnet3" />
         <item itemvalue="Python.remove_ruby" />
         <item itemvalue="Python.titles_jp_to_en" />
         <item itemvalue="Python.fest3_for_splatoon3ink_jp_3teams" />
         <item itemvalue="Python.fest3_for_splatoon3ink_3teams" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -169,5 +158,16 @@
       <updated>1702415836734</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
