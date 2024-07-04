@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dbe7df-b203-4163-b5bc-4e0d16f0ec46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leaderboards/Challenge/challenge_lists_splatnet3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2ZSWCwgSZuCnBaXVCg0qxur3tsb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,8 +45,8 @@
       <recent name="C:\Users\User\Documents\github repositories\ink-scripts\py\s3\Leaderboards\XBattle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.challenge lists splatnet3">
-    <configuration name="challenge lists splatnet3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.challenge_lists_splatnet3">
+    <configuration name="challenge_lists_splatnet3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="s3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\github repositories\ink-scripts\py\s3\Leaderboards\Challenge\challenge_lists_splatnet3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.challenge lists splatnet3" />
+        <item itemvalue="Python.challenge_lists_splatnet3" />
         <item itemvalue="Python.xbattle leaderboard splatoon3ink" />
         <item itemvalue="Python.xbattle weapons splatoon3ink" />
         <item itemvalue="Python.parsestringtojson" />
