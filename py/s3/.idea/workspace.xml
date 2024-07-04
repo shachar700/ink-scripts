@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dbe7df-b203-4163-b5bc-4e0d16f0ec46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leaderboards/XBattle/xbattle weapons splatoon3ink.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/XBattle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/XBattle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Documents\github repositories\ink-scripts\py\s3\Leaderboards\XBattle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.xbattle weapons splatoon3ink">
+  <component name="RunManager" selected="Python.challenge lists splatnet3">
     <configuration name="challenge lists splatnet3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="s3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.xbattle weapons splatoon3ink" />
+        <item itemvalue="Python.challenge lists splatnet3" />
         <item itemvalue="Python.xbattle leaderboard splatoon3ink" />
+        <item itemvalue="Python.xbattle weapons splatoon3ink" />
         <item itemvalue="Python.parsestringtojson" />
         <item itemvalue="Python.harhelper" />
-        <item itemvalue="Python.challenge lists splatnet3" />
       </list>
     </recent_temporary>
   </component>
