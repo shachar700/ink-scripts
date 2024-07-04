@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43dbe7df-b203-4163-b5bc-4e0d16f0ec46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leaderboards/Challenge/challenge_lists_splatnet3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge lists splatnet3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboards/Challenge/challenge_lists_splatnet3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leaderboards/Challenge/challenge_lists_splatnet3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

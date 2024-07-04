@@ -341,6 +341,5 @@ def main():
     if output_path and data_dict and data_solo and data_pair:
         parse_text(output_path, data_dict, data_solo, data_pair, data_team)
 
-
 if __name__ == "__main__":
     main()
