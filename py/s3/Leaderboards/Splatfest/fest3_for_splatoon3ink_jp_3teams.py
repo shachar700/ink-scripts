@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import filedialog
 import os
 
-#v8.0.0
+#v9.2.0
 
 # Create a Tkinter root window
 root = tk.Tk()
@@ -152,29 +152,20 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 if subject in title:
                     subj_title = data_dict_subj[subject]
 
+                file_out.write("|-\n")
+                file_out.write("| " + str(rank) + " || " + str(
+                    power) + " || {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
 
-            file_out.write("|-\n")
-            file_out.write("| " +  str(rank) + " || " + name + " <small>#" + nameid + "</small> || " + str(power)  +
-                           " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
-                           "]] [[" + weapon+ "]] || " + adj_title + " " + subj_title + " || {{UserSplashtag|" + banner)
+                if badgeslist != ['Null', 'Null', 'Null']:
+                    if badge1 in data_dict_badges:
+                        file_out.write("|badge1=" + data_dict_badges[badge1])
+                    if badge2 in data_dict_badges:
+                        file_out.write("|badge2=" + data_dict_badges[badge2])
+                    if badge3 in data_dict_badges:
+                        file_out.write("|badge3=" + data_dict_badges[badge3])
+                file_out.write("}}\n"
+                               "| [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon + "]] [[" + weapon + "]]\n")
 
-            if badgeslist != ['empty', 'empty', 'empty']:
-                #print("all are empty")
-            #else:
-                if badge1 in data_dict_badges:
-                    file_out.write("|" + data_dict_badges[badge1])
-                if badge2 in data_dict_badges:
-                    file_out.write("|" + data_dict_badges[badge2])
-                if badge3 in data_dict_badges:
-                    file_out.write("|" + data_dict_badges[badge3])
-            # if badge1 != '':
-            #     file_out.write("|" + badgeslist[0])
-            # if badge2 != '':
-            #     file_out.write("|" + badgeslist[1])
-            # if badge3 != '':
-            #     file_out.write("|" + badgeslist[2])
-            file_out.write("}}\n")
-
-        file_out.write("|}\n\n")
+            file_out.write("|}\n\n")
 
 print("Done!")

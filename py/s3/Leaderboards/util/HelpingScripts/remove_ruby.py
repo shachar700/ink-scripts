@@ -9,7 +9,7 @@ def remove_ruby_tags(input_file, output_file):
 
 # Repeat process for both adjective and subject titles
 # Replace 'input.txt' and 'output.txt' with your input and output file paths
-input_file = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingScripts/titles_sbj.txt'
-output_file = 'C:/Users/User/Documents/github repositories/ink-scripts/py/s3/Leaderboards/util/HelpingScripts/titles_sbj2.txt'
+input_file = 'C:/Users/User/Documents/githubrepositories/ink-scripts/py/s3/Leaderboards/util/HelpingScripts/titles_sbj.txt'
+output_file = 'C:/Users/User/Documents/githubrepositories/ink-scripts/py/s3/Leaderboards/util/HelpingScripts/titles_sbj2.txt'
 
 remove_ruby_tags(input_file, output_file)

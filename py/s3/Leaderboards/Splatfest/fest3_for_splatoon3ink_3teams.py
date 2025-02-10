@@ -4,7 +4,7 @@ import base64
 import tkinter as tk
 from tkinter import filedialog
 
-#v8.0.0
+# v9.2.0
 
 # Create a Tkinter root window
 root = tk.Tk()
@@ -29,13 +29,32 @@ util_dir = os.path.join(current_dir, 'util', 'HelpingLists')
 # Relative path to the badgemap.txt file
 badgemap_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'badgemap.txt')
 
+# Relative path to the titles_adj.txt file
+titles_adj_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'titles_adj.txt')
 
-data_dict = {}
+# Relative path to the titles_sbj.txt file
+titles_sbj_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'titles_sbj.txt')
+
+data_dict_badges = {}
 with open(badgemap_path, 'r') as mapping:
     for line in mapping:
         k, v = line.strip().split(':')
-        data_dict[k.strip()] = v.strip()
+        data_dict_badges[k.strip()] = v.strip()
 
+data_dict_adj = {}
+with open(titles_adj_path, 'r', encoding="utf8") as titles_adj:
+    for line in titles_adj:
+        k, v = line.strip().split(':')
+        data_dict_adj[k.strip()] = v.strip()
+
+data_dict_subj = {}
+with open(titles_sbj_path, 'r', encoding="utf8") as titles_subj:
+    for line in titles_subj:
+        k, v = line.strip().split(':')
+        data_dict_subj[k.strip()] = v.strip()
+
+#print(data_dict_adj)
+#print(data_dict_subj)
 
 # Get the user's home directory
 home_dir = os.path.expanduser("~")
@@ -46,9 +65,10 @@ output_path = os.path.join(home_dir, 'Downloads', 'fest_output.txt')
 # Write data to the output file
 with open(output_path, 'w', encoding="utf8") as file_out:
     for team in data['data']['fest']['teams']:
-        file_out.write("==== " + team["teamName"] +" ====\n")
+        file_out.write("==== " + team["teamName"] + " ====\n")
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
-        file_out.write("! Rank !! Name !! Power !! Weapon !! Title !! <br>Splashtag\n")
+        file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
+        #in-case of pages 2-4 from splatnet3 app use for player in data['data']['node']['result']['rankingHolders']['edges']:
         for player in team['result']['rankingHolders']['edges']:
             player = player["node"]
             rank = player["rank"]
@@ -78,7 +98,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 badge1 = badge1_bytes.decode('ascii')
                 badge1 = badge1[6:]
             else:
-                badge1 = "empty"
+                badge1 = "Null"
 
             if badges[1] is not None:
                 badge2 = badges[1]["id"]
@@ -87,7 +107,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 badge2 = badge2_bytes.decode('ascii')
                 badge2 = badge2[6:]
             else:
-                badge2 = "empty"
+                badge2 = "Null"
 
             if badges[2] is not None:
                 badge3 = badges[2]["id"]
@@ -96,22 +116,23 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 badge3 = badge3_bytes.decode('ascii')
                 badge3 = badge3[6:]
             else:
-                badge3 = "empty"
+                badge3 = "Null"
 
             badgeslist = [badge1, badge2, badge3]
 
             file_out.write("|-\n")
-            file_out.write("| " +  str(rank) + " || " + name + " <small>#" + nameid + "</small> || " + str(power)  +
-                        " || [[File:S3 Weapon Main " +weapon + " 2D Current.png|24px|link=" +weapon +
-                        "]] [[" + weapon+ "]] || " + title + " || {{UserSplashtag|" + banner)
-            if badgeslist != ['empty', 'empty', 'empty']:
-                if badge1 in data_dict:
-                    file_out.write("|" + data_dict[badge1])
-                if badge2 in data_dict:
-                    file_out.write("|" + data_dict[badge2])
-                if badge3 in data_dict:
-                    file_out.write("|" + data_dict[badge3])
-            file_out.write("}}\n")
+            file_out.write("| " + str(rank) + " || " + str(
+                power) + " || {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
+
+            if badgeslist != ['Null', 'Null', 'Null']:
+                if badge1 in data_dict_badges:
+                    file_out.write("|badge1=" + data_dict_badges[badge1])
+                if badge2 in data_dict_badges:
+                    file_out.write("|badge2=" + data_dict_badges[badge2])
+                if badge3 in data_dict_badges:
+                    file_out.write("|badge3=" + data_dict_badges[badge3])
+            file_out.write("}}\n"
+                           "| [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon + "]] [[" + weapon + "]]\n")
 
         file_out.write("|}\n\n")
 

@@ -28,7 +28,7 @@ def check_for_updates():
                     call(["git", "checkout", "."], stdout=FNULL, stderr=FNULL)
                     call(["git", "checkout", "master"], stdout=FNULL, stderr=FNULL)
                     call(["git", "pull"], stdout=FNULL, stderr=FNULL)
-                    print(f"Successfully updated to v{new_version}. Please restart s3s.")
+                    print(f"Successfully updated to v{new_version}. Please restart the script.")
                     sys.exit(0)
                 else:
                     print("Please update to the latest version by running " \
@@ -282,9 +282,6 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                     banner = banner_bytes.decode('ascii')
                     banner = banner[20:]
                     badges = player["nameplate"]["badges"]
-                    ""
-                    ""
-                    ""
 
                     if badges[0] is not None:
                         badge1 = badges[0]["id"]
