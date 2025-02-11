@@ -78,11 +78,14 @@ output_path = os.path.join(home_dir, 'Downloads', 'fest_jp_output.txt')
 
 # Write data to the output file
 with open(output_path, 'w', encoding="utf8") as file_out:
-
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
         file_out.write("! Rank !! Name !! Power !! Weapon !! Title !! <br>Splashtag\n")
+        #in-case of pages 2-4 from splatnet3 app do the following:
+        #comment the for team and the lines below it up to this point
+        #replace the following for with this one: for player in data['data']['node']['result']['rankingHolders']['edges']:
+        #remove indents with shift+tab or any other method your IDE/notepad uses
         for player in team['result']['rankingHolders']['edges']:
             player = player["node"]
             rank = player["rank"]

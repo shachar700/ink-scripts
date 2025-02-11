@@ -68,7 +68,10 @@ with open(output_path, 'w', encoding="utf8") as file_out:
         file_out.write("==== " + team["teamName"] + " ====\n")
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
         file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
-        #in-case of pages 2-4 from splatnet3 app use for player in data['data']['node']['result']['rankingHolders']['edges']:
+        #in-case of pages 2-4 from splatnet3 app do the following:
+        #comment the for team and the lines below it up to this point
+        #replace the following for with this one: for player in data['data']['node']['result']['rankingHolders']['edges']:
+        #remove indents with shift+tab or any other method your IDE/notepad uses
         for player in team['result']['rankingHolders']['edges']:
             player = player["node"]
             rank = player["rank"]
