@@ -5,7 +5,7 @@ import sys
 from packaging import version
 from subprocess import call
 
-current_version = "0.1.0"
+current_version = "0.1.1"
 url = "https://raw.githubusercontent.com/shachar700/ink-scripts/main/py/s3/Leaderboards/util/update_checker.py"
 
 def check_for_updates():
@@ -29,6 +29,7 @@ def check_for_updates():
                     sys.exit(0)
                 else:
                     print("Please update to the latest version by running 'git pull' as soon as possible.\n")
+                    sys.exit(0)
             else:
                 print("Visit the site below to update:\nhttps://github.com/shachar700/ink-scripts\n")
     except Exception as e:

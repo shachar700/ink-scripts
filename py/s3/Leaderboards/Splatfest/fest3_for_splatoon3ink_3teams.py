@@ -5,8 +5,10 @@ import json
 import base64
 import tkinter as tk
 from tkinter import filedialog
+from py.s3.Leaderboards.util.update_checker import check_for_updates
 
 start_time = time.time()
+check_for_updates()
 print(f'Disclaimer: This script works for v9.2.0, If your list is prior to 9.0.0 make sure to replace |banner=972 to'
       f' |banner=972 (revoked) for the championship banner.')
 

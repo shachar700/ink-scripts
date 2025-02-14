@@ -3,6 +3,9 @@ import json
 import base64
 import tkinter as tk
 from tkinter import filedialog
+from py.s3.Leaderboards.util.update_checker import check_for_updates
+
+check_for_updates()
 
 # Create a Tkinter root window
 root = tk.Tk()
