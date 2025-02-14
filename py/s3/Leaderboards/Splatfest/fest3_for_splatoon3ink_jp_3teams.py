@@ -81,7 +81,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
     for team in data['data']['fest']['teams']:
         file_out.write("==== " + team["teamName"] +" ====\n")
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
-        file_out.write("! Rank !! Name !! Power !! Weapon !! Title !! <br>Splashtag\n")
+        file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
         #in-case of pages 2-4 from splatnet3 app do the following:
         #comment the for team and the lines below it up to this point
         #replace the following for with this one: for player in data['data']['node']['result']['rankingHolders']['edges']:
@@ -121,7 +121,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 badge1 = badge1_bytes.decode('ascii')
                 badge1 = badge1[6:]
             else:
-                badge1 = "empty"
+                badge1 = "Null"
 
             if badges[1] is not None:
                 badge2 = badges[1]["id"]
@@ -130,7 +130,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 badge2 = badge2_bytes.decode('ascii')
                 badge2 = badge2[6:]
             else:
-                badge2 = "empty"
+                badge2 = "Null"
 
             if badges[2] is not None:
                 badge3 = badges[2]["id"]
@@ -139,7 +139,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 badge3 = badge3_bytes.decode('ascii')
                 badge3 = badge3[6:]
             else:
-                badge3 = "empty"
+                badge3 = "Null"
             badgeslist = [badge1, badge2, badge3]
             #for item in badgeslist:
                 #mapping.find(badge1)
