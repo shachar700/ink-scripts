@@ -7,9 +7,8 @@ import tkinter as tk
 from tkinter import filedialog
 from py.s3.Leaderboards.util.update_checker import check_for_updates
 
-start_time = time.time()
 check_for_updates()
-print(f'Disclaimer: This script works for v9.2.0, If your list is prior to 9.0.0 make sure to replace |banner=972 to'
+print(f'Disclaimer: This script works for data about Splatoon 3 v9.2.0, If your list is prior to 9.0.0 (August 30 2024) make sure to replace |banner=972 to'
       f' |banner=972 (revoked) for the championship banner.')
 
 #v9.2.0
@@ -25,6 +24,7 @@ file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
 if file_path:
     with open(file_path, 'r', encoding="utf8") as file_in:
         data = json.load(file_in)
+        start_time = time.time()
         # Process the data as needed
 else:
     print("No file selected.")
@@ -138,23 +138,35 @@ with open(output_path, 'w', encoding="utf8") as file_out:
             else:
                 badge1 = "Null"
 
-            if badges[1] is not None:
-                badge2 = badges[1]["id"]
-                badge2_bytes = badge2.encode('ascii')
-                badge2_bytes = base64.b64decode(badge2_bytes)
-                badge2 = badge2_bytes.decode('ascii')
-                badge2 = badge2[6:]
-            else:
-                badge2 = "Null"
+            try:
+                if badges[1] is not None:
+                    badge2 = badges[1]["id"]
+                    badge2_bytes = badge2.encode('ascii')
+                    badge2_bytes = base64.b64decode(badge2_bytes)
+                    badge2 = badge2_bytes.decode('ascii')
+                    badge2 = badge2[6:]
+                else:
+                    badge2 = "Null"
+            except IndexError:
+                print("Error: 'badges' list is too short, unable to access index 1. This is due to old pull from "
+                      "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
+                      "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                sys.exit(1)
 
-            if badges[2] is not None:
-                badge3 = badges[2]["id"]
-                badge3_bytes = badge3.encode('ascii')
-                badge3_bytes = base64.b64decode(badge3_bytes)
-                badge3 = badge3_bytes.decode('ascii')
-                badge3 = badge3[6:]
-            else:
-                badge3 = "Null"
+            try:
+                if badges[2] is not None:
+                    badge3 = badges[2]["id"]
+                    badge3_bytes = badge3.encode('ascii')
+                    badge3_bytes = base64.b64decode(badge3_bytes)
+                    badge3 = badge3_bytes.decode('ascii')
+                    badge3 = badge3[6:]
+                else:
+                    badge3 = "Null"
+            except IndexError:
+                print("Error: 'badges' list is too short, unable to access index 2. This is due to old pull from "
+                      "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
+                      "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                sys.exit(1)
             badgeslist = [badge1, badge2, badge3]
             #for item in badgeslist:
                 #mapping.find(badge1)
@@ -187,4 +199,4 @@ with open(output_path, 'w', encoding="utf8") as file_out:
         file_out.write("|}\n\n")
 
 end_time = time.time()
-print(f'Done! took {end_time-start_time:.2f} seconds')
+print(f'Done! took {end_time-start_time:.3f} seconds')

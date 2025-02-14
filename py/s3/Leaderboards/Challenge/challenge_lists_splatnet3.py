@@ -1,7 +1,7 @@
 import base64
 import json
 import os
-import re
+import time
 import sys
 import tkinter as tk
 from subprocess import call
@@ -20,6 +20,7 @@ def get_data():
     if file_path:
         with open(file_path, 'r', encoding="utf8") as file_in:
             data = json.load(file_in)
+            start_time = time.time()
             # Process the data as needed
     else:
         print("No file selected.")
@@ -45,11 +46,11 @@ def get_data():
     # Relative path to the badgemap.txt file
     badgemap_path = os.path.join(current_dir, '..', 'processed_data', 'badgemap.txt')
 
-    data_dict = {}
+    data_dict_badges = {}
     with open(badgemap_path, 'r') as mapping:
         for line in mapping:
             k, v = line.strip().split(':')
-            data_dict[k.strip()] = v.strip()
+            data_dict_badges[k.strip()] = v.strip()
 
     # 0 for solo
     # 1 for pair
@@ -59,17 +60,17 @@ def get_data():
     data_team = data['data']['rankingPeriod']['teams'][2]['details']['nodes'] if len(
         data['data']['rankingPeriod']['teams']) > 2 else None
 
-    return output_path, data_dict, data_solo, data_pair, data_team
+    return output_path, data_dict_badges, data_solo, data_pair, data_team, start_time
 
 
-def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
+def parse_text(output_path, data_dict_badges, data_solo, data_pair, data_team, start_time):
     # Write data to the output file
     with open(output_path, 'w', encoding="utf8") as file_out:
 
         file_out.write("=== Solo ===\n")
 
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
-        file_out.write("! Rank !! Power !! Name !! Weapon !! Title !! <br>Splashtag\n")
+        file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
 
         for player in data_solo:
             name = player["players"][0]['name']
@@ -97,7 +98,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                 badge1 = badge1_bytes.decode('ascii')
                 badge1 = badge1[6:]
             else:
-                badge1 = "empty"
+                badge1 = "Null"
 
             if badges[1] is not None:
                 badge2 = badges[1]["id"]
@@ -106,7 +107,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                 badge2 = badge2_bytes.decode('ascii')
                 badge2 = badge2[6:]
             else:
-                badge2 = "empty"
+                badge2 = "Null"
 
             if badges[2] is not None:
                 badge3 = badges[2]["id"]
@@ -115,28 +116,29 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                 badge3 = badge3_bytes.decode('ascii')
                 badge3 = badge3[6:]
             else:
-                badge3 = "empty"
+                badge3 = "Null"
+            badgeslist = [badge1, badge2, badge3]
 
             file_out.write("|-\n")
-            file_out.write("| " + str(rank) + " || " + str(power) + " || " + name + " <small>#" + nameid + "</small> " +
-                           " || [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon +
-                           "]] [[" + weapon + "]] || " + title + " || {{UserSplashtag|" + banner)
+            file_out.write("| " + str(rank) + " || " + str(
+                power) + " || {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
 
-            if badge1 in data_dict:
-                file_out.write("|" + data_dict[badge1])
-            if badge2 in data_dict:
-                file_out.write("|" + data_dict[badge2])
-            if badge3 in data_dict:
-                file_out.write("|" + data_dict[badge3])
-
-            file_out.write("}}\n")
+            if badgeslist != ['Null', 'Null', 'Null']:
+                if badge1 in data_dict_badges:
+                    file_out.write("|badge1=" + data_dict_badges[badge1])
+                if badge2 in data_dict_badges:
+                    file_out.write("|badge2=" + data_dict_badges[badge2])
+                if badge3 in data_dict_badges:
+                    file_out.write("|badge3=" + data_dict_badges[badge3])
+            file_out.write("}}\n"
+                           "| [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon + "]] [[" + weapon + "]]\n")
 
         file_out.write("|}\n")
 
         file_out.write("=== Pair ===\n")
 
         file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
-        file_out.write("! Rank !! Power !! Name !! Weapon !! Title !! <br>Splashtag\n")
+        file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
 
         for position in data_pair:
 
@@ -171,7 +173,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                     badge1 = badge1_bytes.decode('ascii')
                     badge1 = badge1[6:]
                 else:
-                    badge1 = "empty"
+                    badge1 = "Null"
 
                 if badges[1] is not None:
                     badge2 = badges[1]["id"]
@@ -180,7 +182,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                     badge2 = badge2_bytes.decode('ascii')
                     badge2 = badge2[6:]
                 else:
-                    badge2 = "empty"
+                    badge2 = "Null"
 
                 if badges[2] is not None:
                     badge3 = badges[2]["id"]
@@ -189,20 +191,20 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                     badge3 = badge3_bytes.decode('ascii')
                     badge3 = badge3[6:]
                 else:
-                    badge3 = "empty"
+                    badge3 = "Null"
+                badgeslist = [badge1, badge2, badge3]
 
-                file_out.write("| " + name + " <small>#" + nameid + "</small>" +
-                               " || [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon +
-                               "]] [[" + weapon + "]] || " + title + " || {{UserSplashtag|" + banner)
+                file_out.write("|| {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
 
-                if badge1 in data_dict:
-                    file_out.write("|" + data_dict[badge1])
-                if badge2 in data_dict:
-                    file_out.write("|" + data_dict[badge2])
-                if badge3 in data_dict:
-                    file_out.write("|" + data_dict[badge3])
-
-                file_out.write("}}\n")
+                if badgeslist != ['Null', 'Null', 'Null']:
+                    if badge1 in data_dict_badges:
+                        file_out.write("|badge1=" + data_dict_badges[badge1])
+                    if badge2 in data_dict_badges:
+                        file_out.write("|badge2=" + data_dict_badges[badge2])
+                    if badge3 in data_dict_badges:
+                        file_out.write("|badge3=" + data_dict_badges[badge3])
+                file_out.write("}}\n"
+                               "| [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon + "]] [[" + weapon + "]]\n")
 
                 # Check if the player is not the last one in the list
                 if idx < len(position["players"]) - 1:
@@ -215,7 +217,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
             file_out.write("=== Team ===\n")
 
             file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
-            file_out.write("! Rank !! Power !! Name !! Weapon !! Title !! <br>Splashtag\n")
+            file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
 
             for position in data_team:
 
@@ -257,7 +259,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                         badge1 = badge1_bytes.decode('ascii')
                         badge1 = badge1[6:]
                     else:
-                        badge1 = "empty"
+                        badge1 = "Null"
 
                     if badges[1] is not None:
                         badge2 = badges[1]["id"]
@@ -266,7 +268,7 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                         badge2 = badge2_bytes.decode('ascii')
                         badge2 = badge2[6:]
                     else:
-                        badge2 = "empty"
+                        badge2 = "Null"
 
                     if badges[2] is not None:
                         badge3 = badges[2]["id"]
@@ -275,20 +277,19 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
                         badge3 = badge3_bytes.decode('ascii')
                         badge3 = badge3[6:]
                     else:
-                        badge3 = "empty"
+                        badge3 = "Null"
 
-                    file_out.write("| " + name + " <small>#" + nameid + "</small>" +
-                                   " || [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon +
-                                   "]] [[" + weapon + "]] || " + title + " || {{UserSplashtag|" + banner)
+                    file_out.write("|| {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
 
-                    if badge1 in data_dict:
-                        file_out.write("|" + data_dict[badge1])
-                    if badge2 in data_dict:
-                        file_out.write("|" + data_dict[badge2])
-                    if badge3 in data_dict:
-                        file_out.write("|" + data_dict[badge3])
-
-                    file_out.write("}}\n")
+                    if badgeslist != ['Null', 'Null', 'Null']:
+                        if badge1 in data_dict_badges:
+                            file_out.write("|badge1=" + data_dict_badges[badge1])
+                        if badge2 in data_dict_badges:
+                            file_out.write("|badge2=" + data_dict_badges[badge2])
+                        if badge3 in data_dict_badges:
+                            file_out.write("|badge3=" + data_dict_badges[badge3])
+                    file_out.write("}}\n"
+                                   "| [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon + "]] [[" + weapon + "]]\n")
 
                     # Check if the player is not the last one in the list
                     if idx < len(position["players"]) - 1:
@@ -296,14 +297,18 @@ def parse_text(output_path, data_dict, data_solo, data_pair, data_team):
 
             file_out.write("|}\n")
 
-    print("Done!")
+    end_time = time.time()
+    print(f'Done! took {end_time - start_time:.3f} seconds')
 
 def main():
     """Main process, including setup."""
     check_for_updates()
-    output_path, data_dict, data_solo, data_pair, data_team = get_data()
+    print(
+        f'Disclaimer: This script works for data about Splatoon 3 v9.2.0, If your list is prior to 9.0.0 (August 30 2024) make sure to replace |banner=972 to'
+        f' |banner=972 (revoked) for the championship banner.')
+    output_path, data_dict, data_solo, data_pair, data_team, start_time = get_data()
     if output_path and data_dict and data_solo and data_pair:
-        parse_text(output_path, data_dict, data_solo, data_pair, data_team)
+        parse_text(output_path, data_dict, data_solo, data_pair, data_team, start_time)
 
 if __name__ == "__main__":
     main()
