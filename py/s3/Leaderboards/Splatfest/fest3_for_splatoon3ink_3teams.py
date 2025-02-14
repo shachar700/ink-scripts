@@ -169,8 +169,8 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                         badge2 = "Null"
                 except IndexError:
                     print("Error: 'badges' list is too short, unable to access index 1. This is due to old pull from "
-                          "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. "
-                          "Make sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                          "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
+                          "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
                     sys.exit(1)
 
                 try:
@@ -184,8 +184,9 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                         badge3 = "Null"
                 except IndexError:
                     print("Error: 'badges' list is too short, unable to access index 2. This is due to old pull from "
-                          "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. "
-                          "Make sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                          "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
+                          "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                    sys.exit(1)
 
                 badgeslist = [badge1, badge2, badge3]
 
@@ -227,14 +228,20 @@ with open(output_path, 'w', encoding="utf8") as file_out:
             badge2 = ""
             badge3 = ""
 
-            if badges[0] is not None:
-                badge1 = badges[0]["id"]
-                badge1_bytes = badge1.encode('ascii')
-                badge1_bytes = base64.b64decode(badge1_bytes)
-                badge1 = badge1_bytes.decode('ascii')
-                badge1 = badge1[6:]
-            else:
-                badge1 = "Null"
+            try:
+                if badges[0] is not None:
+                    badge1 = badges[0]["id"]
+                    badge1_bytes = badge1.encode('ascii')
+                    badge1_bytes = base64.b64decode(badge1_bytes)
+                    badge1 = badge1_bytes.decode('ascii')
+                    badge1 = badge1[6:]
+                else:
+                    badge1 = "Null"
+            except IndexError:
+                print("Error: 'badges' list is too short, unable to access index 0. This is due to old pull from "
+                      "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. "
+                      "Make sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                sys.exit(1)
 
             try:
                 if badges[1] is not None:
@@ -264,6 +271,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
                 print("Error: 'badges' list is too short, unable to access index 2. This is due to old pull from "
                       "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
                       "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                sys.exit(1)
 
             badgeslist = [badge1, badge2, badge3]
 
