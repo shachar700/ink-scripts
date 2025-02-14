@@ -6,41 +6,7 @@ import sys
 import tkinter as tk
 from subprocess import call
 from tkinter import filedialog
-
-import requests
-from packaging import version
-
-A_VERSION = "0.1.0"
-
-def check_for_updates():
-    '''Checks the script version against the repo, reminding users to update if available.'''
-
-    try:
-        latest_script = requests.get("https://raw.githubusercontent.com/shachar700/ink-scripts/main/py/s3/Leaderboards/Challenge/challenge_lists_splatnet3.py")
-        new_version = re.search(r'A_VERSION = "([\d.]*)"', latest_script.text).group(1)
-        update_available = version.parse(new_version) > version.parse(A_VERSION)
-        if update_available:
-            print(f"\nThere is a new version (v{new_version}) available.", end='')
-            if os.path.isdir(".git"):
-                update_now = input("\nWould you like to update now? [Y/n] ")
-                if update_now == "" or update_now[0].lower() == "y":
-                    FNULL = open(os.devnull, "w")
-                    call(["git", "checkout", "."], stdout=FNULL, stderr=FNULL)
-                    call(["git", "checkout", "master"], stdout=FNULL, stderr=FNULL)
-                    call(["git", "pull"], stdout=FNULL, stderr=FNULL)
-                    print(f"Successfully updated to v{new_version}. Please restart the script.")
-                    sys.exit(0)
-                else:
-                    print("Please update to the latest version by running " \
-                        '`\033[91m' + "git pull" + '\033[0m' \
-                        "` as soon as possible.\n")
-            else: # no git directory
-                print(" Visit the site below to update:\nhttps://github.com/shachar700/ink-scripts\n")
-    except Exception as e: # if there's a problem connecting to github
-        print('\033[3m' + "» Couldn't connect to GitHub. Please update the script manually via " \
-            '`\033[91m' + "git pull" + '\033[0m' + "`." + '\033[0m' + "\n")
-        # print('\033[3m' + "» While s3s is in beta, please update the script regularly via " \
-        # 	'`\033[91m' + "git pull" + '\033[0m' + "`." + '\033[0m' + "\n")
+from py.s3.Leaderboards.util.update_checker import check_for_updates
 
 def get_data():
     # Create a Tkinter root window
@@ -57,6 +23,7 @@ def get_data():
             # Process the data as needed
     else:
         print("No file selected.")
+        sys.exit(0)
 
     # Extract the base name of the input file (e.g., 'input_name' from 'input_name.json')
     base_name = os.path.splitext(os.path.basename(file_path))[0]
@@ -74,9 +41,9 @@ def get_data():
     current_dir = os.path.dirname(os.path.abspath(__file__))
 
     # Relative paths to the files
-    os.path.join(current_dir, 'util', 'HelpingLists')
+    os.path.join(current_dir, 'processed_data')
     # Relative path to the badgemap.txt file
-    badgemap_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'badgemap.txt')
+    badgemap_path = os.path.join(current_dir, '..', 'processed_data', 'badgemap.txt')
 
     data_dict = {}
     with open(badgemap_path, 'r') as mapping:

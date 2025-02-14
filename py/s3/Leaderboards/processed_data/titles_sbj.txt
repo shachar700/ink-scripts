@@ -1,0 +1,1052 @@
+ボールドマーカー使い:Sploosh-o-matic User
+わかばシューター使い:Splattershot Jr. User
+シャープマーカー使い:Splash-o-matic User
+プロモデラー使い:Aerospray User
+スプラシューター使い:Splattershot User
+.52ガロン使い:.52 Gal User
+N-ZAP使い:N-ZAP User
+プライムシューター使い:Splattershot Pro User
+.96ガロン使い:.96 Gal User
+ジェットスイーパー使い:Jet Squelcher User
+ノヴァブラスター使い:Luna Blaster User
+ホットブラスター使い:Blaster User
+ロングブラスター使い:Range Blaster User
+クラッシュブラスター使い:Clash Blaster User
+ラピッドブラスター使い:Rapid Blaster User
+Rブラスターエリート使い:Rapid Blaster Pro User
+L3リールガン使い:L-3 Nozzlenose User
+H3リールガン使い:H-3 Nozzlenose User
+ボトルガイザー使い:Squeezer User
+カーボンローラー使い:Carbon Roller User
+スプラローラー使い:Splat Roller User
+ダイナモローラー使い:Dynamo Roller User
+ヴァリアブルローラー使い:Flingza Roller User
+パブロ使い:Inkbrush User
+ホクサイ使い:Octobrush User
+スクイックリン使い:Squiffer User
+スプラチャージャー使い:Splat Charger User
+リッター4K使い:E-liter 4K User
+14式竹筒銃使い:Bamboozler 14 User
+ソイチューバー使い:Goo Tuber User
+バケットスロッシャー使い:Slosher User
+ヒッセン使い:Tri-Slosher User
+スクリュースロッシャー使い:Sloshing Machine User
+オーバーフロッシャー使い:Bloblobber User
+エクスプロッシャー使い:Explosher User
+スプラスピナー使い:Mini Splatling User
+バレルスピナー使い:Heavy Splatling User
+ハイドラント使い:Hydra Splatling User
+クーゲルシュライバー使い:Ballpoint Splatling User
+ノーチラス使い:Nautilus User
+スパッタリー使い:Dapple Dualies User
+スプラマニューバー使い:Splat Dualies User
+ケルビン525使い:Glooga Dualies User
+デュアルスイーパー使い:Dualie Squelchers User
+クアッドホッパー使い:Tetra Dualies User
+パラシェルター使い:Splat Brella User
+キャンピングシェルター使い:Tenta Brella User
+スパイガジェット使い:Undercover Brella User
+トライストリンガー使い:Tri-Stringer User
+ジムワイパー使い:Splatana Stamper User
+LACT-450使い:REEF-LUX 450 User
+ドライブワイパー使い:Splatana Wiper User
+スプラスコープ使い:Splatterscope User
+4Kスコープ使い:E-liter 4K Scope User
+スペースシューター使い:Splattershot Nova User
+ワイドローラー使い:Big Swig Roller User
+R-PEN使い:Snipewriter 5H User
+S-BLAST使い:S-BLAST '92 User
+フィンセント使い:Painbrush User
+モップリン使い:Dread Wringer User
+イグザミナー使い:Heavy Edit Splatling User
+ガエンFF使い:Douser Dualies FF User
+24式張替傘使い:Recycled Brella 24 Mk I User
+フルイドV使い:Wellstring V User
+デンタルワイパー使い:Decavitator User
+スプラッシュボム使い:Splat Bomb User
+キューバンボム使い:Suction Bomb User
+クイックボム使い:Burst Bomb User
+カーリングボム使い:Curling Bomb User
+ロボットボム使い:Autobomb User
+トラップ使い:Ink Mine User
+スプリンクラー使い:Sprinkler User
+ポイントセンサー使い:Point Sensor User
+ポイズンミスト使い:Toxic Mist User
+スプラッシュシールド使い:Splash Wall User
+ジャンプビーコン使い:Squid Beakon User
+タンサンボム使い:Fizzy Bomb User
+トーピード使い:Torpedo User
+ラインマーカー使い:Angle Shooter User
+アメフラシ使い:Ink Storm User
+ウルトラショット使い:Trizooka User
+ウルトラハンコ使い:Ultra Stamp User
+グレートバリア使い:Big Bubbler User
+ジェットパック使い:Inkjet User
+ホップソナー使い:Wave Breaker User
+ショクワンダー使い:Zipcaster User
+サメライド使い:Reefslider User
+カニタンク使い:Crab Tank User
+ナイスダマ使い:Booyah Bomb User
+キューインキ使い:Ink Vac User
+マルチミサイル使い:Tenta Missiles User
+メガホンレーザー5.1ch使い:Killer Wail 5.1 User
+トリプルトルネード使い:Triple Inkstrike User
+エナジースタンド使い:Tacticooler User
+デコイチラシ使い:Super Chump User
+テイオウイカ使い:Kraken Royale User
+ウルトラチャクチ使い:Triple Splashdown User
+スミナガシート使い:Splattercolor Screen User
+バトロイカ好き:SquidForce Model
+アイロニック好き:Zink Model
+クラーゲス好き:Krak-On Model
+ロッケンベルグ好き:Rockenberg Model
+エゾッコ好き:Zekko Model
+フォーリマ好き:Forge Model
+ホッコリー好き:Firefin Model
+ホタックス好き:Skalop Model
+ジモン好き:Splash Mob Model
+シグレニ好き:Inkline Model
+アロメ好き:Tentatek Model
+ヤコ好き:Takoroka Model
+アナアキ好き:Annaki Model
+エンペリー好き:Enperry Model
+タタキケンサキ好き:Toni Kensa Model
+エゾッコリー好き:Z+F Model
+バラズシ好き:Barazushi Model
+シチリン好き:Emberz Model
+アタリメイド好き:Cuttlegear Model
+Squid Squadファン:Squid Squad Fan
+ABXYファン:Chirpy Chips Fan
+Hightide Eraファン:Hightide Era Fan
+Wet Floorファン:Wet Floor Fan
+From Bottomファン:Bottom Feeders Fan
+カレントリップファン:Ink Theory Fan
+SashiMoriファン:SashiMori Fan
+合食禁ファン:Diss-Pair Fan
+ω-3ファン:ω-3 Fan
+OCTOTOOLファン:Turquoise October Fan
+Dedf1shファン:Dedf1sh Fan
+C-Sideファン:C-Side Superfan
+Front Roeファン:Front Roe Fan
+ビジー・バケーションファン:Damp Socks Fan
+YOKO HORNS & FRIENDSファン:Yoko & the Gold Bazookas Fan
+H2Whoaファン:H2Whoa Fan
+O.C.Kファン:Riot Act Fan
+ヌラネバセブンファン:Now or Never Seven Fan
+ロングヘア:Hippie
+ショートカット:Barber
+おだんご:Double-Bun
+ウェービー:Wave Rider
+ツインテ:Pigtail Pro
+ぱっつん:Headbanger
+ちょんまげ:Topknot Knight
+オールバック:Sharp Dresser
+ボウズ:Buzz-Cut
+ポニテ:Ponytail
+ツンツン:Spiked Hair
+マッシュ:Bowl Cut
+ミツアミ:Braid Bearer
+むぞうさ:Classic
+ウェット:Wet Hair
+コーンロウ:Cornrows
+カーリーヘア:Curly Hair
+モヒカン:Punk
+アフロ:Afro
+タテロール:Big Curls
+フェード:Fade
+ロンゲ:Wanderer
+リーゼント:Greaser
+アシメ:Hipster 
+アオリファン:Callie Fan
+アタマ屋常連:Naut Couture Regular
+イイダファン:Marina Fan
+ウツホファン:Frye Fan
+クツ屋常連:Crush Station Regular
+ザッカ屋常連:Hotlantis Regular
+シオカラーズファン:Squid Sisters Fan
+すりみ連合ファン:Deep Cut Fan
+テンタクルズファン:Off the Hook Fan
+ヒメファン:Pearl Fan
+フウカファン:Shiver Fan
+ブキ屋常連:Ammo Knights Regular
+フク屋常連:Man-o'-Wardrobe Regular
+ホタルファン:Marie Fan
+マンタローファン:Big Man Fan
+ガチアサリ好き:Clam Blitz Enthusiast
+ガチエリア好き:Splat Zones Enthusiast
+ガチホコバトル好き:Rainmaker Enthusiast
+ガチヤグラ好き:Tower Control Enthusiast
+サーモンラン好き:Salmon Runner
+ナワバリバトル好き:Turf Warrior
+ヒーローモード好き:Story Mode Hero
+ガチアサリマスター:Clam Blitz Legend
+ガチエリアマスター:Splat Zones Legend
+ガチヤグラマスター:Tower Control Legend
+ナワバリマスター:Turf War Legend
+ガチホコマスター:Rainmaker Legend
+サーモンランマスター:Salmon Run Legend
+ヒーローモードマスター:Story Mode Legend
+インクリング:Inkling
+オクトリング:Octoling
+Tシャツ好き:Tee Model
+ジャケット好き:Jacket Model
+シャツ好き:Shirt Model
+スニーカー好き:Sneaker Model
+ニット好き:Knit Model
+ファッションリーダー:Trendsetter
+ぼうし好き:Hat Model
+メガネ好き:Glasses Model
+ブーツ好き:Boot Model
+カードコレクター:Card Collector
+ザッカコレクター:Item Collector
+ファッショニスタ:Fashionista
+ロッカーマニア:Locker Rock Star
+イカノボラー:Squid Surger
+イカローラー:Squid Roller
+オールラウンダー:All-Arounder
+ジャンパー:Jumper
+スライダー:Dodge Roller
+スロースターター:Slow Starter
+ボマー:Splat Bomber
+守護神:Guardian
+切りこみ隊長:Raider
+エイ:Manta Ray
+オクタリアン:Octarian
+クマ:Bear
+クラゲ:Jellyfish
+ニンゲン:Human
+魚介類:Sea Creature
+哺乳類:Mammal
+アーティスト:Artist
+アイドル:Pop Star
+アルバイター:Clock Puncher
+ウツボ使い:Eel Tamer
+サメ使い:Shark Tamer
+ショップ店員:Clerk
+会社員:Office Drone
+番長:Ringleader
+チャンピオン:Champ
+ベーシスト:Bass Dropper
+プリンス:Prince
+プリンセス:Princess
+ブラザーズ:Brother
+シスターズ:Sister
+シティボーイ:City Boy
+シティガール:City Girl
+新郎:Groom
+新婦:Bride
+キング:King
+クイーン:Queen
+兄弟:Bro
+姉妹:Sis
+おでん:Oden Bowl
+お祭り好き:Party Lover
+サーファー:Surfer
+夏祭り:Festivalgoer
+花:Flower
+暑がり:Heat Hater
+雪だるま:Snowperson
+打ち上げ花火:Firecracker
+台風の目:Eye of the Storm
+ひれおくん:Fish
+破壊神:Deity of Destruction
+イヌ:Dog
+ドラゴン:Dragon
+ネコ:Cat
+恐竜:Dinosaur
+頭足類:Cephalopod
+二枚貝:Bivalve
+イルカ:Dolphin
+読書家:Bookworm
+CEO:CEO
+アシスタント:Assistant
+アスリート:Athlete
+エージェント:Agent
+ギャンブラー:Risk-Taker
+コーチ:Coach
+コーディネーター:Coordinator
+コメディアン:Comedian
+サイエンティスト:Scientist
+サムライ:Samurai
+スパイ:Spy
+ダンサー:Dancer
+デザイナー:Designer
+ニンジャ:Ninja
+バイトリーダー:Part-Timer
+パイロット:Pilot
+ハンター:Hunter
+プランナー:Planner
+プログラマー:Programmer
+プロデューサー:Producer
+ペインター:Painter
+マネージャー:Manager
+モデル:Model
+ライター:Writer
+委員長:Executive
+宇宙飛行士:Astronaut
+歌手:Singer
+会長:President
+バイキング:Viking
+学生:Student
+監督:Director
+管理人:Lead
+漁師:Angler
+係長:Assistant Manager
+警備員:Security Guard
+研究員:Researcher
+作家:Author
+仕事人:Worker
+執事:Butler
+社長:VP
+取締役:Board Member
+助手:Gofer
+職人:Artisan
+先生:Teacher
+村長:Village Leader
+大統領:Head Honcho
+探偵:Detective
+登山家:Mountaineer
+博士:Professor
+秘書:Secretary
+美容師:Beautician
+部長:Middle Manager
+副社長:Vice President
+冒険家:Adventurer
+マンガ家:Comic Artist
+勇者:Hero
+料理人:Chef
+ナマケモノ:Layabout
+ビッグマウス:Big Mouth
+食いしんぼう:Chow Hound
+働き者:Dynamo
+熱血漢:Hothead
+タコゾネス:Octoling Soldier
+イクラ:Power Egg
+ヴィラン:Villain
+家族:Fam
+カメ:Turtle
+カラダ:Form
+騎士:Knight
+タマゴ:Egg
+ツッコミ:Entertainer
+仲間:Comrade
+ヒーロー:Superhero
+ボケ:Jokester
+魔法使い:Magician
+頭脳:Brainiac
+海の幸:Fish Ball
+DNA:Material
+お寿司:Sushi
+カモン:Caller
+シーフード:Seafood
+すりみ:Mincemeat
+スルメ:Squid Jerky
+ナイス:Booyah
+ビタミン:Vitamin
+ホコ:Weapon
+干物:Dried Fish
+筋肉:Muscle
+残像:Illusion
+盾:Shield
+リーダー:Leader
+視聴者:Viewer
+全一:System
+大会出場者:Tournament Competitor
+１号:Agent 1
+２号:Agent 2
+４号:Agent 4
+８号:Agent 8
+AI:AI
+LOVE:Object of Affection
+アイツ:Such and Such
+アウトロー:Outlaw
+アキレス腱:Heel
+アナログゲーマー:Tabletop Gamer
+アンドロイド:Android
+マスター:Legend
+イカスミ:Squid Ink
+イカライフ:Squid Life
+イカリング:Squid Ring
+イカ省略:Squid, Inc.
+インク:Ink
+インフルエンサー:Influencer
+ウツボ:Moray Eel
+エレガンス:Elegance
+オオモノ:Big Deal
+オカシラ:Big Boss
+オタク:Otaku
+踊り子:Dance Master
+オマケ:Freebie
+お子様:Kid
+ガキ大将:Pack Leader
+カメラマン:Photographer
+からあげ:Fried Chicken
+カリスマ:Extrovert
+カルパッチョ:Carpaccio
+キーボーディスト:Synth Player
+ギタリスト:Guitarist
+キャンパー:Camper
+キューピッド:Cupid
+クラブ:Crab
+クリエイター:Creator
+グルーヴ:Groove
+ゲーマー:Gamer
+最終兵器:Ultimate Weapon
+サバイバー:Survivalist
+サブカル好き:Iconoclast
+サポーター:Supporter
+サメ:Shark
+シャケライフ:Salmon Life
+スイマー:Swimmer
+スタイル:Style
+ストライカー:Striker
+ストリーマー:Streamer
+ゼラチン:Gelatin
+セレブ:Celeb
+ソムリエ:Taste Tester
+タイトルホルダー:Title Holder
+タコスミ:Octopus Ink
+タコライフ:Octo Life
+タタキ:Tuna Tataki
+チャレンジャー:Challenger
+ドジっ子:Butterfingers
+ドライバー:Driver
+ドラマー:Drummer
+トルネード:Tornado
+トレーナー:Trainer
+パーティー好き:Party Animal
+バイリンガル:Polyglot
+はぐれ者:Rebel
+馬車馬:Workhorse
+はにかみやさん:Introvert
+パリピ:Clubgoer
+ピン芸人:Stand-Up Comic
+ファイター:Fighter
+ファンタジー:Mirage
+プランクトン:Plankton
+ブランド好き:Brand Loyalist
+フリーランス:Freelancer
+ブリザード:Snowstorm
+フレンド:Friend
+ヘッドライナー:Headliner
+ベテラン:Senior
+ボーカル:Vocalist
+ボードゲーマー:Board Gamer
+ボス:Boss
+ボディガード:Bodyguard
+マーメイド:Mermaid
+マスク:Mask
+マドンナ:Superstar
+マニア:Maniac
+ミステリー:Mystery
+めがねっ子:Bifocal Wearer
+メンタル:Therapist
+メンバー:Member
+ライフスタイル:Lifestyle
+ラッパー:Rapper
+リモートワーカー:Remote Worker
+ルーキー:Rookie
+ロボット:Robot
+愛好家:Enthusiast
+一般人:Ordinary Person
+一匹狼:Lone Wolf
+一文無し:Pauper
+逸材:Prodigy
+王者:Monarch
+温泉好き:Hot-Spring Enjoyer
+海人:Fish Finder
+海水魚:Saltwater Fish
+海坊主:Umibozu
+寒がり:Cold Chill
+観光客:Sightseer
+希少部位:Prime Cut
+気分:Mood
+記憶:Memory
+鬼:Demon
+巨人:Giant
+魚拓:Fish Print
+鏡:Mirror
+軍艦巻き:Avocado Roll
+月:Moon
+コブシ:Fist
+原始人:Caveman
+玄人:Expert
+後輩:Novice
+工場長:Foreman
+荒くれ者:Ruffian
+三枚目:Comic Relief
+参謀:Adviser
+刺身:Sashimi
+四天王:Legendary Warrior
+子分:Underling
+師匠:Sensei
+自由人:Free Spirit
+舎弟:Sidekick
+若輩者:Fledgling
+従業員:Employee
+潤滑油:Grease
+初心者:Beginner
+小悪魔:Imp
+上司:Higher-Up
+新人バイト:Trainee
+新人王:Rookie of the Year
+新入生:Freshman
+真実:Truth Teller
+親分:Kingpin
+人気者:Life of the Party
+人見知り:Wallflower
+人生:Life Itself
+人類:Humanity
+責任者:Supervisor
+切り身:Fillet
+節:Inkantation
+節約家:Penny-Pincher
+仙人:Mountaintop Guru
+センパイ:Mentor
+戦士:Warrior
+バーサーカー:Berserker
+草:Blade of Grass
+存在:Entity
+太陽:Sun
+代表:Representative
+大臣:Cabinet Member
+淡水魚:Freshwater Fish
+団員:Group Member
+着こなし:Style Icon
+虫:Bug
+挑戦者:Contender
+鳥:Bird
+追っかけ:Stan
+釣り人:Fisherfolk
+弟子:Apprentice
+的:Target
+天才:Maestro
+天使:Angel
+島民:Island Dweller
+豆腐:Tofu
+頭皮:Forehead
+配管工:Plumber
+配信者:Content Creator
+半魚人:Merperson
+反復横とび:Sidestepper
+漂流物:Flotsam
+部下:Subordinate
+カベ:Wall
+捕食者:Predator
+方程式:Equation
+魔王:Archdemon
+名人:Pro
+命:Life
+毛玉:Fuzzball
+役者:Actor
+オバケ:Ghost
+竜宮城:Atlantean
+涙:Teardrop
+浪人:Ronin
+丼:Rice Bowl
+コーデ:Outfit
+カラー:Palette
+おつまみ:Snacks
+したっぱ:Follower
+漬け:Marinade
+スイッチヒッター:Switch-Hitter
+チャンプルー:Stir-Fry
+ナマズ:Catfish
+極めし者:Grand Master
+ベイビー:Cub
+DJ:DJ
+申し子:Paradigm
+フリーク:Geek
+ヘッズ:Head
+ルック:Fit
+Bボーイ:B-Boy
+Bガール:B-Girl
+スケーター:Skater
+おぼっちゃま:Duke
+おじょうさま:Duchess
+二枚目:Celebrity
+船乗り:Mariner
+ファッションデザイナー:Fashion Designer
+巨匠:Commander
+店長:Store Manager
+推し:Patron
+花火:Sparkler
+ファンタジスタ:Fantasy Lover
+タツ:Horrorboros
+ヨコヅナ:Cohozuna
+オミコシ:Float
+ニュアンス:Nuance
+宇宙人:Alien
+新参者:Newcomer
+ホープ:Hope
+司会者:MC
+スペシャルアタック:Special Attack
+スペシャルマス:Special Space
+ランカー:Ranker
+切り札:Ace in the Hole
+デッキ:Deck
+手札:Hole Cards
+受験生:Test Taker
+人材:Personnel
+哲学者:Philosopher
+一発屋:One-Hit Wonder
+集合:Organization
+スリーブコレクター:Sleeve Collector
+ロッククライマー:Rock Climber
+バンジージャンプ:Bungee Jumper
+ひとりごと:Soliloquy
+ナマコフォン:Sea-Cucumber Phone
+さざ波:Ripple
+塩:Salt
+こしょう:Pepper
+マヨネーズ:Mayonnaise
+調味料:Seasoning
+価格:Value
+ヒマつぶし:Time Killer
+カタマリ:Clump
+リピーター:Repeat Customer
+キノコ:Mushroom
+スター:Star
+能力者:Talented Person
+超人:Superperson
+ワカメ:Seaweed
+コンブ:Kelp
+マリンスノー:Marine Snow
+弁当:Bento Box
+魚卵:Fish Eggs
+鍋:Stew
+煮物:Simmered Food
+定食:Prix Fixe
+カレー:Curry
+情熱:Aficionado
+情報:Information
+心臓:Heart Valve
+ハート:Heart
+ロック:Rock
+ジャズ:Jazz
+ソロ:Solo
+出汁:Soup Stock
+スープ:Soup
+サラダ:Salad
+武士:Champion
+おにぎり:Rice Ball
+パラドックス:Paradox
+ドレッシング:Dressing
+タレ:Sauce
+スパイス:Spice
+専門家:Specialist
+専門店:Specialty Shop
+マエストロ:Bandleader
+ランナー:Runner
+タイムアタック:Speedrun
+ジュークボックス:Jukebox
+伝説:Demigod
+笑い:Laugh
+テーマパーク:Theme Park
+ヘアスタイル:Hairstyle
+アンコール:Encore
+パイオニア:Settler
+嵐:Storm
+そよ風:Breeze
+観測者:Observer
+右腕:Right Arm
+ウニ:Sea Urchin
+ピアノ:Piano
+ギター:Guitar
+キーボード:Keyboard
+ドラム:Drum
+カスタネット:Castanet
+リコーダー:Recorder
+シンバル:Cymbals
+楽器:Musical Instrument
+プレジデント:Prime Minister
+プロジェクトマネージャー:Project Manager
+ドクター:Physician
+弁護士:Lawyer
+会計士:Accountant
+ボディビルダー:Bodybuilder
+少年:Lad
+少女:Lass
+ベース:Base
+サンバ:Samba
+マッチョ:Macho
+イケメン:Cool Guy
+俳優:Thespian
+努力家:Hard Worker
+船長:Ship Captain
+案内人:Chaperone
+未来人:Time Traveler
+プリン:Pudding
+にせもの:Counterfeit
+ブンシン:Alter Ego
+グリル:Griller
+コジャケ:Smallfry
+ドスコイ:Cohock
+タマヒロイ:Snatcher
+バクダン:Steelhead
+ヘビ:Steel Eel
+テッパン:Scrapper
+タワー:Stinger
+モグラ:Maws
+コウモリ:Drizzler
+カタパッド:Flyfish
+ハシラ:Fish Stick
+ダイバー:Flipper-Flopper
+ナベブタ:Slammin' Lid
+テッキュウ:Big Shot
+キンシャケ:Goldie
+ハコビヤ:Mothership
+ドロシャケ:Mudmouth
+ヒカリバエ:Glowfly
+ウデマエ:Rank
+ロマンチスト:Romanticist
+鉄人:Steel Body
+フレーバー:Flavor
+エリート:Elite
+がんばりやさん:Determined Spirit
+実力者:Person of Influence
+開拓者:Trailblazer
+キャスト:Cast
+エース:Ace
+ナンバーワン:Number One
+第一人者:Foremost Figure
+大黒柱:Mainstay
+帝王:Emperor
+英雄:Paragon
+中級者:Intermediary
+上級者:Prototype
+英傑:Schemer
+勇士:Brave Warrior
+文化人:Person of Culture
+優等生:Honor Student
+ブレーン:Brain
+狩人:Trapper
+インテリ:Intellectual
+空論:Impractical Theory
+若手:Dislike
+マイスター:Meister
+親方:Governor
+局長:Office Chief
+世話役:Caretaker
+頭取:Bank President
+ピエロ:Harlequin
+主人公:Focal Point
+主催者:Event Organizer
+VIP:VIP
+パフォーマー:Performer
+木こり:Woodcutter
+シェフ:Sous-Chef
+エンジニア:Engineer
+請負人:Contractor
+大商人:Prosperous Merchant
+審判:Referee
+アサリ:Manila Clam
+コンシェルジュ:Concierge
+ゲソ:Tentacle
+貴族:Noble
+途中:Temp
+いたずらっ子:Prankster
+大王:Great Regent
+中心人物:Main Character
+立役者:Leading Actor
+ダークホース:Dark Horse
+キーパーソン:Key Figure
+黒幕:Mastermind
+策士:Tactician
+渡り鳥:Vagabond
+流れ者:Voyager
+修行僧:Wandering Hermit
+遊牧民:Nomad
+賞金稼ぎ:Bounty Hunter
+タイムトラベラー:Timeline Jumper
+世代:Generation
+長老:Elder
+キャプテン:Captain
+ゲスト:Guest
+持ち主:String Puller
+ギャラリー:Gallery
+ビッグネーム:Big Name
+お得意様:Regular Customer
+パートナー:Partner
+サイボーグ:Cyborg
+成功者:Success
+影武者:Shadow Commander
+助っ人:Helper
+後ろ盾:Backer
+長者:Millionaire
+後見人:Custodian
+補佐役:Lieutenant
+源:Origin
+指揮官:Czar
+応援団:Cheer Team
+スタッフ:Staff
+何でも屋:Factotum
+エネルギー:Energy
+エンジン:Engine
+コンサルタント:Consultant
+アドバイザー:Tutor
+裏方:Puppet Master
+相棒:Buddy
+評論家:Critic
+お調子者:Luck Pusher
+チーム:Team
+道化師:Buffoon
+プレイヤー:Player
+タレント:TV Personality
+アナウンサー:Announcer
+名手:Genius
+ゴルファー:Golfer
+バッター:Batter
+ピッチャー:Pitcher
+キャッチャー:Catcher
+ピンチヒッター:Benchwarmer
+音楽家:Virtuoso
+コンダクター:Conductor
+奏者:Musical Performer
+作曲家:Lyricist
+ピアニスト:Pianist
+子役:Ingenue
+語り手:Narrator
+プロレスラー:Pro Wrestler
+スプリンター:Sprinter
+ボクサー:Boxer
+エキストラ:Extra
+写真家:Cinematographer
+スタントマン:Stunt Performer
+末裔:Descendant
+子孫:Offspring
+スポンサー:Sponsor
+差し金:Suggestion
+進行役:Facilitator
+エンターテイナー:Showstopper
+所有者:Possessor
+ハウスキーパー:Housekeeper
+トレーダー:Trader
+占い師:Fortune Teller
+風来坊:Globe-Trotter
+代打:Pinch Hitter
+首位打者:Leadoff Hitter
+三銃士:Musketeer
+集団:Crowd
+サークル:Circle
+群れ:Flock
+協力者:Cooperator
+ユニット:Unit
+軍団:Army
+一派:Coterie
+カルテット:Quartet
+合唱:Chorus
+御三家:Podium Finisher
+ギルド:Guild
+グループ:Group
+ウマ:Horse
+ウサギ:Rabbit
+パンダ:Panda
+コアラ:Koala
+リス:Squirrel
+ラッコ:Sea Otter
+ゾウ:Elephant
+キリン:Giraffe
+クジラ:Whale
+トラ:Tiger
+ライオン:Lion
+ハムスター:Hamster
+シカ:Deer
+書記:Bookkeeper
+考案者:Idea Person
+ロックンローラー:Rock 'n' Roller
+コントローラー:Controller
+ストーリーテラー:Storyteller
+イラストレーター:Illustrator
+画伯:Finger Painter
+著者:Scrivener
+生みの親:Founder
+ファミリー:Family
+芸術家:Craftsman
+マシン:Machine
+ナビゲーター:Navigator
+発明家:Inventor
+パーティー:Party
+司令塔:Playmaker
+若大将:Young Leader
+マスコット:Mascot
+妖精:Fairy
+落語家:Joke Teller
+声優:Voice Actor
+小学生:Learner
+中学生:Tenderfoot
+高校生:Head of the Class
+大学生:University Student
+建築士:Architect
+設計士:Costumier
+猛者:Ferocious Fighter
+有識者:Knowledgeable Person
+高嶺の花:Lofty Dream
+鬼才:Wiz
+有力者:Prominent Figure
+つわもの:Grappler
+天敵:Natural Enemy
+カブトガニ:Horseshoe Crab
+タニシ:Pond Snail
+オウムガイ:Nautilus
+ヤシガニ:Coconut Crab
+イソギンチャク:Sea Anemone
+キンギョ:Goldfish
+アジ:Horse Mackerel
+マンタ:Devil Ray
+ウミウシ:Sea Slug
+エビ:Shrimp
+タカアシガニ:Spider Crab
+ライバル:Rival
+ウィークポイント:Weakness
+タイプ:Type
+想いビト:Sweetheart
+もどき:Imitation
+システム:Process
+集い:Gathering
+大群:Shoal
+一味:Crew
+獣:Beast
+支配者:Ruler
+化石:Fossil
+親衛隊:Warden
+収集家:Collector
+萌え:Crush
+タマシイ:Soul
+境地:State of Mind
+マラソン:Marathon
+いいヒト:Good Person
+取引先:Client
+人形:Doll
+貴公子:Noble Scion
+主役:Protagonist
+シンボル:Symbol
+権威:Authority
+貢献者:Contributor
+ゆるキャラ:Cartoon Character
+ぬいぐるみ:Plushie
+精霊:Spirit
+サラブレッド:Thoroughbred
+御曹司:Person of Note
+達人:Professional
+美食家:Gourmet
+力士:Sumo Wrestler
+末っ子:Family Tree
+現役:Soldier
+騎士団:Order of Knights
+勝利者:Victor
+村人:Villager
+校長:School Principal
+用心棒:Protector
+探検家:Explorer
+探求者:Seeker
+ウォーリアー:Pugilist
+パラディン:Paladin
+門番:Door Guard
+レンジャー:Ranger
+モンク:Monk
+賢者:Sage
+医者:Doctor
+鍛冶屋:Blacksmith
+科学者:Postdoc
+お殿様:Dignitary
+絵師:Artiste
+見習い:Intern
+錬金術師:Alchemist
+番人:Security Detail
+原石:Ore
+ガイド:Guide
+運転手:Chauffeur
+ブロガー:Blogger
+オペレーター:Operator
+司書:Librarian
+オブジェ:Objet d'Art
+後継者:Successor
+オーナー:Owner
+代理人:Proxy
+１年生:Pupil
+２年生:Disciple
+３年生:Scholar
+４年生:Graduate
+５年生:Collegian
+６年生:PhD Candidate
+ケチャップ:Ketchup
+たけのこ:Bamboo Shoot
+ポップ:Pop
+超能力者:Psychic
+重鎮:Arbiter
+文豪:Litterateur
+ジョー:Megalodontia
+思い出:Recollection
+スタイリスト:Stylist
+起業家:Entrepreneur
+ミュージシャン:Musician
+ムードメーカー:Party Star
+風雲児:Mercenary
+連合:Alliance
+吟遊詩人:Bard
+異世界人:Otherworldly Being
+カオス:Chaos
+ニューフェイス:Noob
+先導者:Vanguard
+豪傑:Luminary
+Playing:Playing
+ラッキーマン:Lucky Duck
+天然記念物:Protected Species
+選ばれし者:Chosen One
+遊び人:Gadabout
+チャンスメーカー:Point Guard
+幸せ者:Optimist
+勝負師:Daredevil
+当選者:Prizewinner
+若者:Youth
+イカ:Squid
+タコ:Octopus
+シャケ:Salmon
+ボーイ:Boy
+ガール:Girl
+３号:Agent 3
+おとうさん:Father
+おかあさん:Mother
+パパ:Dad
+ママ:Mom
+息子:Son
+娘:Daughter
+おにいさん:Big Brother
+おねえさん:Big Sister
+おとうと:Little Brother
+いもうと:Little Sister
+おじいさん:Grandpa
+おばあさん:Grandma
+孫:Grandchild
+おじさん:Uncle
+おばさん:Aunt
+赤ちゃん:Youngster
+ペット:Pet
+覇者:World Champ
+調停者:Mediator
+ベータテスター:Beta Tester
+グルーヴを宿した者:Reveler
+ラングエンド:Languendo
+アンダンテ:Andante
+グラーヴェ:Lento
+ポータル:Portal
+カプリチョーソ:Capriccioso
+アラマンボ:Alla Mambo
+コラパルテ:Accelerando
+スピッカート:Spiccato
+トリオンファーレ:Trionfale
+アッコルド:Accordo
+アルペジオ:Arpeggio
+ノビルメンテ:Nobilmente
+カイセンロンド:Asynchronous Rondo
+ゴロゴロマルチャーレ:Pinging Marciale
+イカイノカノン:Parallel Canon
+ナワバトラー:Tableturf Battler
+カードゲーマー:Card Gamer
+旅人:Traveler
+自転車乗り:Cyclist
+天ぷら:Tempura
+支援者:Booster
+歯ごたえ:Resilience
+エンディング:Finale

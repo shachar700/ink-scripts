@@ -1,8 +1,14 @@
 import os
+import sys
+import time
 import json
 import base64
 import tkinter as tk
 from tkinter import filedialog
+
+start_time = time.time()
+print(f'Disclaimer: This script works for v9.2.0, If your list is prior to 9.0.0 make sure to replace |banner=972 to'
+      f' |banner=972 (revoked) for the championship banner.')
 
 # v9.2.0
 
@@ -20,20 +26,21 @@ if file_path:
         # Process the data as needed
 else:
     print("No file selected.")
+    sys.exit(0)
 
 # Get the directory of the current script
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Relative paths to the files
-util_dir = os.path.join(current_dir, 'util', 'HelpingLists')
+util_dir = os.path.join(current_dir, 'processed_data')
 # Relative path to the badgemap.txt file
-badgemap_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'badgemap.txt')
+badgemap_path = os.path.join(current_dir, '..', 'processed_data', 'badgemap.txt')
 
 # Relative path to the titles_adj.txt file
-titles_adj_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'titles_adj.txt')
+titles_adj_path = os.path.join(current_dir, '..', 'processed_data', 'titles_adj.txt')
 
 # Relative path to the titles_sbj.txt file
-titles_sbj_path = os.path.join(current_dir, '..', 'util', 'HelpingLists', 'titles_sbj.txt')
+titles_sbj_path = os.path.join(current_dir, '..', 'processed_data', 'titles_sbj.txt')
 
 data_dict_badges = {}
 with open(badgemap_path, 'r') as mapping:
@@ -56,11 +63,17 @@ with open(titles_sbj_path, 'r', encoding="utf8") as titles_subj:
 #print(data_dict_adj)
 #print(data_dict_subj)
 
+# Extract the base name of the input file (e.g., 'input_name' from 'input_name.json')
+base_name = os.path.splitext(os.path.basename(file_path))[0]
+
+# Create the output file name by appending '_out' to the base name
+output_file_name = base_name + '_out' + '.txt'
+
 # Get the user's home directory
 home_dir = os.path.expanduser("~")
 
 # Output file path
-output_path = os.path.join(home_dir, 'Downloads', 'fest_output.txt')
+output_path = os.path.join(home_dir, 'Downloads', output_file_name)
 
 # Write data to the output file
 with open(output_path, 'w', encoding="utf8") as file_out:
@@ -139,4 +152,5 @@ with open(output_path, 'w', encoding="utf8") as file_out:
 
         file_out.write("|}\n\n")
 
-print("Done!")
+end_time = time.time()
+print(f'Done! took {end_time-start_time:.2f} seconds')
