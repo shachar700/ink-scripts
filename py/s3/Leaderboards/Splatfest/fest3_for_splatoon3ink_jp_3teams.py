@@ -12,8 +12,8 @@ import sys
 from packaging import version
 from subprocess import call
 
-current_version = "0.1.2"
-url = "https://raw.githubusercontent.com/shachar700/ink-scripts/main/py/s3/Leaderboards/util/update_checker.py"
+current_version = "0.1.3"
+url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py"
 
 def check_for_updates():
     '''Checks the script version against the repo, reminding users to update if available.'''
