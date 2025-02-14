@@ -42,7 +42,7 @@ def check_for_updates():
             else:
                 print("Visit the site below to update:\nhttps://github.com/shachar700/ink-scripts\n")
     except Exception as e:
-        print("» Couldn't connect to GitHub. Check if the version in update_checker.py matches the version in github.com/shachar700/ink-scripts/blob/main/py/s3/Leaderboards/util/update_checker.py`.\n")
+        print("» Couldn't connect to GitHub. Check if the local version matches the remote version manually.\n")
 
 check_for_updates()
 print(f'Disclaimer: This script works for data about Splatoon 3 v9.2.0, If your list is prior to 9.0.0 (August 30 2024) make sure to replace |banner=972 to'
