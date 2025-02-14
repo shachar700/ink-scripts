@@ -7,12 +7,10 @@ import tkinter as tk
 from tkinter import filedialog
 import requests
 import re
-import os
-import sys
 from packaging import version
 from subprocess import call
 
-current_version = "0.1.3"
+current_version = "0.1.4"
 url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py"
 
 def check_for_updates():
@@ -118,15 +116,90 @@ output_path = os.path.join(home_dir, 'Downloads', output_file_name)
 
 # Write data to the output file
 with open(output_path, 'w', encoding="utf8") as file_out:
-    for team in data['data']['fest']['teams']:
-        file_out.write("==== " + team["teamName"] + " ====\n")
-        file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
-        file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
-        #in-case of pages 2-4 from splatnet3 app do the following:
-        #comment the for team and the lines below it up to this point
-        #replace the following for with this one: for player in data['data']['node']['result']['rankingHolders']['edges']:
-        #remove indents with shift+tab or any other method your IDE/notepad uses
-        for player in team['result']['rankingHolders']['edges']:
+    if 'fest' in data['data']:  # Check if we have full data for teams
+        for team in data['data']['fest']['teams']:
+            file_out.write("==== " + team["teamName"] + " ====\n")
+            file_out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
+            file_out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
+            for player in team['result']['rankingHolders']['edges']:
+                player = player["node"]
+                rank = player["rank"]
+                name = player["name"]
+                nameid = player["nameId"]
+                if name.find("|") > -1:
+                    name = "<nowiki>" + name + "</nowiki>"
+                if name.find("~") > -1:
+                    name = "<nowiki>" + name + "</nowiki>"
+                power = player["festPower"]
+                weapon = player["weapon"]["name"]
+                title = player["byname"]
+                banner64 = player["nameplate"]["background"]["id"]
+                banner64_bytes = banner64.encode('ascii')
+                banner_bytes = base64.b64decode(banner64_bytes)
+                banner = banner_bytes.decode('ascii')
+                banner = banner[20:]
+                badges = player["nameplate"]["badges"]
+                badge1 = ""
+                badge2 = ""
+                badge3 = ""
+
+                if badges[0] is not None:
+                    badge1 = badges[0]["id"]
+                    badge1_bytes = badge1.encode('ascii')
+                    badge1_bytes = base64.b64decode(badge1_bytes)
+                    badge1 = badge1_bytes.decode('ascii')
+                    badge1 = badge1[6:]
+                else:
+                    badge1 = "Null"
+
+                try:
+                    if badges[1] is not None:
+                        badge2 = badges[1]["id"]
+                        badge2_bytes = badge2.encode('ascii')
+                        badge2_bytes = base64.b64decode(badge2_bytes)
+                        badge2 = badge2_bytes.decode('ascii')
+                        badge2 = badge2[6:]
+                    else:
+                        badge2 = "Null"
+                except IndexError:
+                    print("Error: 'badges' list is too short, unable to access index 1. This is due to old pull from "
+                          "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
+                          "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+                    sys.exit(1)
+
+                try:
+                    if badges[2] is not None:
+                        badge3 = badges[2]["id"]
+                        badge3_bytes = badge3.encode('ascii')
+                        badge3_bytes = base64.b64decode(badge3_bytes)
+                        badge3 = badge3_bytes.decode('ascii')
+                        badge3 = badge3[6:]
+                    else:
+                        badge3 = "Null"
+                except IndexError:
+                    print("Error: 'badges' list is too short, unable to access index 2. This is due to old pull from "
+                          "SplatNet 3 before Ice Cream Splatfest where badge placements were not taken into account. Make "
+                          "sure to re-pull the list from SplatNet 3 to take badge placements into account.")
+
+                badgeslist = [badge1, badge2, badge3]
+
+                file_out.write("|-\n")
+                file_out.write("| " + str(rank) + " || " + str(
+                    power) + " || {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
+
+                if badgeslist != ['Null', 'Null', 'Null']:
+                    if badge1 in data_dict_badges:
+                        file_out.write("|badge1=" + data_dict_badges[badge1])
+                    if badge2 in data_dict_badges:
+                        file_out.write("|badge2=" + data_dict_badges[badge2])
+                    if badge3 in data_dict_badges:
+                        file_out.write("|badge3=" + data_dict_badges[badge3])
+                file_out.write("}}\n"
+                               "| [[File:S3 Weapon Main " + weapon + " 2D Current.png|24px|link=" + weapon + "]] [[" + weapon + "]]\n")
+
+            file_out.write("|}\n\n")
+    elif 'node' in data['data']:  # In case of partial data with only players
+        for player in data['data']['node']['result']['rankingHolders']['edges']:
             player = player["node"]
             rank = player["rank"]
             name = player["name"]

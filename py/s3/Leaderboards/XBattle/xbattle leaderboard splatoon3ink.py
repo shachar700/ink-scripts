@@ -12,7 +12,7 @@ import sys
 from packaging import version
 from subprocess import call
 
-current_version = "0.1.3"
+current_version = "0.1.4"
 url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py"
 
 def check_for_updates():
