@@ -157,7 +157,7 @@ with open(output_path, 'w', encoding="utf8") as file_out:
 
             file_out.write("|-\n")
             file_out.write("| " + str(rank) + " || " + str(
-                power) + " || {{Splashtag|title=" + title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
+                power) + " || {{Splashtag|title=" + adj_title + " " + subj_title + "|name=" + name + "|banner=" + banner + "|tagnumber=" + nameid)
 
             if badgeslist != ['Null', 'Null', 'Null']:
                 if badge1 in data_dict_badges:
