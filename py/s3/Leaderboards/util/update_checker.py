@@ -37,5 +37,5 @@ def check_for_updates():
             else:
                 print("Visit the site below to update:\nhttps://github.com/shachar700/ink-scripts\n")
     except Exception as e:
-        print("» Couldn't connect to GitHub. Please update the script manually via `git pull`.\n")
+        print("» Couldn't connect to GitHub. Check if the version in update_checker.py matches the version in github.com/shachar700/ink-scripts/blob/main/py/s3/Leaderboards/util/update_checker.py`.\n")
 
