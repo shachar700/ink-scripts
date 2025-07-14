@@ -976,6 +976,7 @@ VIP:VIP
 超能力者:Psychic
 重鎮:Arbiter
 文豪:Litterateur
+守り手:Defender
 ジョー:Megalodontia
 思い出:Recollection
 スタイリスト:Stylist

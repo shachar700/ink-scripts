@@ -12,7 +12,7 @@ import sys
 from packaging import version
 from subprocess import call
 
-current_version = "0.1.4"
+current_version = "0.1.5"
 url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/Splatfest/fest3_for_splatoon3ink_3teams.py"
 
 def check_for_updates():
@@ -47,10 +47,10 @@ def check_for_updates():
         print("» Couldn't connect to GitHub. Check if the local version matches the remote version manually.\n")
 
 check_for_updates()
-print(f'Disclaimer: This script works for data about Splatoon 3 v9.2.0, If your list is prior to 9.0.0 (August 30 2024) make sure to replace |banner=972 to'
+print(f'Disclaimer: This script works for data from Splatoon 3 v10.0.0, If your list is prior to 9.0.0 (August 30 2024) make sure to replace |banner=972 to'
       f' |banner=972 (revoked) for the championship banner.')
 
-#v9.2.0
+#v10.0.0
 
 # Create a Tkinter root window
 root = tk.Tk()

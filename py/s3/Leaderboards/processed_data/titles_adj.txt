@@ -22,6 +22,7 @@
 ネギトロ炭鉱の:Bluefin Depot
 カジキ空港の:Marlin Airport
 リュウグウターミナルの:Lemuria Hub
+デカライン高架下の:Urchin Underpass
 シェケナダムの:Spawning Grounds
 難破船ドン・ブラコの:Marooner's Bay
 トキシラズいぶし工房の:Salmonid Smokeyard

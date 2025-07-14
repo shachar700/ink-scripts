@@ -148,6 +148,43 @@
         "reskin_of": "96gal_deco"
     },
     {
+        "key": "96gal_sou",
+        "aliases": [
+            "82",
+            "clawz_96_gal"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Clawz .96 Gal",
+            "ja_JP": ".96ガロン爪"
+        },
+        "main": "96gal",
+        "sub": {
+            "key": "linemarker",
+            "aliases": [],
+            "name": {
+                "en_US": "Angle Shooter",
+                "ja_JP": "ラインマーカー"
+            }
+        },
+        "special": {
+            "key": "energystand",
+            "aliases": [],
+            "name": {
+                "en_US": "Tacticooler",
+                "ja_JP": "エナジースタンド"
+            }
+        },
+        "reskin_of": "96gal_sou"
+    },
+    {
         "key": "bold",
         "aliases": [
             "0",
@@ -368,6 +405,43 @@
             }
         },
         "reskin_of": "jetsweeper"
+    },
+    {
+        "key": "jetsweeper_cobr",
+        "aliases": [
+            "92",
+            "jet_squelcher_cob_r"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Jet Squelcher COB-R",
+            "ja_JP": "ジェットスイーパーCOBR"
+        },
+        "main": "jetsweeper",
+        "sub": {
+            "key": "quickbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Burst Bomb",
+                "ja_JP": "クイックボム"
+            }
+        },
+        "special": {
+            "key": "ultra_chakuchi",
+            "aliases": [],
+            "name": {
+                "en_US": "Triple Splashdown",
+                "ja_JP": "ウルトラチャクチ"
+            }
+        },
+        "reskin_of": "jetsweeper_cobr"
     },
     {
         "key": "jetsweeper_custom",
@@ -666,6 +740,43 @@
         "reskin_of": "prime_collabo"
     },
     {
+        "key": "prime_frzn",
+        "aliases": [
+            "72",
+            "splattershot_pro_frz_n"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Splattershot Pro FRZ-N",
+            "ja_JP": "プライムシューターFRZN"
+        },
+        "main": "prime",
+        "sub": {
+            "key": "splashbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Splat Bomb",
+                "ja_JP": "スプラッシュボム"
+            }
+        },
+        "special": {
+            "key": "missile",
+            "aliases": [],
+            "name": {
+                "en_US": "Tenta Missiles",
+                "ja_JP": "マルチミサイル"
+            }
+        },
+        "reskin_of": "prime_frzn"
+    },
+    {
         "key": "promodeler_mg",
         "aliases": [
             "30",
@@ -740,6 +851,43 @@
         "reskin_of": "promodeler_rg"
     },
     {
+        "key": "promodeler_sai",
+        "aliases": [
+            "32",
+            "colorz_aerospray"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Colorz Aerospray",
+            "ja_JP": "プロモデラー彩"
+        },
+        "main": "promodeler_mg",
+        "sub": {
+            "key": "quickbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Burst Bomb",
+                "ja_JP": "クイックボム"
+            }
+        },
+        "special": {
+            "key": "suminagasheet",
+            "aliases": [],
+            "name": {
+                "en_US": "Splattercolor Screen",
+                "ja_JP": "スミナガシート"
+            }
+        },
+        "reskin_of": "promodeler_sai"
+    },
+    {
         "key": "sharp",
         "aliases": [
             "20",
@@ -775,6 +923,43 @@
             }
         },
         "reskin_of": "sharp"
+    },
+    {
+        "key": "sharp_geck",
+        "aliases": [
+            "22",
+            "splash_o_matic_gck_o"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Splash-o-matic GCK-O",
+            "ja_JP": "シャープマーカーGECK"
+        },
+        "main": "sharp",
+        "sub": {
+            "key": "poisonmist",
+            "aliases": [],
+            "name": {
+                "en_US": "Toxic Mist",
+                "ja_JP": "ポイズンミスト"
+            }
+        },
+        "special": {
+            "key": "amefurashi",
+            "aliases": [],
+            "name": {
+                "en_US": "Ink Storm",
+                "ja_JP": "アメフラシ"
+            }
+        },
+        "reskin_of": "sharp_geck"
     },
     {
         "key": "sharp_neo",
@@ -962,6 +1147,43 @@
         "reskin_of": "sshooter_collabo"
     },
     {
+        "key": "sshooter_kou",
+        "aliases": [
+            "42",
+            "glamorz_splattershot"
+        ],
+        "type": {
+            "key": "shooter",
+            "aliases": [],
+            "name": {
+                "en_US": "Shooters",
+                "ja_JP": "シューター"
+            }
+        },
+        "name": {
+            "en_US": "Glamorz Splattershot",
+            "ja_JP": "スプラシューター煌"
+        },
+        "main": "sshooter",
+        "sub": {
+            "key": "quickbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Burst Bomb",
+                "ja_JP": "クイックボム"
+            }
+        },
+        "special": {
+            "key": "teioika",
+            "aliases": [],
+            "name": {
+                "en_US": "Kraken Royale",
+                "ja_JP": "テイオウイカ"
+            }
+        },
+        "reskin_of": "sshooter_kou"
+    },
+    {
         "key": "wakaba",
         "aliases": [
             "10",
@@ -1145,6 +1367,43 @@
             }
         },
         "reskin_of": "hotblaster_custom"
+    },
+    {
+        "key": "hotblaster_en",
+        "aliases": [
+            "212",
+            "gleamz_blaster"
+        ],
+        "type": {
+            "key": "blaster",
+            "aliases": [],
+            "name": {
+                "en_US": "Blasters",
+                "ja_JP": "ブラスター"
+            }
+        },
+        "name": {
+            "en_US": "Gleamz Blaster",
+            "ja_JP": "ホットブラスター艶"
+        },
+        "main": "hotblaster",
+        "sub": {
+            "key": "jumpbeacon",
+            "aliases": [],
+            "name": {
+                "en_US": "Squid Beakon",
+                "ja_JP": "ジャンプビーコン"
+            }
+        },
+        "special": {
+            "key": "kanitank",
+            "aliases": [],
+            "name": {
+                "en_US": "Crab Tank",
+                "ja_JP": "カニタンク"
+            }
+        },
+        "reskin_of": "hotblaster_en"
     },
     {
         "key": "longblaster",
@@ -1479,6 +1738,43 @@
         "reskin_of": "rapid_elite_deco"
     },
     {
+        "key": "rapid_elite_wntr",
+        "aliases": [
+            "252",
+            "rapid_blaster_pro_wnt_r"
+        ],
+        "type": {
+            "key": "blaster",
+            "aliases": [],
+            "name": {
+                "en_US": "Blasters",
+                "ja_JP": "ブラスター"
+            }
+        },
+        "name": {
+            "en_US": "Rapid Blaster Pro WNT-R",
+            "ja_JP": "RブラスターエリートWNTR"
+        },
+        "main": "rapid_elite",
+        "sub": {
+            "key": "kyubanbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Suction Bomb",
+                "ja_JP": "キューバンボム"
+            }
+        },
+        "special": {
+            "key": "energystand",
+            "aliases": [],
+            "name": {
+                "en_US": "Tacticooler",
+                "ja_JP": "エナジースタンド"
+            }
+        },
+        "reskin_of": "rapid_elite_wntr"
+    },
+    {
         "key": "sblast91",
         "aliases": [
             "261",
@@ -1627,6 +1923,43 @@
         "reskin_of": "h3reelgun_d"
     },
     {
+        "key": "h3reelgun_snak",
+        "aliases": [
+            "312",
+            "h_3_nozzlenose_vip_r"
+        ],
+        "type": {
+            "key": "reelgun",
+            "aliases": [],
+            "name": {
+                "en_US": "Nozzlenoses",
+                "ja_JP": "リールガン"
+            }
+        },
+        "name": {
+            "en_US": "H-3 Nozzlenose VIP-R",
+            "ja_JP": "H3リールガンSNAK"
+        },
+        "main": "h3reelgun",
+        "sub": {
+            "key": "kyubanbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Suction Bomb",
+                "ja_JP": "キューバンボム"
+            }
+        },
+        "special": {
+            "key": "tripletornado",
+            "aliases": [],
+            "name": {
+                "en_US": "Triple Inkstrike",
+                "ja_JP": "トリプルトルネード"
+            }
+        },
+        "reskin_of": "h3reelgun_snak"
+    },
+    {
         "key": "l3reelgun",
         "aliases": [
             "300",
@@ -1701,6 +2034,43 @@
         "reskin_of": "l3reelgun_d"
     },
     {
+        "key": "l3reelgun_haku",
+        "aliases": [
+            "302",
+            "glitterz_l_3_nozzlenose"
+        ],
+        "type": {
+            "key": "reelgun",
+            "aliases": [],
+            "name": {
+                "en_US": "Nozzlenoses",
+                "ja_JP": "リールガン"
+            }
+        },
+        "name": {
+            "en_US": "Glitterz L-3 Nozzlenose",
+            "ja_JP": "L3リールガン箔"
+        },
+        "main": "l3reelgun",
+        "sub": {
+            "key": "splashbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Splat Bomb",
+                "ja_JP": "スプラッシュボム"
+            }
+        },
+        "special": {
+            "key": "jetpack",
+            "aliases": [],
+            "name": {
+                "en_US": "Inkjet",
+                "ja_JP": "ジェットパック"
+            }
+        },
+        "reskin_of": "l3reelgun_haku"
+    },
+    {
         "key": "dualsweeper",
         "aliases": [
             "5030",
@@ -1773,6 +2143,43 @@
             }
         },
         "reskin_of": "dualsweeper_custom"
+    },
+    {
+        "key": "dualsweeper_tei",
+        "aliases": [
+            "5032",
+            "hoofz_dualie_squelchers"
+        ],
+        "type": {
+            "key": "maneuver",
+            "aliases": [],
+            "name": {
+                "en_US": "Dualies",
+                "ja_JP": "マニューバー"
+            }
+        },
+        "name": {
+            "en_US": "Hoofz Dualie Squelchers",
+            "ja_JP": "デュアルスイーパー蹄"
+        },
+        "main": "dualsweeper",
+        "sub": {
+            "key": "pointsensor",
+            "aliases": [],
+            "name": {
+                "en_US": "Point Sensor",
+                "ja_JP": "ポイントセンサー"
+            }
+        },
+        "special": {
+            "key": "suminagasheet",
+            "aliases": [],
+            "name": {
+                "en_US": "Splattercolor Screen",
+                "ja_JP": "スミナガシート"
+            }
+        },
+        "reskin_of": "dualsweeper_tei"
     },
     {
         "key": "gaen_ff",
@@ -1997,6 +2404,43 @@
         "reskin_of": "maneuver_collabo"
     },
     {
+        "key": "maneuver_you",
+        "aliases": [
+            "5012",
+            "twinklez_splat_dualies"
+        ],
+        "type": {
+            "key": "maneuver",
+            "aliases": [],
+            "name": {
+                "en_US": "Dualies",
+                "ja_JP": "マニューバー"
+            }
+        },
+        "name": {
+            "en_US": "Twinklez Splat Dualies",
+            "ja_JP": "スプラマニューバー耀"
+        },
+        "main": "maneuver",
+        "sub": {
+            "key": "tansanbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Fizzy Bomb",
+                "ja_JP": "タンサンボム"
+            }
+        },
+        "special": {
+            "key": "greatbarrier",
+            "aliases": [],
+            "name": {
+                "en_US": "Big Bubbler",
+                "ja_JP": "グレートバリア"
+            }
+        },
+        "reskin_of": "maneuver_you"
+    },
+    {
         "key": "order_maneuver_replica",
         "aliases": [
             "5015",
@@ -2182,6 +2626,43 @@
         "reskin_of": "sputtery_hue"
     },
     {
+        "key": "sputtery_owl",
+        "aliases": [
+            "5002",
+            "dapple_dualies_noc_t"
+        ],
+        "type": {
+            "key": "maneuver",
+            "aliases": [],
+            "name": {
+                "en_US": "Dualies",
+                "ja_JP": "マニューバー"
+            }
+        },
+        "name": {
+            "en_US": "Dapple Dualies NOC-T",
+            "ja_JP": "スパッタリーOWL"
+        },
+        "main": "sputtery",
+        "sub": {
+            "key": "splashbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Splat Bomb",
+                "ja_JP": "スプラッシュボム"
+            }
+        },
+        "special": {
+            "key": "megaphone51",
+            "aliases": [],
+            "name": {
+                "en_US": "Killer Wail 5.1",
+                "ja_JP": "メガホンレーザー5.1ch"
+            }
+        },
+        "reskin_of": "sputtery_owl"
+    },
+    {
         "key": "carbon",
         "aliases": [
             "1000",
@@ -2217,6 +2698,43 @@
             }
         },
         "reskin_of": "carbon"
+    },
+    {
+        "key": "carbon_angl",
+        "aliases": [
+            "1002",
+            "carbon_roller_ang_l"
+        ],
+        "type": {
+            "key": "roller",
+            "aliases": [],
+            "name": {
+                "en_US": "Rollers",
+                "ja_JP": "ローラー"
+            }
+        },
+        "name": {
+            "en_US": "Carbon Roller ANG-L",
+            "ja_JP": "カーボンローラーANGL"
+        },
+        "main": "carbon",
+        "sub": {
+            "key": "tansanbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Fizzy Bomb",
+                "ja_JP": "タンサンボム"
+            }
+        },
+        "special": {
+            "key": "decoy",
+            "aliases": [],
+            "name": {
+                "en_US": "Super Chump",
+                "ja_JP": "デコイチラシ"
+            }
+        },
+        "reskin_of": "carbon_angl"
     },
     {
         "key": "carbon_deco",
@@ -2291,6 +2809,43 @@
             }
         },
         "reskin_of": "dynamo"
+    },
+    {
+        "key": "dynamo_mei",
+        "aliases": [
+            "1022",
+            "starz_dynamo_roller"
+        ],
+        "type": {
+            "key": "roller",
+            "aliases": [],
+            "name": {
+                "en_US": "Rollers",
+                "ja_JP": "ローラー"
+            }
+        },
+        "name": {
+            "en_US": "Starz Dynamo Roller",
+            "ja_JP": "ダイナモローラー冥"
+        },
+        "main": "dynamo",
+        "sub": {
+            "key": "pointsensor",
+            "aliases": [],
+            "name": {
+                "en_US": "Point Sensor",
+                "ja_JP": "ポイントセンサー"
+            }
+        },
+        "special": {
+            "key": "megaphone51",
+            "aliases": [],
+            "name": {
+                "en_US": "Killer Wail 5.1",
+                "ja_JP": "メガホンレーザー5.1ch"
+            }
+        },
+        "reskin_of": "dynamo_mei"
     },
     {
         "key": "dynamo_tesla",
@@ -2588,6 +3143,43 @@
         "reskin_of": "wideroller_collabo"
     },
     {
+        "key": "wideroller_waku",
+        "aliases": [
+            "1042",
+            "planetz_big_swig_roller"
+        ],
+        "type": {
+            "key": "roller",
+            "aliases": [],
+            "name": {
+                "en_US": "Rollers",
+                "ja_JP": "ローラー"
+            }
+        },
+        "name": {
+            "en_US": "Planetz Big Swig Roller",
+            "ja_JP": "ワイドローラー惑"
+        },
+        "main": "wideroller",
+        "sub": {
+            "key": "torpedo",
+            "aliases": [],
+            "name": {
+                "en_US": "Torpedo",
+                "ja_JP": "トーピード"
+            }
+        },
+        "special": {
+            "key": "ultra_chakuchi",
+            "aliases": [],
+            "name": {
+                "en_US": "Triple Splashdown",
+                "ja_JP": "ウルトラチャクチ"
+            }
+        },
+        "reskin_of": "wideroller_waku"
+    },
+    {
         "key": "fincent",
         "aliases": [
             "1120",
@@ -2624,6 +3216,43 @@
             }
         },
         "reskin_of": "fincent"
+    },
+    {
+        "key": "fincent_brnz",
+        "aliases": [
+            "1122",
+            "painbrush_brn_z"
+        ],
+        "type": {
+            "key": "brush",
+            "aliases": [],
+            "name": {
+                "en_US": "Brushes",
+                "ja_JP": "フデ"
+            }
+        },
+        "name": {
+            "en_US": "Painbrush BRN-Z",
+            "ja_JP": "フィンセントBRNZ"
+        },
+        "main": "fincent",
+        "sub": {
+            "key": "splashshield",
+            "aliases": [],
+            "name": {
+                "en_US": "Splash Wall",
+                "ja_JP": "スプラッシュシールド"
+            }
+        },
+        "special": {
+            "key": "ultrashot",
+            "aliases": [],
+            "name": {
+                "en_US": "Trizooka",
+                "ja_JP": "ウルトラショット"
+            }
+        },
+        "reskin_of": "fincent_brnz"
     },
     {
         "key": "fincent_hue",
@@ -2736,6 +3365,43 @@
             }
         },
         "reskin_of": "hokusai_hue"
+    },
+    {
+        "key": "hokusai_sui",
+        "aliases": [
+            "1112",
+            "cometz_octobrush"
+        ],
+        "type": {
+            "key": "brush",
+            "aliases": [],
+            "name": {
+                "en_US": "Brushes",
+                "ja_JP": "フデ"
+            }
+        },
+        "name": {
+            "en_US": "Cometz Octobrush",
+            "ja_JP": "ホクサイ彗"
+        },
+        "main": "hokusai",
+        "sub": {
+            "key": "robotbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Autobomb",
+                "ja_JP": "ロボットボム"
+            }
+        },
+        "special": {
+            "key": "teioika",
+            "aliases": [],
+            "name": {
+                "en_US": "Kraken Royale",
+                "ja_JP": "テイオウイカ"
+            }
+        },
+        "reskin_of": "hokusai_sui"
     },
     {
         "key": "order_brush_replica",
@@ -2997,6 +3663,43 @@
         "reskin_of": "drivewiper_deco"
     },
     {
+        "key": "drivewiper_rust",
+        "aliases": [
+            "8012",
+            "splatana_wiper_rus_t"
+        ],
+        "type": {
+            "key": "wiper",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatanas",
+                "ja_JP": "ワイパー"
+            }
+        },
+        "name": {
+            "en_US": "Splatana Wiper RUS-T",
+            "ja_JP": "ドライブワイパーRUST"
+        },
+        "main": "drivewiper",
+        "sub": {
+            "key": "curlingbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Curling Bomb",
+                "ja_JP": "カーリングボム"
+            }
+        },
+        "special": {
+            "key": "ultrashot",
+            "aliases": [],
+            "name": {
+                "en_US": "Trizooka",
+                "ja_JP": "ウルトラショット"
+            }
+        },
+        "reskin_of": "drivewiper_rust"
+    },
+    {
         "key": "jimuwiper",
         "aliases": [
             "8000",
@@ -3032,6 +3735,43 @@
             }
         },
         "reskin_of": "jimuwiper"
+    },
+    {
+        "key": "jimuwiper_fuu",
+        "aliases": [
+            "8002",
+            "stickerz_splatana_stamper"
+        ],
+        "type": {
+            "key": "wiper",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatanas",
+                "ja_JP": "ワイパー"
+            }
+        },
+        "name": {
+            "en_US": "Stickerz Splatana Stamper",
+            "ja_JP": "ジムワイパー封"
+        },
+        "main": "jimuwiper",
+        "sub": {
+            "key": "robotbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Autobomb",
+                "ja_JP": "ロボットボム"
+            }
+        },
+        "special": {
+            "key": "nicedama",
+            "aliases": [],
+            "name": {
+                "en_US": "Booyah Bomb",
+                "ja_JP": "ナイスダマ"
+            }
+        },
+        "reskin_of": "jimuwiper_fuu"
     },
     {
         "key": "jimuwiper_hue",
@@ -3589,6 +4329,43 @@
         "reskin_of": "splatcharger_collabo"
     },
     {
+        "key": "splatcharger_frst",
+        "aliases": [
+            "2012",
+            "splat_charger_cam_o"
+        ],
+        "type": {
+            "key": "charger",
+            "aliases": [],
+            "name": {
+                "en_US": "Chargers",
+                "ja_JP": "チャージャー"
+            }
+        },
+        "name": {
+            "en_US": "Splat Charger CAM-O",
+            "ja_JP": "スプラチャージャーFRST"
+        },
+        "main": "splatcharger",
+        "sub": {
+            "key": "sprinkler",
+            "aliases": [],
+            "name": {
+                "en_US": "Sprinkler",
+                "ja_JP": "スプリンクラー"
+            }
+        },
+        "special": {
+            "key": "kanitank",
+            "aliases": [],
+            "name": {
+                "en_US": "Crab Tank",
+                "ja_JP": "カニタンク"
+            }
+        },
+        "reskin_of": "splatcharger_frst"
+    },
+    {
         "key": "splatscope",
         "aliases": [
             "2020",
@@ -3661,6 +4438,43 @@
             }
         },
         "reskin_of": "splatscope_collabo"
+    },
+    {
+        "key": "splatscope_frst",
+        "aliases": [
+            "2022",
+            "splatterscope_cam_o"
+        ],
+        "type": {
+            "key": "charger",
+            "aliases": [],
+            "name": {
+                "en_US": "Chargers",
+                "ja_JP": "チャージャー"
+            }
+        },
+        "name": {
+            "en_US": "Splatterscope CAM-O",
+            "ja_JP": "スプラスコープFRST"
+        },
+        "main": "splatscope",
+        "sub": {
+            "key": "sprinkler",
+            "aliases": [],
+            "name": {
+                "en_US": "Sprinkler",
+                "ja_JP": "スプリンクラー"
+            }
+        },
+        "special": {
+            "key": "kanitank",
+            "aliases": [],
+            "name": {
+                "en_US": "Crab Tank",
+                "ja_JP": "カニタンク"
+            }
+        },
+        "reskin_of": "splatscope_frst"
     },
     {
         "key": "squiclean_a",
@@ -3995,6 +4809,43 @@
         "reskin_of": "hissen"
     },
     {
+        "key": "hissen_ash",
+        "aliases": [
+            "3012",
+            "tri_slosher_ash_n"
+        ],
+        "type": {
+            "key": "slosher",
+            "aliases": [],
+            "name": {
+                "en_US": "Sloshers",
+                "ja_JP": "スロッシャー"
+            }
+        },
+        "name": {
+            "en_US": "Tri-Slosher ASH-N",
+            "ja_JP": "ヒッセンASH"
+        },
+        "main": "hissen",
+        "sub": {
+            "key": "splashbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Splat Bomb",
+                "ja_JP": "スプラッシュボム"
+            }
+        },
+        "special": {
+            "key": "suminagasheet",
+            "aliases": [],
+            "name": {
+                "en_US": "Splattercolor Screen",
+                "ja_JP": "スミナガシート"
+            }
+        },
+        "reskin_of": "hissen_ash"
+    },
+    {
         "key": "hissen_hue",
         "aliases": [
             "3011",
@@ -4104,6 +4955,43 @@
             }
         },
         "reskin_of": "moprin_d"
+    },
+    {
+        "key": "moprin_kaku",
+        "aliases": [
+            "3052",
+            "hornz_dread_wringer"
+        ],
+        "type": {
+            "key": "slosher",
+            "aliases": [],
+            "name": {
+                "en_US": "Sloshers",
+                "ja_JP": "スロッシャー"
+            }
+        },
+        "name": {
+            "en_US": "Hornz Dread Wringer",
+            "ja_JP": "モップリン角"
+        },
+        "main": "moprin",
+        "sub": {
+            "key": "curlingbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Curling Bomb",
+                "ja_JP": "カーリングボム"
+            }
+        },
+        "special": {
+            "key": "kanitank",
+            "aliases": [],
+            "name": {
+                "en_US": "Crab Tank",
+                "ja_JP": "カニタンク"
+            }
+        },
+        "reskin_of": "moprin_kaku"
     },
     {
         "key": "order_slosher_replica",
@@ -4399,6 +5287,43 @@
             }
         },
         "reskin_of": "hydra"
+    },
+    {
+        "key": "hydra_atsu",
+        "aliases": [
+            "4022",
+            "torrentz_hydra_splatling"
+        ],
+        "type": {
+            "key": "spinner",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatlings",
+                "ja_JP": "スピナー"
+            }
+        },
+        "name": {
+            "en_US": "Torrentz Hydra Splatling",
+            "ja_JP": "ハイドラント圧"
+        },
+        "main": "hydra",
+        "sub": {
+            "key": "sprinkler",
+            "aliases": [],
+            "name": {
+                "en_US": "Sprinkler",
+                "ja_JP": "スプリンクラー"
+            }
+        },
+        "special": {
+            "key": "greatbarrier",
+            "aliases": [],
+            "name": {
+                "en_US": "Big Bubbler",
+                "ja_JP": "グレートバリア"
+            }
+        },
+        "reskin_of": "hydra_atsu"
     },
     {
         "key": "hydra_custom",
@@ -4697,6 +5622,43 @@
         "reskin_of": "splatspinner_collabo"
     },
     {
+        "key": "splatspinner_pytn",
+        "aliases": [
+            "4002",
+            "mini_splatling_rtl_r"
+        ],
+        "type": {
+            "key": "spinner",
+            "aliases": [],
+            "name": {
+                "en_US": "Splatlings",
+                "ja_JP": "スピナー"
+            }
+        },
+        "name": {
+            "en_US": "Mini Splatling RTL-R",
+            "ja_JP": "スプラスピナーPYTN"
+        },
+        "main": "splatspinner",
+        "sub": {
+            "key": "jumpbeacon",
+            "aliases": [],
+            "name": {
+                "en_US": "Squid Beakon",
+                "ja_JP": "ジャンプビーコン"
+            }
+        },
+        "special": {
+            "key": "ultrashot",
+            "aliases": [],
+            "name": {
+                "en_US": "Trizooka",
+                "ja_JP": "ウルトラショット"
+            }
+        },
+        "reskin_of": "splatspinner_pytn"
+    },
+    {
         "key": "brella24mk1",
         "aliases": [
             "6030",
@@ -4806,6 +5768,43 @@
             }
         },
         "reskin_of": "campingshelter"
+    },
+    {
+        "key": "campingshelter_crem",
+        "aliases": [
+            "6012",
+            "tenta_brella_cre_m"
+        ],
+        "type": {
+            "key": "brella",
+            "aliases": [],
+            "name": {
+                "en_US": "Brellas",
+                "ja_JP": "シェルター"
+            }
+        },
+        "name": {
+            "en_US": "Tenta Brella CRE-M",
+            "ja_JP": "キャンピングシェルターCREM"
+        },
+        "main": "campingshelter",
+        "sub": {
+            "key": "poisonmist",
+            "aliases": [],
+            "name": {
+                "en_US": "Toxic Mist",
+                "ja_JP": "ポイズンミスト"
+            }
+        },
+        "special": {
+            "key": "decoy",
+            "aliases": [],
+            "name": {
+                "en_US": "Super Chump",
+                "ja_JP": "デコイチラシ"
+            }
+        },
+        "reskin_of": "campingshelter_crem"
     },
     {
         "key": "campingshelter_sorella",
@@ -4993,6 +5992,43 @@
         "reskin_of": "spygadget"
     },
     {
+        "key": "spygadget_ryo",
+        "aliases": [
+            "6022",
+            "patternz_undercover_brella"
+        ],
+        "type": {
+            "key": "brella",
+            "aliases": [],
+            "name": {
+                "en_US": "Brellas",
+                "ja_JP": "シェルター"
+            }
+        },
+        "name": {
+            "en_US": "Patternz Undercover Brella",
+            "ja_JP": "スパイガジェット繚"
+        },
+        "main": "spygadget",
+        "sub": {
+            "key": "curlingbomb",
+            "aliases": [],
+            "name": {
+                "en_US": "Curling Bomb",
+                "ja_JP": "カーリングボム"
+            }
+        },
+        "special": {
+            "key": "megaphone51",
+            "aliases": [],
+            "name": {
+                "en_US": "Killer Wail 5.1",
+                "ja_JP": "メガホンレーザー5.1ch"
+            }
+        },
+        "reskin_of": "spygadget_ryo"
+    },
+    {
         "key": "spygadget_sorella",
         "aliases": [
             "6021",
@@ -5178,6 +6214,43 @@
         "reskin_of": "lact450_deco"
     },
     {
+        "key": "lact450_milk",
+        "aliases": [
+            "7022",
+            "reef_lux_450_mil_k"
+        ],
+        "type": {
+            "key": "stringer",
+            "aliases": [],
+            "name": {
+                "en_US": "Stringers",
+                "ja_JP": "ストリンガー"
+            }
+        },
+        "name": {
+            "en_US": "REEF-LUX 450 MIL-K",
+            "ja_JP": "LACT-450MILK"
+        },
+        "main": "lact450",
+        "sub": {
+            "key": "torpedo",
+            "aliases": [],
+            "name": {
+                "en_US": "Torpedo",
+                "ja_JP": "トーピード"
+            }
+        },
+        "special": {
+            "key": "nicedama",
+            "aliases": [],
+            "name": {
+                "en_US": "Booyah Bomb",
+                "ja_JP": "ナイスダマ"
+            }
+        },
+        "reskin_of": "lact450_milk"
+    },
+    {
         "key": "order_stringer_replica",
         "aliases": [
             "7015"
@@ -5286,5 +6359,42 @@
             }
         },
         "reskin_of": "tristringer_collabo"
+    },
+    {
+        "key": "tristringer_tou",
+        "aliases": [
+            "7012",
+            "bulbz_tri_stringer"
+        ],
+        "type": {
+            "key": "stringer",
+            "aliases": [],
+            "name": {
+                "en_US": "Stringers",
+                "ja_JP": "ストリンガー"
+            }
+        },
+        "name": {
+            "en_US": "Bulbz Tri-Stringer",
+            "ja_JP": "トライストリンガー燈"
+        },
+        "main": "tristringer",
+        "sub": {
+            "key": "linemarker",
+            "aliases": [],
+            "name": {
+                "en_US": "Angle Shooter",
+                "ja_JP": "ラインマーカー"
+            }
+        },
+        "special": {
+            "key": "jetpack",
+            "aliases": [],
+            "name": {
+                "en_US": "Inkjet",
+                "ja_JP": "ジェットパック"
+            }
+        },
+        "reskin_of": "tristringer_tou"
     }
 ]
