@@ -82,7 +82,7 @@ def process(input_path=None, output_dir=None, logger=print):
                     )
 
             if weapons_cell:
-                weapons_text = "<div style=\"column-count:3; -moz-column-count:3; -webkit-column-count:3;\">"
+                weapons_text = "<div style=\"column-count:3;\">"
                 weapons_text += "<br>".join(weapons_cell)
                 weapons_text += "</div>"
             else:
