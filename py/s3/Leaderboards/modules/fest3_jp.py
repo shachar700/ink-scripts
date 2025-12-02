@@ -3,33 +3,23 @@ import os
 import time
 import json
 from pathlib import Path
-import tkinter as tk
-from tkinter import filedialog
 
 import utils as _utils
 
-def _ask_for_file():
-    root = tk.Tk()
-    root.withdraw()
-    return filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
-
 def process(input_path=None, output_dir=None, logger=print):
     """
-    Process Japanese fest (fest3_for_splatoon3ink_jp_3teams.py logic).
+    Converted from challenge_lists_splatnet3.py
+    Produces a wiki-formatted .txt output for Solo / Pair / Team leaderboards.
     """
+
     if not input_path:
-        input_path = _ask_for_file()
-    if not input_path:
-        logger("No file selected.")
-        return
+        raise ValueError("process() requires 'input_path' when used headless.")
 
     start_time = time.time()
 
-    # Load JSON
     with open(input_path, 'r', encoding="utf8") as fh:
         data = json.load(fh)
 
-    # locate processed_data and preprocessed_data relative to this file
     this_dir = Path(__file__).resolve().parent
     badgemap = _utils.load_badgemap(this_dir)
     data_adj, data_subj = _utils.load_titles(this_dir)

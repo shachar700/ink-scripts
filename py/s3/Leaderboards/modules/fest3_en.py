@@ -1,12 +1,9 @@
 # modules/fest3_en.py
-import os
-import sys
-import time
 import json
+import time
 from pathlib import Path
 import tkinter as tk
 from tkinter import filedialog
-
 import utils as _utils
 
 def _ask_for_file():
@@ -16,17 +13,19 @@ def _ask_for_file():
 
 def process(input_path=None, output_dir=None, logger=print):
     """
-    Read the input JSON and produce a text output in Downloads (or output_dir).
-    This is the refactor of fest3_for_splatoon3ink_3teams.py with centralized update checking.
+    Process challenge JSON for Solo / Pair / Team leaderboards.
+    Supports GUI (with input_path provided) and headless/auto_run.
     """
+    # If no input_path provided, open file dialog (GUI mode)
     if not input_path:
         input_path = _ask_for_file()
-    if not input_path:
-        logger("No file selected.")
-        return
+        if not input_path:
+            logger("No file selected.")
+            return
 
-    # load json
-    with open(input_path, "r", encoding="utf8") as fh:
+    start_time = time.time()
+
+    with open(input_path, 'r', encoding='utf8') as fh:
         data = json.load(fh)
 
     start_time = time.time()
