@@ -1,0 +1,2440 @@
+=== Solo ===
+{| class="wikitable sitecolor-s3 mw-collapsible mw-collapsed
+! Rank !! Power !! Splashtag !! <br>Weapon
+|-
+| 1 || 2779.1 || {{Splashtag|title=Virtual Tofu|name=★ヨッシー☆|banner=800|tagnumber=3082|badge1=Rapid Blaster 4|badge2=Rapid Blaster Deco 5|badge3=Rapid Blaster Pro 4}}
+| [[File:S3 Weapon Main Rapid Blaster Pro 2D Current.png|24px|link=Rapid Blaster Pro]] [[Rapid Blaster Pro]]
+|-
+| 2 || 2770.1 || {{Splashtag|title=Soft-and-Fluffy Salmon Life|name=Mouya|banner=2010|tagnumber=2945|badge1=Clam Blitz 1000|badge2=X Battle Top 500|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 3 || 2748.6 || {{Splashtag|title=Summer-Fun Recollection|name=みなとくじょし|banner=11003|tagnumber=8156|badge2=X Battle Top 500|badge3=REEF-LUX 450 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+| 4 || 2739.9 || {{Splashtag|title=Dark Paradigm|name=jk_なのにゃ！*|banner=11061|tagnumber=2460|badge2=.96 Gal Deco 5|badge3=Ballpoint Splatling 4}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+| 5 || 2737.8 || {{Splashtag|title=Drenched Bug|name=Σ(・ω・/)/|banner=11023|tagnumber=1703|badge1=Goo Tuber 4|badge2=Big Shot 100|badge3=Tenta Missiles 180}}
+| [[File:S3 Weapon Main E-liter 4K Scope 2D Current.png|24px|link=E-liter 4K Scope]] [[E-liter 4K Scope]]
+|-
+| 6 || 2736.6 || {{Splashtag|title=Simmering Warrior|name=^。^|banner=11007|tagnumber=4357|badge1=Carbon Roller Deco 5|badge2=Carbon Roller 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+| 7 || 2734.8 || {{Splashtag|title=Honorary Bear|name=びさいうんどう|banner=11067|tagnumber=3136|badge1=Turf War 250|badge2=Splat Roller 4}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+| 8 || 2727.5 || {{Splashtag|title=Splatlandian Youth|name=ÿămīàķâ..*|banner=1|tagnumber=2497}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+| 9 || 2726.8 || {{Splashtag|title=Ace Gadabout|name=pen|banner=11026|tagnumber=1175|badge1=Cuttlefish|badge2=E-liter 4K 5|badge3=Max Hazard Level}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+| 10 || 2723.8 || {{Splashtag|title=Pointy Archdemon|name=D|banner=11030|tagnumber=1663|badge1=Turf War 50|badge2=X Battle Top 3000|badge3=Challenge Top 50 Percent}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+| 11 || 2722.6 || {{Splashtag|title=Splatlandian Youth|name=こおりっぽ|banner=1|tagnumber=2462|badge2=X Battle Top 10}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+| 12 || 2717 || {{Splashtag|title=Splatoon Gadabout|name=k.........|banner=12002|tagnumber=6602|badge1=Squeezer 5|badge2=X Battle Top 500|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+| 13 || 2695.6 || {{Splashtag|title=One-in-a-Million Legendary Warrior|name=スプラローラ|banner=11065|tagnumber=1955|badge1=X Battle Top 500|badge2=Sockeye Station 999|badge3=Flyfish 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 14 || 2692.3 || {{Splashtag|title=Ace Protected Species|name=くわ|banner=11067|tagnumber=3321|badge1=Carbon Roller Deco 5|badge2=Tower Control 1000|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+| 15 || 2689.7 || {{Splashtag|title=Self-Identified Contender|name=てん31に～とてん★|banner=1|tagnumber=1732|badge2=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+| 16 || 2676.9 || {{Splashtag|title=Flying Splat Dualies User|name=かむり|banner=11002|tagnumber=3325|badge1=Inkjet 30|badge2=Crab Tank 1200|badge3=Splat Dualies 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 17 || 2676.6 || {{Splashtag|title=Just Another Turtle|name=Robben|banner=1|tagnumber=1385|badge1=Takoroka 30|badge2=Takoroka 100}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+| 18 || 2675.8 || {{Splashtag|title=Splatoon Otaku|name=1:2:√3|banner=11066|tagnumber=2487|badge2=Trizooka 1200}}
+| [[File:S3 Weapon Main Tenta Sorella Brella 2D Current.png|24px|link=Tenta Sorella Brella]] [[Tenta Sorella Brella]]
+|-
+| 19 || 2674.8 || {{Splashtag|title=The Original Slosher User|name=ちくちゃん|banner=11025|tagnumber=1890|badge1=Slosher 5|badge2=Tri-Slosher Nouveau 4|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+| 20 || 2671.8 || {{Splashtag|title=Homecoming World Champ|name=イカ333|banner=912|tagnumber=6389|badge1=Splattershot 5|badge2=Rank S+|badge3=Trizooka 180}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+| 21 || 2668.1 || {{Splashtag|title=One-in-a-Million Lucky Duck|name=あおい|banner=10004|tagnumber=32830|badge1=Challenge Top 5 Percent|badge2=X Battle Top 3000|badge3=Level 100}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+| 22 || 2665.5 || {{Splashtag|title=Whimsical Protected Species|name=シマシマ|banner=11056|tagnumber=3091|badge1=Tenta Brella 5|badge3=Tenta Sorella Brella 5}}
+| [[File:S3 Weapon Main Tenta Sorella Brella 2D Current.png|24px|link=Tenta Sorella Brella]] [[Tenta Sorella Brella]]
+|-
+| 23 || 2665.4 || {{Splashtag|title=The Eternal Gadabout|name=brilliant|banner=11080|tagnumber=3373|badge2=Maws 100}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+| 24 || 2663.4 || {{Splashtag|title=Impish Deity of Destruction|name=ネクサス_ゆな♪|banner=11001|tagnumber=3235|badge2=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+| 25 || 2660.7 || {{Splashtag|title=Brute Splat Roller User|name=masa|banner=10004|tagnumber=3952|badge1=Big Bubbler 1200|badge2=Splat Roller 5|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+| 26 || 2659.3 || {{Splashtag|title=Low-Rolling Such and Such|name=たるたるる'-’|banner=800|tagnumber=1472|badge1=Squeezer 5|badge2=Trizooka 1200|badge3=Cooler Heads 100K}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+| 27 || 2657.3 || {{Splashtag|title=Brute Muscle|name=なかぢー|banner=11027|tagnumber=1101|badge1=Classic Squiffer 5|badge2=Big Bubbler 180|badge3=Shell-Out Machine 3M}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 28 || 2657 || {{Splashtag|title=Comfy-Cozy Youth|name=syzygy|banner=1|tagnumber=1504|badge1=Man-o'-Wardrobe 1M|badge2=Slosher Deco 4}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+| 29 || 2655.8 || {{Splashtag|title=Tear-Stained Teardrop|name=あ|banner=11021|tagnumber=10469|badge2=Annaki 30}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+| 30 || 2655.8 || {{Splashtag|title=Splatoon Mood|name=Sgg*ねこち|banner=11082|tagnumber=2529|badge1=Classic Squiffer 5|badge2=Cohozuna 100|badge3=Big Bubbler 1200}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+| 31 || 2654.8 || {{Splashtag|title=Livestreaming Robot|name=player|banner=912|tagnumber=3163|badge1=Dualie Squelchers 4|badge2=Rank S+|badge3=Tricolor Defender 10}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+| 32 || 2652.6 || {{Splashtag|title=Deep-Sea Weapon|name=める|banner=11054|tagnumber=6766|badge1=Ink Storm 1200|badge2=Rainmaker 1000|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+| 33 || 2650.2 || {{Splashtag|title=Spring-Lovin' Youth|name=.52ガロンデコ|banner=11075|tagnumber=9432|badge1=.52 Gal 4}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+| 34 || 2647.8 || {{Splashtag|title=Tenacious Big Bubbler User|name=Asterisk|banner=11049|tagnumber=5802|badge1=Splat Roller 5|badge2=Big Bubbler 1200|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 35 || 2647.8 || {{Splashtag|title=Gaming Dragon|name=ぴょん|banner=2101|tagnumber=3062}}
+| [[File:S3 Weapon Main Splat Charger 2D Current.png|24px|link=Splat Charger]] [[Splat Charger]]
+|-
+| 36 || 2647.7 || {{Splashtag|title=Fan-Favorite Content Creator|name=serious？|banner=14002|tagnumber=2845|badge1=Rank S|badge2=Carbon Roller Deco 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+| 37 || 2645.3 || {{Splashtag|title=Dazzling Sidestepper|name=ぱまおくん|banner=11030|tagnumber=6011|badge2=N-ZAP '85 5|badge3=Takoroka 100}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+| 38 || 2643.9 || {{Splashtag|title=Defensive Dog|name=GKCP_ちあきだお|banner=912|tagnumber=6344|badge1=Rainmaker 1000|badge2=Aerospray MG 5|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 39 || 2643.7 || {{Splashtag|title=Deep-Sea Saltwater Fish|name=びっくまんぼう|banner=11075|tagnumber=9065|badge1=Kraken Royale 30|badge2=Crab Tank 30|badge3=Reefslider 30}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+| 40 || 2643.4 || {{Splashtag|title=Jet-Black Pigtail Pro|name=めんま|banner=11010|tagnumber=1377}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 41 || 2643.1 || {{Splashtag|title=Lightning-Fast Tetra Dualies User|name=やさしさのきおく|banner=11035|tagnumber=2986|badge3=Big Bubbler 1200}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+| 42 || 2642 || {{Splashtag|title=One-in-a-Million Carbon Roller User|name=S|banner=11027|tagnumber=2696|badge1=Carbon Roller Deco 5|badge2=Trizooka 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+| 43 || 2641.4 || {{Splashtag|title=Pointy Power Egg|name=ななしあ|banner=1002|tagnumber=5472|badge1=X Battle Top 500|badge2=Slosher 5|badge3=Locker 1M}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+| 44 || 2640.7 || {{Splashtag|title=Nameless Trizooka User|name=スーパータンタンボム|banner=11030|tagnumber=1138|badge1=Toni Kensa 100|badge2=X Battle Top 500|badge3=Food 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 45 || 2638 || {{Splashtag|title=Young Palette|name=やんから|banner=1|tagnumber=3034|badge1=Big Bubbler 1200|badge2=Splattershot Jr. 5|badge3=Tentatek 100}}
+| [[File:S3 Weapon Main Splattershot Jr. 2D Current.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]]
+|-
+| 46 || 2636.7 || {{Splashtag|title=Ultra Trizooka User|name=ゆったん|banner=10001|tagnumber=3142|badge1=Splattershot 5|badge2=Challenge Top 5 Percent|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+| 47 || 2636.1 || {{Splashtag|title=Stealthy Rapid Blaster Pro User|name=じんせいがんばります|banner=11078|tagnumber=2482|badge1=Rapid Blaster Pro Deco 4|badge2=X Battle Top 500|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Rapid Blaster Pro Deco 2D Current.png|24px|link=Rapid Blaster Pro Deco]] [[Rapid Blaster Pro Deco]]
+|-
+| 48 || 2633.4 || {{Splashtag|title=Splatlandian Youth|name=むめい|banner=1|tagnumber=3026|badge1=Krak-On Splat Roller 4|badge2=Splat Roller 4|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 49 || 2632.1 || {{Splashtag|title=Junior-Grade Sloshing Machine User|name=ミラコスタ|banner=11061|tagnumber=4707|badge1=Sloshing Machine 4|badge2=Sloshing Machine 5|badge3=Splattershot Jr. 4}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+| 50 || 2630.5 || {{Splashtag|title=Meditative Fried Chicken|name=ニハハ¿はる!!!!|banner=11045|tagnumber=1019|badge1=X Battle Top 3000|badge2=Forge Splattershot Pro 4|badge3=Rank A}}
+| [[File:S3 Weapon Main Custom Jet Squelcher 2D Current.png|24px|link=Custom Jet Squelcher]] [[Custom Jet Squelcher]]
+|-
+| 51 || 2626.4 || {{Splashtag|title=Livestreaming E-liter 4K User|name=**+7**|banner=1|tagnumber=2617|badge1=E-liter 4K 5|badge2=X Battle Top 500|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+| 52 || 2626 || {{Splashtag|title=Casual Heat Hater|name=BPPP|banner=11033|tagnumber=2149|badge2=H-3 Nozzlenose 4}}
+| [[File:S3 Weapon Main Clash Blaster 2D Current.png|24px|link=Clash Blaster]] [[Clash Blaster]]
+|-
+| 53 || 2625.1 || {{Splashtag|title=Wandering Splattershot User|name=りーふ|banner=10003|tagnumber=1029|badge1=Splattershot 5|badge2=Stinger 100|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Annaki Splattershot Nova 2D Current.png|24px|link=Annaki Splattershot Nova]] [[Annaki Splattershot Nova]]
+|-
+| 54 || 2623.5 || {{Splashtag|title=Barnacle & Dime Killer Wail 5.1 User|name=とっこう|banner=10004|tagnumber=2034}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 55 || 2621.2 || {{Splashtag|title=Awe-Inspiring Sploosh-o-matic User|name=ルアテト|banner=10001|tagnumber=6078|badge1=X Battle Top 10|badge2=Ultra Stamp 1200|badge3=Sploosh-o-matic 5}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+| 56 || 2617.4 || {{Splashtag|title=Booming Moon|name=RNA_ふらめーあ|banner=800|tagnumber=2830|badge1=Big Run Top 5 Percent|badge2=X Battle Top 500|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 57 || 2617.3 || {{Splashtag|title=Mysterious Jokester|name=Dantalion|banner=11063|tagnumber=3198|badge2=Man-o'-Wardrobe 1M}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 58 || 2613.8 || {{Splashtag|title=Dead-Tired Cat|name=ちゅうぶらりん|banner=11006|tagnumber=2434|badge1=Tri-Slosher Nouveau 4|badge2=X Battle Top 500|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 59 || 2613.6 || {{Splashtag|title=Elegant Elegance|name=おおむぎ|banner=11028|tagnumber=2148|badge1=X Battle Top 3000|badge2=Sploosh-o-matic 5|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+| 60 || 2612.5 || {{Splashtag|title=Country-Born Gadabout|name=ぽ|banner=11007|tagnumber=1670|badge3=Splash Mob 30}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+| 61 || 2611.8 || {{Splashtag|title=Part-Time Senior|name=すぱいちぃ|banner=10004|tagnumber=9311|badge1=Rockenberg 30|badge2=Ballpoint Splatling 5|badge3=Inkjet 1200}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+| 62 || 2611 || {{Splashtag|title=Organized Worker|name=ゆうとう|banner=10003|tagnumber=2280|badge1=X Battle Top 3000|badge2=Splat Charger 5|badge3=Bamboozler 14 Mk I 5}}
+| [[File:S3 Weapon Main Bamboozler 14 Mk I 2D Current.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]]
+|-
+| 63 || 2609.4 || {{Splashtag|title=Windy Traveler|name=シュトラーセ|banner=11035|tagnumber=1391|badge2=Splattershot 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 64 || 2608 || {{Splashtag|title=Bright-Blue Torpedo User|name=Nyan Cat|banner=13002|tagnumber=2334|badge1=Rapid Blaster 5|badge2=Rapid Blaster Deco 5|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+| 65 || 2608 || {{Splashtag|title=Confident Form|name=ほんきゆうちゃん|banner=14001|tagnumber=2724|badge2=Turf War 1200}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+| 66 || 2607.5 || {{Splashtag|title=Summer-Lovin' Recollection|name=cosmos*|banner=912|tagnumber=1037|badge1=Splat Dualies 5|badge2=Crab Tank 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+| 67 || 2606.7 || {{Splashtag|title=Catch-of-the-Day Rice Bowl|name=しらたまこおおおお？|banner=11070|tagnumber=2408}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+| 68 || 2605.1 || {{Splashtag|title=Perfect Pop Star|name=べリベリ|banner=11025|tagnumber=3282|badge1=Eggstra Work Top 5 Percent|badge2=X Battle Top 3000|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Heavy Splatling Deco 2D Current.png|24px|link=Heavy Splatling Deco]] [[Heavy Splatling Deco]]
+|-
+| 69 || 2605 || {{Splashtag|title=The True Ultimate Expert|name=あ|banner=901|tagnumber=23302|badge1=Splat Brella 4|badge2=Splash-o-matic 4|badge3=Squeezer 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 70 || 2604.8 || {{Splashtag|title=AKA Target|name=ピノのつまようじ！|banner=2001|tagnumber=7107|badge1=Shell-Out Machine 3M|badge2=Eggstra Work Top 5 Percent|badge3=Z+F 100}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+| 71 || 2603.1 || {{Splashtag|title=Downtown Wall|name=ぜつぼうのバルバトス|banner=11065|tagnumber=3169|badge1=Forge 30|badge2=Tri-Stringer 5|badge3=Rank S+}}
+| [[File:S3 Weapon Main Snipewriter 5H 2D Current.png|24px|link=Snipewriter 5H]] [[Snipewriter 5H]]
+|-
+| 72 || 2603 || {{Splashtag|title=Soft-and-Fluffy Mammal|name=セントくん|banner=11046|tagnumber=4052}}
+| [[File:S3 Weapon Main Painbrush 2D Current.png|24px|link=Painbrush]] [[Painbrush]]
+|-
+| 73 || 2601.3 || {{Splashtag|title=Zipped-Lips Son|name=あいーき　　:(|banner=1001|tagnumber=2967|badge1=Tower Control 1000|badge2=Blaster 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 74 || 2600.2 || {{Splashtag|title=Anachronistic Jet Squelcher User|name=せい|banner=14001|tagnumber=2102|badge1=Ink Vac 180|badge2=Tentatek 30|badge3=Ink Vac 30}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+| 75 || 2599.8 || {{Splashtag|title=Nameless Jet Squelcher User|name=ニートジェッカス|banner=11004|tagnumber=9867|badge3=Custom Jet Squelcher 4}}
+| [[File:S3 Weapon Main Painbrush 2D Current.png|24px|link=Painbrush]] [[Painbrush]]
+|-
+| 76 || 2598.4 || {{Splashtag|title=Barnacle & Dime Yoko & the Gold Bazookas Fan|name=ぱんぴのざうるす|banner=11003|tagnumber=1188|badge1=Ultra Stamp 1200|badge2=E-liter 4K 4|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+| 77 || 2598.1 || {{Splashtag|title=Sketching Hero|name=とふまる|banner=2101|tagnumber=7185|badge1=Tricolor Attacker 10|badge2=Big Run Top 5 Percent|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 78 || 2593 || {{Splashtag|title=Important Festivalgoer|name=たなかゴンザレス№¹|banner=14001|tagnumber=7015|badge1=Eggstra Work Top 5 Percent|badge2=Challenge Top 5 Percent|badge3=Locker 100K}}
+| [[File:S3 Weapon Main Dapple Dualies 2D Current.png|24px|link=Dapple Dualies]] [[Dapple Dualies]]
+|-
+| 79 || 2592.9 || {{Splashtag|title=Traditional Flotsam|name=トロールしますWWW|banner=14001|tagnumber=2293|badge2=Tower Control 1000}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+| 80 || 2591.6 || {{Splashtag|title=Jet-Black Grand Master|name=ロングにクイボつけて|banner=11066|tagnumber=1862|badge1=Wave Breaker 180|badge2=Splattershot 4|badge3=Range Blaster 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 81 || 2588.6 || {{Splashtag|title=Numb Jellyfish|name=シーネットル|banner=11014|tagnumber=1163|badge1=Level 200|badge2=SquidForce 100|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main Dapple Dualies 2D Current.png|24px|link=Dapple Dualies]] [[Dapple Dualies]]
+|-
+| 82 || 2588.2 || {{Splashtag|title=One-in-a-Million Prodigy|name=はるきまち|banner=13002|tagnumber=1383|badge1=N-ZAP '85 5|badge2=Splash-o-matic 5|badge3=Shell-Out Machine 3M}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 83 || 2587.4 || {{Splashtag|title=Inkblot Art Academy Member|name=ヒメまり|banner=11055|tagnumber=3117|badge1=REEF-LUX 450 5|badge2=Jelly Fresh 100K|badge3=Tenta Missiles 1200}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+| 84 || 2587 || {{Splashtag|title=Honorary Knight|name=<nowiki>しょこらんεïз~*</nowiki>|banner=11014|tagnumber=1004|badge1=Squeezer 5|badge2=X Battle Top 500|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+| 85 || 2586 || {{Splashtag|title=Slippery Angel|name=ガバガバダディ|banner=800|tagnumber=9148}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 86 || 2584.6 || {{Splashtag|title=Half Striker|name=デンデンムシ17|banner=912|tagnumber=2179|badge1=Crab Tank 1200|badge2=Annaki Splattershot Nova 4|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+| 87 || 2584.5 || {{Splashtag|title=Cosmic Dinosaur|name=KOU|banner=2104|tagnumber=2452}}
+| [[File:S3 Weapon Main Dapple Dualies 2D Current.png|24px|link=Dapple Dualies]] [[Dapple Dualies]]
+|-
+| 88 || 2584.4 || {{Splashtag|title=Livestreaming Content Creator|name=REX_inima|banner=13002|tagnumber=2470|badge1=Tower Control 100|badge2=Zipcaster 30|badge3=Slosher Deco 4}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+| 89 || 2582.6 || {{Splashtag|title=First-Wave Splatana Stamper User|name=K/o|banner=11031|tagnumber=2304|badge1=Splatana Stamper 5|badge2=S-BLAST '92 4|badge3=Zipcaster 1200}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+| 90 || 2582.3 || {{Splashtag|title=Legendary Clerk|name=Toro|banner=11024|tagnumber=4757|badge1=Challenge Top 5 Percent|badge2=Tricolor Defender 10|badge3=Murch 100}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 91 || 2582.3 || {{Splashtag|title=Aged Snacks|name=ハヤチェ|banner=11061|tagnumber=3041|badge1=N-ZAP '85 5|badge2=X Battle Top 3000|badge3=Tacticooler 1200}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+| 92 || 2581.2 || {{Splashtag|title=Dark Slosher User|name=baketu　Apo|banner=10004|tagnumber=1356|badge1=Sloshing Machine 5|badge2=Squeezer 4|badge3=Slosher 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 93 || 2579.1 || {{Splashtag|title=Legit Card Collector|name=61ue|banner=10003|tagnumber=2791|badge1=X Battle Top 3000|badge2=Glooga Dualies 5|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+| 94 || 2578.4 || {{Splashtag|title=Aloof Entity|name=_4xqfx|banner=11003|tagnumber=3205|badge1=Splat Zones 1000|badge2=Sloshing Machine 5|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+| 95 || 2577 || {{Splashtag|title=Next Year's Youth|name=なすび|banner=13001|tagnumber=5352|badge1=Big Run Top 5 Percent|badge2=Splatana Wiper 5|badge3=Ultra Stamp 180}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+| 96 || 2576.8 || {{Splashtag|title=Instantaneous Carbon Roller User|name=セキセイインコ♭|banner=11009|tagnumber=2811|badge1=Carbon Roller Deco 5|badge2=Trizooka 1200|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+| 97 || 2576.5 || {{Splashtag|title=Lost-and-Found Triple Inkstrike User|name=attract|banner=2104|tagnumber=2531|badge1=Neo Splash-o-matic 5|badge2=Triple Inkstrike 180|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Tentatek Splattershot 2D Current.png|24px|link=Tentatek Splattershot]] [[Tentatek Splattershot]]
+|-
+| 98 || 2576.1 || {{Splashtag|title=Raw Trizooka User|name=チップ|banner=11055|tagnumber=1626|badge1=Trizooka 1200|badge2=Splattershot 5|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+| 99 || 2576 || {{Splashtag|title=Fan-Favorite Protected Species|name=¿みなせいのり¿|banner=11067|tagnumber=8503|badge1=Squeezer 4|badge2=Stinger 1000|badge3=Trizooka 30}}
+| [[File:S3 Weapon Main Custom Jet Squelcher 2D Current.png|24px|link=Custom Jet Squelcher]] [[Custom Jet Squelcher]]
+|-
+| 100 || 2575.4 || {{Splashtag|title=Sizzlin' Squid|name=すしくいたい|banner=11002|tagnumber=3104|badge2=Splat Zones 1000}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|}
+=== Pair ===
+{| class="wikitable sitecolor-s3 mw-collapsible mw-collapsed
+! Rank !! Power !! Splashtag !! <br>Weapon
+|-
+|rowspan="2" | 1
+|rowspan="2" | 2765.2
+|| {{Splashtag|title=Lovable Therapist|name=りこんふぁんとむ|banner=10004|tagnumber=3171}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Savvy Equation|name=デンデンムシ7676|banner=901|tagnumber=2312|badge1=Tri-Slosher Nouveau 5|badge2=Tri-Slosher 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|rowspan="2" | 2
+|rowspan="2" | 2761
+|| {{Splashtag|title=Wave-Riding Swimmer|name=φ|banner=14002|tagnumber=2703|badge2=Tricolor Defender 1}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Overall Imp|name=にどねぷれでたー|banner=11009|tagnumber=8256|badge2=Heavy Splatling 4|badge3=Carbon Roller 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="2" | 3
+|rowspan="2" | 2671.9
+|| {{Splashtag|title=Super-Duper Lucky Lucky Duck|name=ヒダマリノミ|banner=11004|tagnumber=1704}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Reincarnated Tower Control Enthusiast|name=³|banner=10001|tagnumber=1551|badge1=Splash-o-matic 5|badge2=Tower Control 1000|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="2" | 4
+|rowspan="2" | 2646.9
+|| {{Splashtag|title=Daydreamin' Lucky Duck|name=むち|banner=912|tagnumber=1932|badge2=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=A Real Ronin|name=たいがくせい|banner=800|tagnumber=3330|badge1=Splatana Stamper 5|badge2=Challenge Top 5 Percent|badge3=Dualie Squelchers 5}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|rowspan="2" | 5
+|rowspan="2" | 2641.4
+|| {{Splashtag|title=Limited-Edition Luna Blaster User|name=やこた|banner=11032|tagnumber=1973|badge1=Luna Blaster 4|badge2=Luna Blaster Neo 4|badge3=Takoroka 100}}
+| [[File:S3 Weapon Main Luna Blaster Neo 2D Current.png|24px|link=Luna Blaster Neo]] [[Luna Blaster Neo]]
+|-
+|| {{Splashtag|title=Midnight Novice|name=    ^_-☆|banner=2010|tagnumber=2379|badge1=Slammin' Lid 100|badge2=Maws 10000|badge3=Steelhead 10000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 6
+|rowspan="2" | 2632.1
+|| {{Splashtag|title=Indian Ocean Supervisor|name=BIG BOSS|banner=800|tagnumber=1549|badge1=Big Run Top 50 Percent|badge2=Challenge Top 50 Percent|badge3=Mr. Grizz}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Shining Mermaid|name=そうすけ|banner=11063|tagnumber=1409|badge2=Splattershot 5|badge3=Turf War 50}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 7
+|rowspan="2" | 2630
+|| {{Splashtag|title=Attacking Undercover Brella User|name=フグ,|banner=11026|tagnumber=1888|badge3=Undercover Brella 5}}
+| [[File:S3 Weapon Main Undercover Brella 2D Current.png|24px|link=Undercover Brella]] [[Undercover Brella]]
+|-
+|| {{Splashtag|title=Dangerous Spy|name=ぽんかん³|banner=11022|tagnumber=1556|badge1=Reefslider 1200|badge2=Undercover Brella 5|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Undercover Brella 2D Current.png|24px|link=Undercover Brella]] [[Undercover Brella]]
+|-
+|rowspan="2" | 8
+|rowspan="2" | 2612.8
+|| {{Splashtag|title=Third-Eye-Opened Driver|name=◇◆Ÿaę◆◇|banner=11006|tagnumber=2596|badge1=Splatana Wiper Deco 4|badge2=X Battle Top 500|badge3=Splatana Wiper 4}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+|| {{Splashtag|title=Overpowering Challenger|name=ごごごごごぼーん|banner=912|tagnumber=1121|badge3=Z+F 30}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="2" | 9
+|rowspan="2" | 2610.8
+|| {{Splashtag|title=Goth Rice Bowl|name=ゆぷ|banner=11068|tagnumber=3359|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Splatsville's Surfer|name=ぐみねこ|banner=1|tagnumber=9871}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|rowspan="2" | 10
+|rowspan="2" | 2609
+|| {{Splashtag|title=Summer-Lovin' Dragon|name=おとこ・ともたろう|banner=10002|tagnumber=1364|badge1=Splattershot 5|badge2=X Battle Top 3000|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Crimson Object of Affection|name=39♪　ツイキャス|banner=1|tagnumber=3296|badge1=Big Run Top 5 Percent|badge2=Food 10}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="2" | 11
+|rowspan="2" | 2596.5
+|| {{Splashtag|title=Gullible Butterfingers|name=やまだふく♪|banner=11038|tagnumber=2867|badge1=Sploosh-o-matic 5|badge2=Ultra Stamp 1200|badge3=Neo Sploosh-o-matic 5}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Watery Magician|name=これがうんめいです♪|banner=10004|tagnumber=2465|badge1=Ballpoint Splatling 5|badge2=Inkjet 1200|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|rowspan="2" | 12
+|rowspan="2" | 2591.4
+|| {{Splashtag|title=Splatlandian Youth|name=あ|banner=1|tagnumber=2552}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+|| {{Splashtag|title=Bearded Cat|name==^. _ .^=|banner=1|tagnumber=2725|badge3=Turf War 50}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 13
+|rowspan="2" | 2589.7
+|| {{Splashtag|title=Freewheelin' Maestro|name=XSU_ぬかい???|banner=13001|tagnumber=2051|badge2=Rank A}}
+| [[File:S3 Weapon Main Tentatek Splattershot 2D Current.png|24px|link=Tentatek Splattershot]] [[Tentatek Splattershot]]
+|-
+|| {{Splashtag|title=Not-Streaming Head Honcho|name=reubnjc|banner=10001|tagnumber=2578|badge1=Marooner's Bay 999|badge2=X Battle Top 3000|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 14
+|rowspan="2" | 2587.6
+|| {{Splashtag|title=The GOAT Stand-Up Comic|name=pQo！？|banner=10004|tagnumber=3291|badge1=Trizooka 1200|badge2=Splattershot 5|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Just Another Sneaker Model|name=ae|banner=11072|tagnumber=9538|badge1=Splattershot 5|badge2=Rank S+|badge3=Trizooka 180}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|rowspan="2" | 15
+|rowspan="2" | 2587.1
+|| {{Splashtag|title=Beloved Recollection|name=がんばるオニオン！|banner=14001|tagnumber=1413|badge1=Splattershot 5|badge2=X Battle Top 3000|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Overpowering Hero|name=がんばるうずらーず!|banner=10004|tagnumber=3759|badge2=Inkjet 1200}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|rowspan="2" | 16
+|rowspan="2" | 2578.7
+|| {{Splashtag|title=Won't-Lose Splattershot User|name=め！|banner=14001|tagnumber=2819|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=The Very First Big Man Fan|name=ももタルト|banner=2101|tagnumber=1214|badge1=Sockeye Station 999|badge2=Marooner's Bay 999|badge3=Gone Fission Hydroplant 999}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 17
+|rowspan="2" | 2577.5
+|| {{Splashtag|title=5-Year-Planning Lucky Duck|name=Gotcha！|banner=2104|tagnumber=2640|badge1=Challenge Top 50 Percent|badge2=Zipcaster 30|badge3=Rank A}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=The Very First Caller|name=Koyami|banner=10003|tagnumber=4905|badge1=Squeezer 5|badge2=N-ZAP '85 5|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="2" | 18
+|rowspan="2" | 2573.6
+|| {{Splashtag|title=Birthday-Celebratin' Brainiac|name=のうないフローラ|banner=10004|tagnumber=1274|badge1=Custom Splattershot Jr. 5|badge2=Wave Breaker 1200|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=Salmon Run Clock Puncher|name=cherry|banner=2009|tagnumber=2734|badge1=Spawning Grounds 999|badge2=Marooner's Bay 999|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|rowspan="2" | 19
+|rowspan="2" | 2571
+|| {{Splashtag|title=Organized System|name=ごじょう　まさっとる|banner=11066|tagnumber=7165|badge1=X Battle Top 500|badge2=Jammin' Salmon Junction 999|badge3=Locker 100K}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=Ever-Present Bookworm|name=¶^^Ω|banner=14002|tagnumber=1072|badge1=Heavy Splatling 5|badge2=Hydra Splatling 4|badge3=Nautilus 47 4}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 20
+|rowspan="2" | 2569.4
+|| {{Splashtag|title=Cheerful Ultra Stamp User|name=εねむз|banner=11053|tagnumber=1252|badge1=Sploosh-o-matic 5|badge2=Rainmaker 1000|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Aquarium-Bound Ultra Stamp User|name=εねみз|banner=11053|tagnumber=5301|badge1=Sploosh-o-matic 5|badge2=Rainmaker 1000|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|rowspan="2" | 21
+|rowspan="2" | 2557.2
+|| {{Splashtag|title=Not-Streaming Salmon|name=§ピクシス§|banner=14002|tagnumber=3982|badge1=Splat Roller 5|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=The Eternal Snowstorm|name=+{+'++5|banner=11068|tagnumber=4496|badge1=Wave Breaker 30}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|rowspan="2" | 22
+|rowspan="2" | 2548.3
+|| {{Splashtag|title=Running Illusion|name=ダイナモンド★おまる|banner=11050|tagnumber=1628|badge1=Undercover Brella 5|badge2=Turf War 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|| {{Splashtag|title=The Best Booyah|name=めいるが|banner=11068|tagnumber=3349|badge2=X Battle Top 500|badge3=Dynamo Roller 5}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|rowspan="2" | 23
+|rowspan="2" | 2545.2
+|| {{Splashtag|title=Easy-Peasy Crab|name=ブロッコリーTV|banner=10001|tagnumber=1478|badge1=Tableturf Rank 50|badge2=Murch 100|badge3=Tableturf Cards 150}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Simmering Mirage|name=ブチキかいじゅう|banner=11079|tagnumber=5951|badge1=Splattershot 5|badge2=Challenge Top 5 Percent|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 24
+|rowspan="2" | 2544.9
+|| {{Splashtag|title=Howling Layabout|name=カーボンBot！|banner=11067|tagnumber=5701|badge1=Zipcaster 1200|badge2=X Battle Top 500|badge3=Carbon Roller 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Sketching Carpaccio|name=<nowiki>ο '~')もぐさん</nowiki>|banner=11051|tagnumber=1531|badge1=Wave Breaker 1200|badge2=E-liter 4K 5|badge3=Turf War 50}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+|rowspan="2" | 25
+|rowspan="2" | 2541.5
+|| {{Splashtag|title=100% Oden Bowl|name=あかBANマンTik|banner=10002|tagnumber=1737|badge1=Dark Tetra Dualies 5|badge2=Light Tetra Dualies 5}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+|| {{Splashtag|title=Fully Automatic Robot|name=Raid_けいお～|banner=1|tagnumber=7167|badge1=X Battle Top 500|badge2=Big Run Top 50 Percent|badge3=Eggstra Work Top 50 Percent}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="2" | 26
+|rowspan="2" | 2540.3
+|| {{Splashtag|title=Fluffy Imp|name=あおむしてゃ|banner=12002|tagnumber=3229|badge1=Cooler Heads 1M|badge2=Turf War 1200|badge3=Locker 1M}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Collab-Loving Protected Species|name=くれぱん|banner=11056|tagnumber=4948|badge1=Tri-Slosher 5|badge2=Sloshing Machine 5|badge3=Tri-Slosher Nouveau 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="2" | 27
+|rowspan="2" | 2538.5
+|| {{Splashtag|title=Next-Generation Princess|name=もぐもぐひめちゃん|banner=11026|tagnumber=3058|badge1=E-liter 4K 5|badge2=Wave Breaker 1200|badge3=E-liter 4K Scope 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Groundbreaking Hydra Splatling User|name=しぃたん♪|banner=11077|tagnumber=2566|badge1=Hydra Splatling 4|badge2=Hydra Splatling 5|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|rowspan="2" | 28
+|rowspan="2" | 2534
+|| {{Splashtag|title=Ready-to-Go Hydra Splatling User|name=ファミチキおにいさん|banner=11082|tagnumber=9814|badge1=Hydra Splatling 5|badge2=Booyah Bomb 1200|badge3=Rockenberg 100}}
+| [[File:S3 Weapon Main Hydra Splatling 2D Current.png|24px|link=Hydra Splatling]] [[Hydra Splatling]]
+|-
+|| {{Splashtag|title=Crusty Duke|name=たつごろり|banner=11082|tagnumber=3368|badge1=Nautilus 47 5|badge2=Ink Storm 1200|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|rowspan="2" | 29
+|rowspan="2" | 2532.2
+|| {{Splashtag|title=Frosty Sun|name=Sat0|banner=11025|tagnumber=1073|badge2=X Battle Top 500|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Climactic Layabout|name=エコー〆|banner=11027|tagnumber=2059|badge1=Steelhead 100|badge2=Big Shot 100|badge3=Cohozuna 10}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|rowspan="2" | 30
+|rowspan="2" | 2531.6
+|| {{Splashtag|title=Simmering Challenger|name=a_|banner=14002|tagnumber=3212|badge1=.96 Gal Deco 5|badge2=.52 Gal 5|badge3=Tableturf Cards 150}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Honorary Prince|name=VOLT|banner=11063|tagnumber=9343|badge1=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="2" | 31
+|rowspan="2" | 2531.6
+|| {{Splashtag|title=Sweet-Toothed Style|name=シャケさん　|banner=2010|tagnumber=1292|badge1=Eggstra Work Top 50 Percent|badge2=Eggstra Work Top 20 Percent|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main Splat Charger 2D Current.png|24px|link=Splat Charger]] [[Splat Charger]]
+|-
+|| {{Splashtag|title=Splatlandian Youth|name='-' n|banner=1|tagnumber=3188}}
+| [[File:S3 Weapon Main Tentatek Splattershot 2D Current.png|24px|link=Tentatek Splattershot]] [[Tentatek Splattershot]]
+|-
+|rowspan="2" | 32
+|rowspan="2" | 2529.1
+|| {{Splashtag|title=Splatlandian Youth|name=2|banner=1|tagnumber=1235}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Thunderous Archdemon|name=せい*イカヅチ.ar|banner=14002|tagnumber=3176|badge1=Splash-o-matic 5|badge2=Octobrush 5|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|rowspan="2" | 33
+|rowspan="2" | 2525.7
+|| {{Splashtag|title=Dazzling Big Brother|name=よこやまだいすけ|banner=800|tagnumber=2400|badge1=X Battle Top 500|badge2=Sloshing Machine 5|badge3=Sockeye Station 999}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Fame-Seeking Sis|name=ぱんぱんおねえさん|banner=11062|tagnumber=4509|badge1=Wave Breaker 180|badge2=Sockeye Station 999|badge3=Heavy Splatling 5}}
+| [[File:S3 Weapon Main Heavy Splatling Deco 2D Current.png|24px|link=Heavy Splatling Deco]] [[Heavy Splatling Deco]]
+|-
+|rowspan="2" | 34
+|rowspan="2" | 2521.9
+|| {{Splashtag|title=So-Called Otaku|name=アーニャおし|banner=10004|tagnumber=2688}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Graceful Berserker|name=Mach15/まちこ|banner=11025|tagnumber=4019|badge1=Reefslider 1200|badge2=Dark Tetra Dualies 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 35
+|rowspan="2" | 2513.1
+|| {{Splashtag|title=Tricolor Battle Grand Master|name=カレア♪|banner=11063|tagnumber=2959|badge1=Turf War 1200|badge2=Challenge Top 5 Percent|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|| {{Splashtag|title=Day-Seizing Gadabout|name=レブ♪|banner=11001|tagnumber=1257|badge1=REEF-LUX 450 4|badge2=Splattershot 4|badge3=Tentatek Splattershot 4}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="2" | 36
+|rowspan="2" | 2510.4
+|| {{Splashtag|title=Livestreaming Content Creator|name=こうスカル|banner=2102|tagnumber=2375|badge1=Tower Control 1000|badge2=X Battle Top 500|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+|| {{Splashtag|title=Fun Representative|name=tumugi|banner=13002|tagnumber=1111|badge1=Marie|badge2=Turf War 50|badge3=Locker 100K}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+|rowspan="2" | 37
+|rowspan="2" | 2508.2
+|| {{Splashtag|title=Promising Beginner|name=こみちゃん|banner=1|tagnumber=2936|badge1=Tableturf Cards 150|badge2=Tableturf Cards 90|badge3=Tableturf Cards 120}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=The Eternal Challenger|name=あすわど  |banner=11025|tagnumber=2235|badge1=.96 Gal Deco 5|badge2=Spawning Grounds 999|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Luna Blaster 2D Current.png|24px|link=Luna Blaster]] [[Luna Blaster]]
+|-
+|rowspan="2" | 38
+|rowspan="2" | 2506.4
+|| {{Splashtag|title=Tenacious Duke|name=すばるーん|banner=11082|tagnumber=1827|badge1=Rank S+|badge2=Shell-Out Machine 300K|badge3=Catalog 100}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Running Kid|name=FWK_ぶっちゃん|banner=11069|tagnumber=8655|badge1=Wave Breaker 180|badge2=Wave Breaker 30}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+|rowspan="2" | 39
+|rowspan="2" | 2503.8
+|| {{Splashtag|title=Fan-Favorite Guitarist|name=きたみくよ♪|banner=10003|tagnumber=3036|badge2=Range Blaster 5|badge3=Wave Breaker 1200}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Exhausted Grandma|name=もこもこどーーん|banner=14001|tagnumber=1654|badge1=Glooga Dualies 5|badge2=Food 100|badge3=Crush Station 1M}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 40
+|rowspan="2" | 2502.9
+|| {{Splashtag|title=Indian Ocean Sashimi|name=カモンD○○○だす|banner=1003|tagnumber=1564|badge1=Marooner's Bay 999|badge2=Glooga Dualies 5|badge3=Spawning Grounds 999}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=The Real Ultimate Spiked Hair|name=だしまき|banner=10002|tagnumber=2436|badge1=Stinger 100|badge2=Tacticooler 30|badge3=Stinger 1000}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 41
+|rowspan="2" | 2502.1
+|| {{Splashtag|title=Ultra Trizooka User|name=みなせ|banner=10004|tagnumber=2783|badge1=Trizooka 30|badge2=Trizooka 180}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Beloved Life|name=めゃ|banner=14001|tagnumber=2733|badge3=Man-o'-Wardrobe 100K}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 42
+|rowspan="2" | 2500
+|| {{Splashtag|title=Legit Blade of Grass|name=ばけもんきーch.|banner=1|tagnumber=1704|badge1=Splattershot 5|badge2=Rank A|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Honorary Workhorse|name=　あわい　ちとせ|banner=10003|tagnumber=2070}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|rowspan="2" | 43
+|rowspan="2" | 2500
+|| {{Splashtag|title=Phantasmagoric Ballpoint Splatling User|name=しゃちくスピナー|banner=10003|tagnumber=1355|badge1=Toni Kensa 100|badge2=REEF-LUX 450 4|badge3=Ballpoint Splatling 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Little Moon|name=あ|banner=11010|tagnumber=12352|badge1=Splat Zones 1000|badge2=Naut Couture 1M|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main Aerospray MG 2D Current.png|24px|link=Aerospray MG]] [[Aerospray MG]]
+|-
+|rowspan="2" | 44
+|rowspan="2" | 2500
+|| {{Splashtag|title=Turn-of-the-Century Inkbrush User|name=ace。ぱぶろっぴ|banner=11063|tagnumber=1946|badge1=Turf War 50|badge2=X Battle Top 500|badge3=Custom Splattershot Jr. 5}}
+| [[File:S3 Weapon Main Snipewriter 5H 2D Current.png|24px|link=Snipewriter 5H]] [[Snipewriter 5H]]
+|-
+|| {{Splashtag|title=Sharp-Eyed Part-Timer|name=トラクターあてぃしω|banner=10001|tagnumber=2738|badge1=Spawning Grounds 999|badge2=Sloshing Machine 5|badge3=Annaki 30}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|rowspan="2" | 45
+|rowspan="2" | 2500
+|| {{Splashtag|title=The Rice Bowl|name=フルパワーびすこ|banner=10004|tagnumber=1187|badge3=Murch 10}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Important Life|name=ゆう|banner=11026|tagnumber=9073}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 46
+|rowspan="2" | 2500
+|| {{Splashtag|title=Pitch-Black Worker|name=しゃぺろんちーの|banner=11023|tagnumber=3333|badge2=Bamboozler 14 Mk I 4}}
+| [[File:S3 Weapon Main Bamboozler 14 Mk I 2D Current.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]]
+|-
+|| {{Splashtag|title=Mind-Blowing Blade of Grass|name=RifxMikan*|banner=11006|tagnumber=9745|badge1=Splash-o-matic 5|badge2=Sloshing Machine 5|badge3=Ballpoint Splatling 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 47
+|rowspan="2" | 2499.9
+|| {{Splashtag|title=Beloved Sun|name=ギンガせきずいけん！|banner=14001|tagnumber=1533|badge1=Ink Storm 180|badge2=Dualie Squelchers 5|badge3=Sockeye Station 600}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Vacationing Archdemon|name=Mugi|banner=1|tagnumber=5422}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|rowspan="2" | 48
+|rowspan="2" | 2498.8
+|| {{Splashtag|title=Tidy Material|name=DeNAファンえむら|banner=11061|tagnumber=6303|badge1=Ultra Stamp 1200|badge2=X Battle Top 3000|badge3=Splatana Wiper 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Undertow Spillway Rainmaker Enthusiast|name=よひら|banner=11076|tagnumber=3199|badge1=Snipewriter 5H 5|badge2=Rainmaker 1000|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Zink Mini Splatling 2D Current.png|24px|link=Zink Mini Splatling]] [[Zink Mini Splatling]]
+|-
+|rowspan="2" | 49
+|rowspan="2" | 2497.7
+|| {{Splashtag|title=Glimmering Girl|name=はげたん$rury$|banner=10001|tagnumber=3322|badge1=Spawning Grounds 999|badge2=Challenge Top 5 Percent|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+|| {{Splashtag|title=At-Work Illusion|name=テレサ|banner=11031|tagnumber=7527|badge1=Challenge Top 5 Percent|badge2=Rockenberg 100|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="2" | 50
+|rowspan="2" | 2497.3
+|| {{Splashtag|title=Unyielding Spiked Hair|name=なゆたすい|banner=14001|tagnumber=1568|badge1=Locker 100K|badge2=Tenta Brella 5|badge3=Tenta Sorella Brella 4}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|| {{Splashtag|title=Ancient Spiked Hair|name=なうなう|banner=12002|tagnumber=5215|badge1=Big Bubbler 180|badge2=X Battle Top 3000|badge3=Splat Roller 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="2" | 51
+|rowspan="2" | 2496.1
+|| {{Splashtag|title=Meaty Blade of Grass|name=ソーダ|banner=11052|tagnumber=2273|badge1=Challenge Top 5 Percent|badge2=X Battle Top 500|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Decade-Experienced Athlete|name=gudetaso|banner=1|tagnumber=8659}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 52
+|rowspan="2" | 2494.9
+|| {{Splashtag|title=Winter-Ready Dog|name=★|banner=11004|tagnumber=1447}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=One-in-a-Million Aunt|name=ねぇ、ねおちしよ、？|banner=11072|tagnumber=1922|badge1=Dualie Squelchers 5|badge2=Wave Breaker 1200|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Dualie Squelchers 2D Current.png|24px|link=Dualie Squelchers]] [[Dualie Squelchers]]
+|-
+|rowspan="2" | 53
+|rowspan="2" | 2493.3
+|| {{Splashtag|title=Microscopic Carpaccio|name=れい|banner=14001|tagnumber=1645|badge1=Trizooka 180|badge2=Splattershot 5|badge3=Trizooka 30}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=The Lone World Champ|name=Syuna|banner=12001|tagnumber=1947|badge1=Slosher 5|badge2=X Battle Top 3000|badge3=Slosher Deco 4}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="2" | 54
+|rowspan="2" | 2490.7
+|| {{Splashtag|title=Running Splash-o-matic User|name=.7|banner=11065|tagnumber=2584|badge1=Splash-o-matic 5|badge2=Triple Inkstrike 180|badge3=Crab Tank 180}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Midsummer Flower|name=まなみ&しき|banner=11077|tagnumber=2101|badge1=Splash-o-matic 4|badge2=Man-o'-Wardrobe 100K|badge3=Squeezer 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 55
+|rowspan="2" | 2485
+|| {{Splashtag|title=Midsummer Ponytail|name=あいすみるくちゃん|banner=11004|tagnumber=2986|badge2=Shell-Out Machine Jackpot 4}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+|| {{Splashtag|title=Limited-Edition Lucky Duck|name=мэку|banner=2102|tagnumber=3008|badge1=Jammin' Salmon Junction 999|badge2=Big Run Top 5 Percent|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 56
+|rowspan="2" | 2483.7
+|| {{Splashtag|title=Super-Scary Caller|name=Geny noob|banner=11027|tagnumber=1903|badge1=Challenge Top 5 Percent|badge2=Dark Tetra Dualies 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Summer-Breaking Youth|name=りゅやたゃん|banner=800|tagnumber=2419|badge1=Splatana Stamper 5|badge2=X Battle Top 3000|badge3=Zipcaster 1200}}
+| [[File:S3 Weapon Main Rapid Blaster Pro 2D Current.png|24px|link=Rapid Blaster Pro]] [[Rapid Blaster Pro]]
+|-
+|rowspan="2" | 57
+|rowspan="2" | 2481.8
+|| {{Splashtag|title=Fun Salmon Life|name=HD*TR?¿|banner=2008|tagnumber=9834|badge1=Eggstra Work Top 5 Percent|badge2=Max Hazard Level|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Slosher Deco 2D Current.png|24px|link=Slosher Deco]] [[Slosher Deco]]
+|-
+|| {{Splashtag|title=Legendary Luna Blaster User|name=たかひろ|banner=11067|tagnumber=1511|badge1=Luna Blaster 5|badge2=Zipcaster 1200|badge3=Clam Blitz 1000}}
+| [[File:S3 Weapon Main Luna Blaster 2D Current.png|24px|link=Luna Blaster]] [[Luna Blaster]]
+|-
+|rowspan="2" | 58
+|rowspan="2" | 2481.4
+|| {{Splashtag|title=Multiplying Cat|name=ドラ2|banner=10001|tagnumber=1446|badge1=Turf War 50|badge2=Turf War 250|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Dapple Dualies 2D Current.png|24px|link=Dapple Dualies]] [[Dapple Dualies]]
+|-
+|| {{Splashtag|title=Forgetful Party Star|name=トコナ|banner=11066|tagnumber=2837|badge3=.52 Gal 4}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 59
+|rowspan="2" | 2480.8
+|| {{Splashtag|title=Splatlandian Youth|name=くろお　しんしん|banner=11001|tagnumber=1664|badge1=Range Blaster 4|badge2=Big Shot 100|badge3=Explosher 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Drained Slow Starter|name=にのかわ|banner=11031|tagnumber=4109|badge1=Splattershot 5|badge2=Hero Shot Replica 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main REEF-LUX 450 2D Current.png|24px|link=REEF-LUX 450]] [[REEF-LUX 450]]
+|-
+|rowspan="2" | 60
+|rowspan="2" | 2479
+|| {{Splashtag|title=Flying Tetra Dualies User|name=まつぽっくん〆|banner=11065|tagnumber=1999|badge1=Tableturf Cards 150|badge2=Dark Tetra Dualies 5|badge3=Reefslider 180}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Ultra Trizooka User|name=SC-いろはす|banner=11056|tagnumber=2343|badge1=Takoroka 30|badge2=Level 100|badge3=Man-o'-Wardrobe 1M}}
+| [[File:S3 Weapon Main Annaki Splattershot Nova 2D Current.png|24px|link=Annaki Splattershot Nova]] [[Annaki Splattershot Nova]]
+|-
+|rowspan="2" | 61
+|rowspan="2" | 2478.8
+|| {{Splashtag|title=Fluffy Afro|name=c|banner=11014|tagnumber=1544|badge1=E-liter 4K Scope 5|badge2=Jammin' Salmon Junction 999|badge3=Spawning Grounds 999}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+|| {{Splashtag|title=Aloof Ballpoint Splatling User|name=Gungnir|banner=11055|tagnumber=8620|badge1=Trizooka 180|badge2=Ballpoint Splatling 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|rowspan="2" | 62
+|rowspan="2" | 2478.6
+|| {{Splashtag|title=Fated Equation|name=テラバースト　すか|banner=11040|tagnumber=8294}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Phantasmagoric Beautician|name=テラバースト　しべた|banner=10002|tagnumber=1582|badge1=Splat Zones 1000|badge2=E-liter 4K 5|badge3=Wave Breaker 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 63
+|rowspan="2" | 2478.2
+|| {{Splashtag|title=Splatlandian Youth|name=もこまる(*''*)|banner=1|tagnumber=2530|badge2=Ballpoint Splatling 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Livestreaming Splash-o-matic User|name=みずかみつらら/つべ|banner=800|tagnumber=3095|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Annaki Splattershot Nova 2D Current.png|24px|link=Annaki Splattershot Nova]] [[Annaki Splattershot Nova]]
+|-
+|rowspan="2" | 64
+|rowspan="2" | 2476.6
+|| {{Splashtag|title=Sizzlin' Blaster User|name=ひだ|banner=1|tagnumber=7418|badge2=Tenta Sorella Brella 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Sizzlin' Blaster User|name=BB-8♪|banner=1|tagnumber=1486|badge2=Undercover Brella 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 65
+|rowspan="2" | 2475.9
+|| {{Splashtag|title=Buoyant Object of Affection|name=かれーらいとぅ。|banner=11035|tagnumber=1562|badge1=Stinger 10000|badge2=Turf War 1200|badge3=N-ZAP '85 5}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=Buoyant Dog|name=らふぁあく。|banner=11034|tagnumber=2655|badge1=Splat Brella 4|badge2=Sloshing Machine 5|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="2" | 66
+|rowspan="2" | 2473.2
+|| {{Splashtag|title=Unnoticed Life|name=おおぐしくん|banner=11028|tagnumber=3065|badge3=Jelly Fresh 1M}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Cheerful Snowstorm|name=チンピラチワワ|banner=11009|tagnumber=2541|badge1=Squeezer 5|badge2=Heavy Splatling 5|badge3=Dark Tetra Dualies 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="2" | 67
+|rowspan="2" | 2472.1
+|| {{Splashtag|title=Spring-Lovin' Recollection|name=おいしいたくあん|banner=2009|tagnumber=1218|badge1=X Battle Top 3000|badge2=Ultra Stamp 1200|badge3=Inkbrush Nouveau 5}}
+| [[File:S3 Weapon Main .96 Gal 2D Current.png|24px|link=.96 Gal]] [[.96 Gal]]
+|-
+|| {{Splashtag|title=Enlightened Carbon Roller User|name=ぜんだんたまづまり|banner=11004|tagnumber=5541|badge1=Carbon Roller Deco 5|badge2=Trizooka 1200|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="2" | 68
+|rowspan="2" | 2471.5
+|| {{Splashtag|title=Ace Imp|name=nana(ゝ∀・)b|banner=10001|tagnumber=1969|badge1=Booyah Bomb 1200|badge2=Jammin' Salmon Junction 999|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|| {{Splashtag|title=Fightin' Teardrop|name=z|banner=11054|tagnumber=3398|badge2=Marie}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|rowspan="2" | 69
+|rowspan="2" | 2471.2
+|| {{Splashtag|title=Unyielding Spiked Hair|name=しょこら|banner=10001|tagnumber=1418|badge1=Slosher 5|badge2=Splatana Stamper 5|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main Slosher Deco 2D Current.png|24px|link=Slosher Deco]] [[Slosher Deco]]
+|-
+|| {{Splashtag|title=Comfy-Cozy Layabout|name=るけ|banner=11041|tagnumber=2945|badge1=Mr. Grizz|badge2=Gone Fission Hydroplant 999|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot Pro 2D Current.png|24px|link=Splattershot Pro]] [[Splattershot Pro]]
+|-
+|rowspan="2" | 70
+|rowspan="2" | 2470.6
+|| {{Splashtag|title=Go-Gettin' Manager|name=しんゆうき|banner=11068|tagnumber=2229|badge1=Big Bubbler 1200|badge2=Challenge Top 5 Percent|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|| {{Splashtag|title=Won't-Lose Gadabout|name=たかは©|banner=11034|tagnumber=8223|badge1=Tri-Stringer 5|badge2=Spawning Grounds 999|badge3=Max Hazard Level}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|rowspan="2" | 71
+|rowspan="2" | 2470.6
+|| {{Splashtag|title=Self-Identified Such and Such|name=ƒoil«*|banner=11004|tagnumber=7751|badge2=Squeezer 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Flying Plankton|name=どぶいっくりん|banner=911|tagnumber=2430|badge2=Classic Squiffer 5|badge3=Big Bubbler 1200}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+|rowspan="2" | 72
+|rowspan="2" | 2467.9
+|| {{Splashtag|title=Miraculous Magician|name=だてんのおうきりもち|banner=10003|tagnumber=8998|badge2=Big Shot 100|badge3=Wave Breaker 1200}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Pitch-Black Entity|name=ルーミア|banner=2001|tagnumber=2055|badge1=Jammin' Salmon Junction 999|badge2=Eggstra Work Top 5 Percent|badge3=Sockeye Station 999}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|rowspan="2" | 73
+|rowspan="2" | 2466.4
+|| {{Splashtag|title=Big Splat Brella User|name=kikuya|banner=11072|tagnumber=2274|badge1=Ink Vac 1200|badge2=Tenta Sorella Brella 5|badge3=Tenta Brella 5}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|| {{Splashtag|title=Limited-Edition Atlantean|name=mea|banner=12002|tagnumber=1699|badge1=Splash-o-matic 5|badge2=Splattershot 5|badge3=Man-o'-Wardrobe 1M}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 74
+|rowspan="2" | 2466.3
+|| {{Splashtag|title=Gone-Fishin' Predator|name= »»よせくれん««|banner=11023|tagnumber=2557|badge1=Marooner's Bay 999|badge2=Horrorboros 100|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Clockwork Sharp Dresser|name=とまらないきかんしゃ|banner=11005|tagnumber=1642|badge3=Splattershot 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 75
+|rowspan="2" | 2465.8
+|| {{Splashtag|title=One-in-a-Million Splat Roller User|name=　　　リザードン|banner=912|tagnumber=1010|badge1=Big Swig Roller 5|badge2=X Battle Top 500|badge3=Splat Roller 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Otherworldly Free Spirit|name=いベるたる|banner=10004|tagnumber=1394|badge1=Challenge Top 5 Percent|badge2=Ballpoint Splatling 4|badge3=Tricolor Defender 10}}
+| [[File:S3 Weapon Main Rapid Blaster Pro Deco 2D Current.png|24px|link=Rapid Blaster Pro Deco]] [[Rapid Blaster Pro Deco]]
+|-
+|rowspan="2" | 76
+|rowspan="2" | 2464.5
+|| {{Splashtag|title=Collab-Loving Splatterscope User|name=あわみど|banner=13002|tagnumber=1789|badge1=E-liter 4K 5|badge2=Splatterscope 5|badge3=Z+F Splatterscope 5}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+|| {{Splashtag|title=Drenched Son|name=“∞EMA∞”|banner=11003|tagnumber=2325|badge1=Splattershot 5|badge2=Big Run Top 5 Percent|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 77
+|rowspan="2" | 2463.9
+|| {{Splashtag|title=Top-Ranked Archdemon|name=ÜTN_ψ736ψ|banner=11003|tagnumber=5693|badge3=Zipcaster 1200}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Time-Traveling Rookie of the Year|name=ÜTN_ψあくあψ|banner=11011|tagnumber=2131|badge2=Splatana Stamper 4}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="2" | 78
+|rowspan="2" | 2460.9
+|| {{Splashtag|title=Inkslinging Enthusiast|name=Kusaha_L|banner=11012|tagnumber=2761|badge1=Bamboozler 14 Mk I 5}}
+| [[File:S3 Weapon Main Bamboozler 14 Mk I 2D Current.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]]
+|-
+|| {{Splashtag|title=Super-Rare Dynamo Roller User|name=Capri|banner=11054|tagnumber=1152|badge1=Explosher 5|badge2=Spawning Grounds 999|badge3=Heavy Splatling 5}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|rowspan="2" | 79
+|rowspan="2" | 2460.9
+|| {{Splashtag|title=Groundbreaking Angle Shooter User|name=ゆきやぁー|banner=10002|tagnumber=2105|badge1=Tower Control 1000|badge2=X Battle Top 500|badge3=Range Blaster 5}}
+| [[File:S3 Weapon Main Undercover Brella 2D Current.png|24px|link=Undercover Brella]] [[Undercover Brella]]
+|-
+|| {{Splashtag|title=Splatlandian Youth|name=はんばーがーねこ|banner=1|tagnumber=7867|badge1=Turf War 50}}
+| [[File:S3 Weapon Main Z+F Splat Charger 2D Current.png|24px|link=Z+F Splat Charger]] [[Z+F Splat Charger]]
+|-
+|rowspan="2" | 80
+|rowspan="2" | 2460
+|| {{Splashtag|title=Leaping Son|name=m‛k　りょく'zK|banner=1001|tagnumber=3685|badge1=Marooner's Bay 999|badge2=Gone Fission Hydroplant 999|badge3=Spawning Grounds 999}}
+| [[File:S3 Weapon Main Rapid Blaster Pro 2D Current.png|24px|link=Rapid Blaster Pro]] [[Rapid Blaster Pro]]
+|-
+|| {{Splashtag|title=Ace Ultimate Weapon|name=めでタイ 'zK |banner=13002|tagnumber=2420|badge1=Challenge Top 5 Percent|badge2=Glooga Dualies 5|badge3=Booyah Bomb 180}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 81
+|rowspan="2" | 2460
+|| {{Splashtag|title=Dandy Crab Tank User|name=カニジャンケジャン|banner=11015|tagnumber=2233|badge1=Challenge Top 5 Percent|badge2=Wave Breaker 1200|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Lovable Dog|name=サメギョプサル|banner=11014|tagnumber=1444|badge1=Tableturf Rank 40|badge2=Reefslider 180|badge3=Aerospray MG 4}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|rowspan="2" | 82
+|rowspan="2" | 2459.4
+|| {{Splashtag|title=Deadeye Range Blaster User|name=ねこだんご|banner=12002|tagnumber=2263|badge1=Range Blaster 5|badge2=Tower Control 1000|badge3=Wave Breaker 180}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|| {{Splashtag|title=Mountain-Dwelling Island Dweller|name=〆スイカ〆|banner=11067|tagnumber=3302|badge1=Rank S+|badge2=Killer Wail 5.1 180|badge3=.52 Gal 4}}
+| [[File:S3 Weapon Main Splattershot Jr. 2D Current.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]]
+|-
+|rowspan="2" | 83
+|rowspan="2" | 2457.3
+|| {{Splashtag|title=Unrivaled Life Itself|name=もえもん|banner=11064|tagnumber=3037|badge1=Heavy Splatling 4|badge2=Wave Breaker 180|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Downtown Blade of Grass|name=ゅむぎ|banner=11027|tagnumber=6530|badge1=Big Run Top 5 Percent|badge2=Eggstra Work Top 5 Percent|badge3=Tenta Sorella Brella 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 84
+|rowspan="2" | 2455.4
+|| {{Splashtag|title=Hard-Workin' Rice Bowl|name=もりまる|banner=10003|tagnumber=2702|badge1=Shell-Out Machine 300K|badge2=Crush Station 1M|badge3=Shrimp Kicks 1M}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Half Comrade|name=ゆばまる|banner=11011|tagnumber=2553}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 85
+|rowspan="2" | 2453.9
+|| {{Splashtag|title=Super-Rare Clubgoer|name=Xx_Ryu_xX|banner=14001|tagnumber=1816|badge1=X Battle Top 3000|badge2=Horrorboros 10|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Stealthy Vocalist|name=Xx_RoN_xX|banner=14002|tagnumber=1420|badge1=Splattershot 5|badge2=Triple Inkstrike 1200|badge3=Tentatek Splattershot 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 86
+|rowspan="2" | 2452.2
+|| {{Splashtag|title=Esoteric Splash Wall User|name=komongä|banner=11033|tagnumber=1385|badge1=Slammin' Lid 100|badge2=Stinger 1000|badge3=Fish Stick 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=One-in-a-Million Chosen One|name=Male|banner=12002|tagnumber=1673|badge1=Challenge Top 5 Percent|badge2=N-ZAP '85 5|badge3=Tricolor Defender 10}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="2" | 87
+|rowspan="2" | 2452.1
+|| {{Splashtag|title=Explosive All-Arounder|name=たに！|banner=11061|tagnumber=5594|badge1=X Battle Top 500|badge2=Slosher 5}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Unstoppable Reefslider User|name=びしょニキ|banner=10003|tagnumber=3340|badge2=Undercover Brella 5|badge3=Reefslider 1200}}
+| [[File:S3 Weapon Main Undercover Brella 2D Current.png|24px|link=Undercover Brella]] [[Undercover Brella]]
+|-
+|rowspan="2" | 88
+|rowspan="2" | 2451.6
+|| {{Splashtag|title=Gentle Splatana Stamper User|name=/ある|banner=11073|tagnumber=1226|badge1=Splatana Stamper 5|badge2=Zipcaster 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=The Real Ultimate Inkjet User|name=すがちんゝ!!|banner=11032|tagnumber=2717|badge1=Triple Inkstrike 180|badge2=Booyah Bomb 180|badge3=Crab Tank 180}}
+| [[File:S3 Weapon Main Octobrush 2D Current.png|24px|link=Octobrush]] [[Octobrush]]
+|-
+|rowspan="2" | 89
+|rowspan="2" | 2450.8
+|| {{Splashtag|title=Summer-Lovin' Recollection|name=cosmos*|banner=912|tagnumber=1037|badge1=Splat Dualies 5|badge2=Crab Tank 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=Summer-Lovin' Apprentice|name=OTUYU*|banner=912|tagnumber=2678|badge1=Splat Dualies 5|badge2=Crab Tank 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|rowspan="2" | 90
+|rowspan="2" | 2449.6
+|| {{Splashtag|title=24-Hour Sidestepper|name=dull|banner=11005|tagnumber=7492|badge2=Flipper-Flopper 1000|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Sleepy Tri-Slosher User|name=パタスモンキー|banner=10003|tagnumber=2415|badge1=Big Run Top 5 Percent|badge2=Tricolor Defender 10|badge3=Tricolor Attacker 10}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+|rowspan="2" | 91
+|rowspan="2" | 2449.1
+|| {{Splashtag|title=Destined Gadabout|name=じゅけんなめてるひと|banner=2008|tagnumber=9606|badge1=S-BLAST '92 4|badge2=Range Blaster 4|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main S-BLAST '92 2D Current.png|24px|link=S-BLAST '92]] [[S-BLAST '92]]
+|-
+|| {{Splashtag|title=Overheated Challenger|name=つきさむ|banner=11003|tagnumber=2619|badge1=Callie|badge2=Locker 100K|badge3=Marie}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="2" | 92
+|rowspan="2" | 2448.5
+|| {{Splashtag|title=Flying Sensei|name=KじゃんけんつよしS|banner=10003|tagnumber=2525|badge2=Inkjet 1200}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|| {{Splashtag|title=Flying Apprentice|name=` うととろきら。´|banner=1|tagnumber=1215|badge2=Inkjet 180}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|rowspan="2" | 93
+|rowspan="2" | 2448
+|| {{Splashtag|title=Splatoon Pop Star|name=からす|banner=10003|tagnumber=8447|badge1=Luna Blaster Neo 5|badge2=Eggstra Work Top 5 Percent|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Luna Blaster Neo 2D Current.png|24px|link=Luna Blaster Neo]] [[Luna Blaster Neo]]
+|-
+|| {{Splashtag|title=Next Year's Creator|name=それたんじぇるまん|banner=10004|tagnumber=1140|badge1=Luna Blaster 5|badge2=Blaster 5|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="2" | 94
+|rowspan="2" | 2447.4
+|| {{Splashtag|title=Mostly Manta Ray|name=・Haniwa・|banner=2005|tagnumber=3547|badge1=E-liter 4K 5|badge2=X Battle Top 3000|badge3=Max Hazard Level}}
+| [[File:S3 Weapon Main Dualie Squelchers 2D Current.png|24px|link=Dualie Squelchers]] [[Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Lovable Recollection|name=Τz,τακαяα|banner=11004|tagnumber=1664|badge1=Tentatek Splattershot 5|badge2=Splattershot 5|badge3=Range Blaster 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="2" | 95
+|rowspan="2" | 2447
+|| {{Splashtag|title=Miraculous Ponytail|name=みとん|banner=11061|tagnumber=1232|badge3=Forge 30}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Gone Fission Hydroplant Tenta Brella User|name=ghost|banner=14002|tagnumber=3320|badge1=Rockenberg 100|badge2=Hydra Splatling 4|badge3=Tricolor Defender 10}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|rowspan="2" | 96
+|rowspan="2" | 2445.7
+|| {{Splashtag|title=Absentminded Life of the Party|name=みりんぺろぺろTV|banner=10004|tagnumber=1940|badge1=Fish Stick 100|badge2=Zipcaster 1200|badge3=Shell-Out Machine Jackpot 4}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Legit Blade of Grass|name=くろえなでなでTV|banner=10004|tagnumber=5323|badge1=Turf War 1200|badge2=Challenge Top 5 Percent|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+|rowspan="2" | 97
+|rowspan="2" | 2444.3
+|| {{Splashtag|title=Groundbreaking Glasses Model|name=iP(あいぷ)|banner=11033|tagnumber=5741|badge1=Killer Wail 5.1 1200|badge2=Sloshing Machine 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|| {{Splashtag|title=Groundbreaking Glasses Model|name=るぅとぬ|banner=11033|tagnumber=1032|badge1=Killer Wail 5.1 1200|badge2=.52 Gal 5|badge3=Rockenberg 100}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+|rowspan="2" | 98
+|rowspan="2" | 2440.6
+|| {{Splashtag|title=Awe-Inspiring Splattershot Pro User|name=〃ナイトサーモン〃|banner=11058|tagnumber=2382|badge1=Crab Tank 1200|badge2=X Battle Top 3000|badge3=Splattershot Pro 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Aloof Mercenary|name=りおん|banner=11034|tagnumber=31377|badge1=Challenge Top 5 Percent|badge2=Max Hazard Level|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Luna Blaster Neo 2D Current.png|24px|link=Luna Blaster Neo]] [[Luna Blaster Neo]]
+|-
+|rowspan="2" | 99
+|rowspan="2" | 2439.5
+|| {{Splashtag|title=Top-Ranked Tetra Dualies User|name=ポンデリングみれい|banner=11026|tagnumber=1105|badge1=Shell-Out Machine 300K|badge2=Dark Tetra Dualies 4|badge3=Locker 100K}}
+| [[File:S3 Weapon Main Light Tetra Dualies 2D Current.png|24px|link=Light Tetra Dualies]] [[Light Tetra Dualies]]
+|-
+|| {{Splashtag|title=Mostly Jet Squelcher User|name=たるとたたん♪|banner=2101|tagnumber=1950|badge1=Ink Vac 1200|badge2=Turf War 50|badge3=Custom Jet Squelcher 5}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|rowspan="2" | 100
+|rowspan="2" | 2439.4
+|| {{Splashtag|title=Defensive Trizooka User|name=ぴちゅん|banner=14002|tagnumber=6234|badge1=Turf War 50|badge2=Tenta Brella 5|badge3=Tenta Sorella Brella 5}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+|| {{Splashtag|title=Nameless Gadabout|name=<nowiki>+ふむち~*626+</nowiki>|banner=11030|tagnumber=1658|badge1=Nautilus 47 4|badge2=Challenge Top 5 Percent|badge3=Splat Dualies 5}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|}
+=== Team ===
+{| class="wikitable sitecolor-s3 mw-collapsible mw-collapsed
+! Rank !! Power !! Splashtag !! <br>Weapon
+|-
+|rowspan="4" | 1
+|rowspan="4" | 2759.1
+|| {{Splashtag|title=One-in-a-Million Fuzzball|name=スポンゲマン|banner=911|tagnumber=1812|badge1=Dualie Squelchers 5|badge2=Super Chump 1200|badge3=Custom Dualie Squelchers 5}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Summer-Lovin' Bug|name=　ちょこぺろマンTV|banner=11025|tagnumber=1910|badge1=N-ZAP '85 4|badge2=Tacticooler 180|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Wicked-Fresh Legend|name=  BW_hatti|banner=11025|tagnumber=6854|badge1=Emberz 30|badge2=X Battle Top 10|badge3=SquidForce 30}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Salmon Run Singer|name=デンデンムシ21|banner=2010|tagnumber=3027|badge1=Jammin' Salmon Junction 999|badge2=Marooner's Bay 999|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 2
+|rowspan="4" | 2732.6
+|| {{Splashtag|title=Terrestrial Warrior|name=Dead end|banner=11077|tagnumber=1359|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Summer-Fun Splattershot User|name=さいとう あすか|banner=10001|tagnumber=3001|badge3=Splattershot 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Sneaky Trizooka User|name=やきにくらんち|banner=11063|tagnumber=2616|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Ultra Splattershot User|name=striker|banner=13002|tagnumber=2589|badge1=Squeezer 5|badge2=Splattershot 5|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 3
+|rowspan="4" | 2726.3
+|| {{Splashtag|title=First-Wave Splat Dualies User|name=Kotaji|banner=13002|tagnumber=3399|badge2=Splat Dualies 5|badge3=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=The Final Hydra Splatling User|name=MAGIACE|banner=10002|tagnumber=1354|badge3=Toni Kensa 30}}
+| [[File:S3 Weapon Main Hydra Splatling 2D Current.png|24px|link=Hydra Splatling]] [[Hydra Splatling]]
+|-
+|| {{Splashtag|title=Unnoticed Range Blaster User|name=PG_ぱいなぽ～|banner=11045|tagnumber=2717|badge1=Wave Breaker 1200|badge2=Big Run Top 5 Percent|badge3=Range Blaster 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Soft Therapist|name=がらんどう|banner=912|tagnumber=3124|badge1=Slosher 5|badge2=X Battle Top 10|badge3=Tri-Slosher Nouveau 5}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|rowspan="4" | 4
+|rowspan="4" | 2719.1
+|| {{Splashtag|title=Fearful Cat|name=<nowiki>(/ο' ~'ο)/</nowiki>|banner=1|tagnumber=1942|badge1=Ruler of Splatfest|badge2=Max Hazard Level|badge3=Challenge Top 50 Percent}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|| {{Splashtag|title=Stark-White Dolphin|name=とくめい|banner=1|tagnumber=2339|badge2=Splash-o-matic 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Silent Life Itself|name=すしぺろ|banner=11021|tagnumber=1180|badge2=Splattershot 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Swoon-Worthy Imp|name=タンクぞくすいだるま|banner=10001|tagnumber=2776|badge1=X Battle Top 3000|badge2=X Battle Top 500|badge3=Rank S+}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|rowspan="4" | 5
+|rowspan="4" | 2709.8
+|| {{Splashtag|title=Summer-Lovin' Legendary Warrior|name=とーぞく_ねわたく|banner=11033|tagnumber=3179|badge1=Cohozuna 10}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Lonely Life Itself|name=りぷふぁみ!はてふら|banner=11063|tagnumber=1200|badge1=Booyah Bomb 30|badge2=Ballpoint Splatling 5|badge3=Tacticooler 30}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Pretty Good Life Itself|name=ねこα|banner=11061|tagnumber=3249|badge2=Kraken Royale 1200}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=5-Year-Planning Expert|name=Asuul|banner=11018|tagnumber=2956}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="4" | 6
+|rowspan="4" | 2704
+|| {{Splashtag|title=Mostly Title Holder|name=デンデンムシ1|banner=11082|tagnumber=4489|badge1=X Battle Top 3000|badge2=X Battle Top 500|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Fated Snowperson|name=デンデンムシ3|banner=11025|tagnumber=3715}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Destined Rapper|name=IGZ_RiuKun|banner=11048|tagnumber=2561|badge1=Wave Breaker 30|badge2=Wave Breaker 180|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Inkslinging Headbanger|name=シューマ　υ´ω`υ|banner=14001|tagnumber=1414|badge1=X Battle Top 10|badge2=Splash-o-matic 5|badge3=Toni Kensa 30}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="4" | 7
+|rowspan="4" | 2695.6
+|| {{Splashtag|title=Raw Catfish|name=・-・)b|banner=11065|tagnumber=2036|badge1=Spawning Grounds 999|badge2=X Battle Top 10|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Won't-Lose Expert|name=まこうどん ようつべ|banner=11006|tagnumber=1562|badge1=Painbrush 4|badge2=Booyah Bomb 1200|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=First-Wave Free Spirit|name=ろぶすた～|banner=11061|tagnumber=2679|badge1=Booyah Bomb 180|badge2=X Battle Top 10}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Watery Flower|name=コンたんたんめん|banner=911|tagnumber=1579|badge1=X Battle Top 10|badge2=Splatana Stamper 5|badge3=Tentatek 30}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 8
+|rowspan="4" | 2682.7
+|| {{Splashtag|title=Glimmering Striker|name=たこぼん|banner=11052|tagnumber=8254}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Praiseworthy Dog|name=COxCO|banner=11076|tagnumber=3335|badge1=Big Run Top 5 Percent|badge2=Eggstra Work Top 5 Percent|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Dandy Dog|name=あいちゃんねる！！|banner=11074|tagnumber=5332|badge1=Challenge Top 50 Percent|badge2=Challenge Top 20 Percent|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|| {{Splashtag|title=Mischievous Boy|name=ねこさん|banner=11026|tagnumber=6522|badge2=Squeezer 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 9
+|rowspan="4" | 2680.8
+|| {{Splashtag|title=Freewheelin' Berserker|name=missing|banner=10004|tagnumber=1478|badge1=Carbon Roller Deco 5|badge2=Trizooka 1200|badge3=Splatana Stamper 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Roaming Youth|name=mf|banner=1|tagnumber=1563}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=24-Hour System|name=pt0sp|banner=11021|tagnumber=2910|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Calamari Form|name=VL_カラダにピース|banner=11001|tagnumber=2478|badge1=Splash-o-matic 5|badge2=.52 Gal 5|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 10
+|rowspan="4" | 2678.7
+|| {{Splashtag|title=Self-Identified Big Man Fan|name=playaward|banner=800|tagnumber=1679|badge1=Jet Squelcher 5|badge2=Rapid Blaster Pro Deco 5|badge3=Custom Jet Squelcher 5}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Fluffy Imp|name=あすちゃんあいしてる|banner=10004|tagnumber=2341|badge1=X Battle Top 10|badge2=Squeezer 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Collab-Loving Squid Ring|name=BE_ポンだるま|banner=11082|tagnumber=2170|badge1=REEF-LUX 450 4|badge2=Takoroka 100|badge3=Squeezer 4}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Partying Shark|name=ZAPMAN|banner=13002|tagnumber=2656|badge1=Krak-On 30|badge2=SquidForce 30|badge3=Rockenberg 30}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="4" | 11
+|rowspan="4" | 2678.3
+|| {{Splashtag|title=Apprentice Tableturf Battler|name=ちゅうどく|banner=11005|tagnumber=1131}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Headstrong Sashimi|name=デンデンムシ6|banner=11082|tagnumber=3268|badge1=L-3 Nozzlenose 4|badge2=Booyah Bomb 1200|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Overall Bird|name=vvs2|banner=11014|tagnumber=5598|badge1=X Battle Top 10|badge2=Crab Tank 180|badge3=Triple Inkstrike 180}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Ready-to-Go Recollection|name=kairi♪|banner=14001|tagnumber=2752|badge1=Eggstra Work Top 5 Percent|badge2=Locker 1M|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 12
+|rowspan="4" | 2672.6
+|| {{Splashtag|title=Midsummer Equation|name=れもんてぃー|banner=11077|tagnumber=2995|badge1=Squeezer 4|badge2=Neo Splash-o-matic 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Dapple Dualies 2D Current.png|24px|link=Dapple Dualies]] [[Dapple Dualies]]
+|-
+|| {{Splashtag|title=Cash-Stacking Turf Warrior|name=デンデンムシ39|banner=912|tagnumber=1600|badge1=Turf War 1200|badge2=Crab Tank 1200|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Local System|name=あんこ|banner=800|tagnumber=1367|badge1=Turf War 1200|badge2=Splat Zones 1000|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|| {{Splashtag|title=Supersonic Dolphin|name=εïз|banner=13002|tagnumber=5194|badge1=Ultra Stamp 1200|badge2=Sploosh-o-matic 5|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|rowspan="4" | 13
+|rowspan="4" | 2665
+|| {{Splashtag|title=Smooth Kingpin|name=ドリデンムシ715|banner=11003|tagnumber=4826|badge2=X Battle Top 10}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Royal Big Swig Roller User|name=キョーコーボイル|banner=2103|tagnumber=1055|badge1=Big Run Top 5 Percent|badge2=Maws 100|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Glimmering Squeezer User|name=nxlqc_|banner=13002|tagnumber=1551|badge1=Drizzler 10000|badge2=Triple Inkstrike 1200|badge3=Splat Brella 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Microscopic Bloblobber User|name=もかふゆき|banner=2003|tagnumber=2271|badge1=Eggstra Work Top 5 Percent|badge2=Bloblobber 5|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 14
+|rowspan="4" | 2657.2
+|| {{Splashtag|title=Fan-Favorite Streamer|name=れいまるがんばれや！|banner=11082|tagnumber=1519|badge1=Challenge Top 5 Percent|badge2=Splash-o-matic 5|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Serious Kraken Royale User|name=ぐーぐー★かめちゃん|banner=11043|tagnumber=2154|badge1=Crab Tank 30|badge2=Cuttlefish|badge3=Crab Tank 180}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Gaming Gamer|name=ぐーぐー★わさびーふ|banner=11002|tagnumber=1883|badge3=Splat Dualies 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Turbo Cat|name=ぐーぐー★くもりな|banner=14001|tagnumber=1462|badge2=N-ZAP '85 5|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 15
+|rowspan="3" | 2656.1
+|| {{Splashtag|title=Soft-and-Fluffy Butterfingers|name=ぶらべるり～♪|banner=11006|tagnumber=4691}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Splatlandian Youth|name=player|banner=1|tagnumber=1034|badge2=Big Bubbler 180|badge3=Blaster 5}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|| {{Splashtag|title=Neighborly Deity of Destruction|name=ごめんなさい。|banner=2008|tagnumber=5077|badge1=Splash-o-matic 5|badge2=Sloshing Machine 5|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+|rowspan="4" | 16
+|rowspan="4" | 2653.9
+|| {{Splashtag|title=Lively Youngster|name=そーだ♪|banner=11069|tagnumber=2203|badge1=Sloshing Machine 5|badge2=Level 100|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Fortunate Bass Dropper|name=うめねり|banner=10002|tagnumber=7985|badge1=Shell-Out Machine Jackpot 4|badge2=Turf War 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=The Eternal Snowstorm|name=しんどい*|banner=14001|tagnumber=1564}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Camera-Facing Splat Zones Legend|name=カール|banner=1|tagnumber=3647|badge1=Turf War 50|badge2=Triple Inkstrike 30|badge3=Splat Zones 100}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 17
+|rowspan="4" | 2646.2
+|| {{Splashtag|title=Lifelong Marie Fan|name=くるとん|banner=800|tagnumber=2457|badge1=Bloblobber 4|badge2=Level 200|badge3=Snipewriter 5H 4}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Legit Blade of Grass|name=Left Light|banner=10003|tagnumber=1353|badge1=Man-o'-Wardrobe 1M|badge2=Naut Couture 1M|badge3=Crush Station 1M}}
+| [[File:S3 Weapon Main Neo Splash-o-matic 2D Current.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]]
+|-
+|| {{Splashtag|title=Microscopic Splash-o-matic User|name=やまざき　さくら|banner=11025|tagnumber=1999|badge2=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Novice Turf Warrior|name=てんぴーかもおぉー！|banner=11066|tagnumber=1988|badge1=Squeezer 5|badge2=Trizooka 180|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 18
+|rowspan="4" | 2643.5
+|| {{Splashtag|title=Lovable Recollection|name=nx_n|banner=11010|tagnumber=2981|badge1=X Battle Top 500|badge2=Splat Zones 1000|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Self-Proclaimed Tofu|name=フサギンポ|banner=11004|tagnumber=1110|badge1=Splat Dualies 5|badge2=Splat Zones 1000|badge3=Toni Kensa 30}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=Just Another Lucky Duck|name=しょうた6さい！！！|banner=11039|tagnumber=2758|badge2=Tri-Stringer 5}}
+| [[File:S3 Weapon Main Rapid Blaster Pro 2D Current.png|24px|link=Rapid Blaster Pro]] [[Rapid Blaster Pro]]
+|-
+|| {{Splashtag|title=Legendary Big Sister|name=†りょうたさいつよ†|banner=10002|tagnumber=3046|badge1=Man-o'-Wardrobe 1M|badge2=Big Shot 100|badge3=Toni Kensa 30}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|rowspan="4" | 19
+|rowspan="4" | 2641.4
+|| {{Splashtag|title=Thunderous Dapple Dualies User|name=ぷらずま|banner=11031|tagnumber=2484|badge1=Takoroka 100|badge2=Takoroka 30|badge3=Dapple Dualies Nouveau 5}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|| {{Splashtag|title=Stark-White Striker|name=たちばなピンキー|banner=11063|tagnumber=3175|badge1=Locker 100K|badge2=Maws 100|badge3=Mr. Grizz}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|| {{Splashtag|title=Livestreaming Dapple Dualies User|name=のっく|banner=11051|tagnumber=8444|badge1=Firefin 100|badge2=X Battle Top 10|badge3=Dapple Dualies Nouveau 5}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|| {{Splashtag|title=Lonely Samurai|name=ブラウド|banner=11068|tagnumber=2771|badge1=Dapple Dualies 5|badge2=X Battle Top 500|badge3=Splatana Wiper Deco 5}}
+| [[File:S3 Weapon Main Dapple Dualies 2D Current.png|24px|link=Dapple Dualies]] [[Dapple Dualies]]
+|-
+|rowspan="4" | 20
+|rowspan="4" | 2640.9
+|| {{Splashtag|title=Childish Youngster|name=タンクぞく_トップ☆|banner=10004|tagnumber=2599|badge1=Squeezer 4|badge2=Rank S+|badge3=Rainmaker 100}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Not-So-Fresh Jet Squelcher User|name=セロリserori|banner=11003|tagnumber=1701|badge1=Ink Vac 180|badge2=Custom Jet Squelcher 4|badge3=Ink Storm 180}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=Splatlandian Youth|name=ニートスパッタリー|banner=1|tagnumber=1259|badge2=X Battle Top 10}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|| {{Splashtag|title=Turn-of-the-Century Rainmaker Enthusiast|name=デンデンムシ5|banner=2103|tagnumber=2161|badge1=Squeezer 5|badge2=X Battle Top 10|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 21
+|rowspan="4" | 2637.1
+|| {{Splashtag|title=Fluid Sun|name=もろん|banner=11047|tagnumber=1692|badge1=Bloblobber 5|badge2=Rainmaker 1000|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+|| {{Splashtag|title=Competitive Striker|name=NEYMAR |banner=11082|tagnumber=1916|badge1=Reefslider 1200|badge2=Light Tetra Dualies 5|badge3=Dark Tetra Dualies 5}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+|| {{Splashtag|title=One-in-a-Million Lucky Duck|name=ドラゴン|banner=901|tagnumber=1772|badge1=X Battle Top 500|badge2=Eggstra Work Top 5 Percent|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Hibernating Aunt|name=た|banner=14001|tagnumber=1149|badge1=Mr. Grizz}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|rowspan="4" | 22
+|rowspan="4" | 2630.6
+|| {{Splashtag|title=Fluid Magician|name=PxM ȚoDö|banner=11062|tagnumber=2233|badge1=Food 10|badge2=Tableturf Cards 120|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Glooga Dualies 2D Current.png|24px|link=Glooga Dualies]] [[Glooga Dualies]]
+|-
+|| {{Splashtag|title=The Strongest Challenger|name=PxM Sugi|banner=11076|tagnumber=2381|badge1=X Battle Top 10|badge2=Ballpoint Splatling 5|badge3=Tableturf Rank 100}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Hip-Hop Youngster|name=PxM Chikač|banner=1|tagnumber=1810|badge1=Stinger 100|badge2=Man-o'-Wardrobe 100K|badge3=Maws 100}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|| {{Splashtag|title=Ace Traveler|name=PxM Mòmò|banner=11006|tagnumber=1768|badge2=Cooler Heads 1M|badge3=Toni Kensa 100}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="3" | 23
+|rowspan="3" | 2628.1
+|| {{Splashtag|title=Big Honkin' Assistant|name=PAD_AIMER|banner=11035|tagnumber=2523|badge3=Ballpoint Splatling 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Perfect Afro|name=るるキッズ♭b　つべ|banner=11020|tagnumber=2446|badge1=Wave Breaker 1200|badge2=Zipcaster 180|badge3=S-BLAST '92 4}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Stark-White Vocalist|name=IーNαマン！|banner=10004|tagnumber=3257|badge1=Splat Zones 1000|badge2=Zipcaster 1200|badge3=Clam Blitz 1000}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+|rowspan="4" | 24
+|rowspan="4" | 2606.5
+|| {{Splashtag|title=Lovable Life Itself|name=KW2 MY Alt|banner=10003|tagnumber=2063|badge1=Splattershot 5|badge2=Trizooka 1200|badge3=Tentatek Splattershot 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Drenched Novice|name=eto graph|banner=11033|tagnumber=3320|badge1=X Battle Top 500|badge2=Shell-Out Machine 30M|badge3=Tableturf Cards 150}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Barnacle & Dime Yoko & the Gold Bazookas Fan|name=ききまる★|banner=11008|tagnumber=2940|badge1=Reefslider 1200|badge2=Squeezer 5|badge3=Blaster 5}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|| {{Splashtag|title=The Real Ultimate Pack Leader|name=ZH_Nipahだわ|banner=14002|tagnumber=6353|badge1=Squeezer 5|badge2=Splat Zones 1000|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 25
+|rowspan="4" | 2606.5
+|| {{Splashtag|title=Lifelong Big Swig Roller User|name=ちょこみんちょーけん|banner=11050|tagnumber=1115|badge1=Slosher 4|badge2=Sloshing Machine 4|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Comfy-Cozy Mood|name=りぷふぁみ！りっぷ|banner=14001|tagnumber=1994|badge1=Booyah Bomb 30|badge2=REEF-LUX 450 4|badge3=Tacticooler 30}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+|| {{Splashtag|title=Summer-Fun Legendary Warrior|name=りぷふぁみ!あまぺろ|banner=11050|tagnumber=2535|badge1=Slosher 4|badge2=Sloshing Machine 4|badge3=Tri-Slosher Nouveau 4}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Peppy Catfish|name=とーぞく_ささき|banner=11033|tagnumber=1803|badge1=Ink Vac 30|badge2=Squeezer 5|badge3=Ink Storm 30}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 26
+|rowspan="4" | 2605.8
+|| {{Splashtag|title=Light Streamer|name=ましゅー　ようつべ|banner=11035|tagnumber=1317}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=Tear-Stained Life Itself|name=EZwokwokwk|banner=11063|tagnumber=2601|badge2=X Battle Top 10|badge3=Ink Storm 30}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|| {{Splashtag|title=Spring-Fresh Recollection|name=ストロベリーのりたん|banner=11063|tagnumber=5457|badge1=Eggstra Work Top 5 Percent|badge2=Zipcaster 1200|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Lightning-Fast Sushi|name=したづみじだい|banner=10003|tagnumber=2124|badge1=Rank S+|badge2=Catalog 100|badge3=Splattershot 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 27
+|rowspan="4" | 2594.3
+|| {{Splashtag|title=Promising Aunt|name=ジャイアン　やまだ|banner=11035|tagnumber=2249|badge2=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Splatsville's Father|name=いかのどれいch|banner=1|tagnumber=1145|badge1=Rank A|badge2=X Battle Top 3000|badge3=Big Swig Roller 4}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Dazzling Princess|name=えmα♭|banner=11063|tagnumber=7735|badge1=Carbon Roller Deco 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Otherworldly Hero|name=どろぬま|banner=11025|tagnumber=1601}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="3" | 28
+|rowspan="3" | 2592.7
+|| {{Splashtag|title=Optimistic Life Itself|name=もやはし|banner=11065|tagnumber=2481|badge1=Splash-o-matic 5|badge2=Crab Tank 180|badge3=Triple Inkstrike 180}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Overheated Blade of Grass|name=りょうすけGames|banner=1|tagnumber=7999|badge1=.52 Gal 5|badge2=.52 Gal 4}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|| {{Splashtag|title=Goth Turtle|name=やっぴ～～～!!¡¡|banner=1|tagnumber=9727}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|rowspan="3" | 29
+|rowspan="3" | 2591.7
+|| {{Splashtag|title=Simmering Challenger|name=a_|banner=14002|tagnumber=3212|badge1=.96 Gal Deco 5|badge2=.52 Gal 5|badge3=Tableturf Cards 150}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Mahi-Mahi Resort Heavy Splatling User|name=めりーでーす|banner=11027|tagnumber=1910|badge1=Tricolor Attacker 10|badge2=Splat Zones 1000|badge3=Tricolor Defender 10}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Honorary Prince|name=VOLT|banner=11063|tagnumber=9343|badge1=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="3" | 30
+|rowspan="3" | 2573.9
+|| {{Splashtag|title=Ace Chosen One|name=ぺんぎん_ほたか|banner=2009|tagnumber=3007|badge1=Splash-o-matic 5|badge2=Sloshing Machine 5|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Unperceived L-3 Nozzlenose User|name=Rusk|banner=11063|tagnumber=2712|badge1=Tower Control 100|badge2=X Battle Top 3000|badge3=H-3 Nozzlenose 4}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Law-Breaking Friend|name=ひからびたドラゴン|banner=11039|tagnumber=2831|badge1=Inkjet 180|badge2=Crab Tank 180|badge3=Tacticooler 180}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 31
+|rowspan="3" | 2571.4
+|| {{Splashtag|title=Gaming Pigtail Pro|name=Azz|banner=11025|tagnumber=6907|badge1=X Battle Top 500|badge2=Splattershot 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=The True Ultimate Squid|name=★ぶたこさんα♀☆♪|banner=10002|tagnumber=1941|badge1=Ultra Stamp 180|badge2=Ultra Stamp 1200|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+|| {{Splashtag|title=Country-Born Pack Leader|name=てゅぽーん|banner=800|tagnumber=1445|badge1=Carbon Roller 5|badge2=Trizooka 1200|badge3=Carbon Roller Deco 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="4" | 32
+|rowspan="4" | 2569.8
+|| {{Splashtag|title=Right-Handed Fighter|name=     Soppi|banner=10003|tagnumber=1246|badge2=X Battle Top 500}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Unprecedented Maestro|name=Player|banner=10003|tagnumber=30660|badge1=Rainmaker 1000|badge2=Tri-Slosher 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=X Battle System|name=モアイサウルス|banner=11014|tagnumber=3309|badge1=Killer Wail 5.1 1200|badge2=Bamboozler 14 Mk I 5|badge3=Annaki 30}}
+| [[File:S3 Weapon Main Bamboozler 14 Mk I 2D Current.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]]
+|-
+|| {{Splashtag|title=Stand-Up Grandpa|name=ぺろぺろくつした|banner=10002|tagnumber=1845|badge1=Splash-o-matic 5|badge2=.52 Gal 5|badge3=Killer Wail 5.1 1200}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+|rowspan="4" | 33
+|rowspan="4" | 2569.8
+|| {{Splashtag|title=Casual Streamer|name=[K]yo!|banner=11003|tagnumber=2047|badge1=Flipper-Flopper 100|badge2=Horrorboros 10|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|| {{Splashtag|title=Tasteless Sashimi|name=Totino's!|banner=11001|tagnumber=1685}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Thunderous King|name=cinamoroll|banner=11004|tagnumber=2637|badge2=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Better-Than-You Nautilus User|name=FTW! ♪|banner=11002|tagnumber=2758|badge2=Ballpoint Splatling 5|badge3=.96 Gal Deco 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|rowspan="4" | 34
+|rowspan="4" | 2567.3
+|| {{Splashtag|title=Explosive Sun|name=あやたかNOVA|banner=11034|tagnumber=1423|badge2=Luna Blaster 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|| {{Splashtag|title=Splatlandian Youth|name=νηι|banner=1|tagnumber=9569}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Headstrong Luna Blaster User|name=ノヴァisまいらいふ|banner=10003|tagnumber=2224|badge1=Sloshing Machine 5|badge2=X Battle Top 500|badge3=Luna Blaster 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Super-Rare Ultra Stamp User|name=IGE_びーある。|banner=10001|tagnumber=2424|badge1=Luna Blaster 5|badge2=Ultra Stamp 1200|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|rowspan="4" | 35
+|rowspan="4" | 2566.2
+|| {{Splashtag|title=Part-Time Tacticooler User|name=オンリー|banner=10004|tagnumber=2068|badge1=E-liter 4K 5|badge2=Squeezer 5|badge3=E-liter 4K Scope 5}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Instantaneous Blaster User|name=RVK_ともき|banner=2102|tagnumber=9851|badge1=Blaster 5|badge2=Big Bubbler 1200}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Beloved Enthusiast|name=やっしー♪|banner=11063|tagnumber=2239|badge1=Carbon Roller Deco 5|badge2=Carbon Roller 5|badge3=Zipcaster 1200}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Sweet-Toothed Cat|name=RVK_はるとぅ|banner=11011|tagnumber=3083|badge1=Carbon Roller Deco 4|badge2=Trizooka 1200|badge3=Splattershot 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 36
+|rowspan="4" | 2564.5
+|| {{Splashtag|title=Super-Duper Lucky Demon|name=ごましお|banner=11075|tagnumber=7647}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Esoteric Egg|name=むめいのかす|banner=1|tagnumber=1758|badge3=Rank A}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Miraculous Snowperson|name=ö|banner=1|tagnumber=2700}}
+| [[File:S3 Weapon Main Sloshing Machine 2D Current.png|24px|link=Sloshing Machine]] [[Sloshing Machine]]
+|-
+|| {{Splashtag|title=Unrivaled Pack Leader|name=がろん|banner=11040|tagnumber=1398|badge1=Splash-o-matic 5|badge2=Level 30|badge3=Level 50}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|rowspan="4" | 37
+|rowspan="4" | 2563
+|| {{Splashtag|title=Self-Identified Celeb|name=Aれんだボトル|banner=11067|tagnumber=4901|badge1=Jelly Fresh 1M|badge2=Rockenberg 100|badge3=Tableturf Cards 150}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Hungry, Hungry Big Mouth|name=チーズだいすきトーポ|banner=11059|tagnumber=6568|badge3=Spawning Grounds 999}}
+| [[File:S3 Weapon Main E-liter 4K Scope 2D Current.png|24px|link=E-liter 4K Scope]] [[E-liter 4K Scope]]
+|-
+|| {{Splashtag|title=Fluid Dad|name=くるみ|banner=11033|tagnumber=1133|badge1=Splat Roller 4|badge2=Big Bubbler 180|badge3=Tableturf Cards 120}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Fearful Agent 8|name=こいしちゃんだお♪|banner=11007|tagnumber=2343}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 38
+|rowspan="4" | 2561.7
+|| {{Splashtag|title=Hard-Workin' Princess|name=レモねーど　ようつべ|banner=10004|tagnumber=2724|badge1=Splash-o-matic 5|badge2=Squeezer 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Infinite Vocalist|name=aria♪|banner=11005|tagnumber=1167|badge3=Slosher Deco 5}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|| {{Splashtag|title=Important Dog|name=3ぶんまわし|banner=10001|tagnumber=1851|badge1=Cuttlefish|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Growing Youth|name=かねこみゆおし|banner=11051|tagnumber=9175}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 39
+|rowspan="3" | 2557.9
+|| {{Splashtag|title=Gullible Rice Bowl|name=mof_rain|banner=2010|tagnumber=2954|badge1=Stinger 10000|badge2=Takoroka 100|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Pitch-Black Fried Chicken|name=ぴえん|banner=11045|tagnumber=3086}}
+| [[File:S3 Weapon Main E-liter 4K Scope 2D Current.png|24px|link=E-liter 4K Scope]] [[E-liter 4K Scope]]
+|-
+|| {{Splashtag|title=Tear-Stained Life Itself|name=まっちゃミントちゃん|banner=11063|tagnumber=1439|badge3=Rank A}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 40
+|rowspan="4" | 2555.2
+|| {{Splashtag|title=Decade-Experienced Sloshing Machine User|name=Muu|banner=11020|tagnumber=1790|badge1=Slosher 5|badge2=Turf War 1200|badge3=Triple Inkstrike 1200}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|| {{Splashtag|title=Serious Boss|name=せいふうめいげつ|banner=11031|tagnumber=7524|badge2=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Growing Vice President|name=エゴイストアンミカ|banner=800|tagnumber=2096|badge2=Ruler of Splatfest|badge3=Reefslider 30}}
+| [[File:S3 Weapon Main Light Tetra Dualies 2D Current.png|24px|link=Light Tetra Dualies]] [[Light Tetra Dualies]]
+|-
+|| {{Splashtag|title=Deadeye Lucky Duck|name=1sh*ポンデリング|banner=10003|tagnumber=6368|badge1=E-liter 4K 5|badge2=Z+F Splatterscope 5|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Snipewriter 5H 2D Current.png|24px|link=Snipewriter 5H]] [[Snipewriter 5H]]
+|-
+|rowspan="4" | 41
+|rowspan="4" | 2553.5
+|| {{Splashtag|title=Painted Guardian|name=ゴーストタッチ|banner=13001|tagnumber=3638|badge3=Neo Splash-o-matic 5}}
+| [[File:S3 Weapon Main Splattershot Jr. 2D Current.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]]
+|-
+|| {{Splashtag|title=Unstoppable Rapid Blaster User|name=たてじままぞく|banner=10001|tagnumber=2864|badge1=Explosher 4|badge2=Ink Storm 1200|badge3=Bloblobber 5}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+|| {{Splashtag|title=The Real Ultimate Superhero|name= ぴえ|banner=11045|tagnumber=1893|badge3=Classic Squiffer 5}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+|| {{Splashtag|title=Overflowing Teardrop|name=ディストピア|banner=12001|tagnumber=3314|badge2=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 42
+|rowspan="3" | 2547.9
+|| {{Splashtag|title=First-Wave E-liter 4K User|name=en|banner=11006|tagnumber=1395|badge2=Callie}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Midnight Dualie Squelchers User|name=たなばた|banner=11006|tagnumber=3259|badge2=Dualie Squelchers 5|badge3=Wave Breaker 1200}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Winter-Breaking Traveler|name=びたみんぱんち|banner=11071|tagnumber=6857|badge1=Dark Tetra Dualies 5|badge2=Splat Zones 1000|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 43
+|rowspan="4" | 2546.6
+|| {{Splashtag|title=Instant Creator|name=ごくふとし|banner=10001|tagnumber=2208|badge1=Crab Tank 1200|badge2=Steel Eel 100|badge3=Custom Dualie Squelchers 4}}
+| [[File:S3 Weapon Main Sloshing Machine 2D Current.png|24px|link=Sloshing Machine]] [[Sloshing Machine]]
+|-
+|| {{Splashtag|title=Hard-Workin' Youngster|name=Laugh Tale|banner=11065|tagnumber=2188|badge1=Slosher 4|badge2=Challenge Top 5 Percent|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Slosher 2D Current.png|24px|link=Slosher]] [[Slosher]]
+|-
+|| {{Splashtag|title=Fightin' Dolphin|name=ゆばしり|banner=13002|tagnumber=1199|badge1=Challenge Top 5 Percent|badge2=Sockeye Station 999|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+|| {{Splashtag|title=Perfect Hero|name=ぐぬおう|banner=14001|tagnumber=1556|badge1=Firefin 30|badge2=Z+F 100|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 44
+|rowspan="3" | 2543.7
+|| {{Splashtag|title=Inkslinging World Champ|name=[◇]MIKE[◇]|banner=11040|tagnumber=1134|badge1=Slosher 4|badge2=Triple Inkstrike 180|badge3=Maws 100}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=The Splat Dualies User|name=Rio|banner=800|tagnumber=3244|badge1=Challenge Top 5 Percent|badge2=Splat Dualies 5|badge3=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=Legit Big Man Fan|name=zztilus 73|banner=2010|tagnumber=3153|badge1=Maws 10000|badge3=Flipper-Flopper 10000}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|rowspan="4" | 45
+|rowspan="4" | 2541.1
+|| {{Splashtag|title=Sketching Comedian|name=いずみ|banner=1|tagnumber=8996|badge1=X Battle Top 3000|badge2=N-ZAP '85 4|badge3=Spawning Grounds 999}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Partying Life|name=みるき|banner=10002|tagnumber=1862|badge1=Wave Breaker 1200|badge2=Range Blaster 5|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Confident Squeezer User|name=ときな|banner=11004|tagnumber=1083|badge1=Rockenberg 30|badge2=Squeezer 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Lifelong Egg|name=やきとり|banner=10002|tagnumber=9205|badge1=Challenge Top 5 Percent|badge2=Steelhead 10000|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 46
+|rowspan="4" | 2540
+|| {{Splashtag|title=Lovable Splash-o-matic User|name=*n・×・n*|banner=1|tagnumber=2358}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Howling Clash Blaster User|name=ïΩ|banner=14002|tagnumber=3144|badge2=Splash Mob 30}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|| {{Splashtag|title=South Pacific Board Member|name=あぶりかるび|banner=14001|tagnumber=2936|badge1=Mr. Grizz|badge2=Cuttlefish|badge3=Rank S+}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Legit Dragon|name=まよちほんき|banner=11010|tagnumber=1236|badge2=Tableturf Cards 150}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="4" | 47
+|rowspan="4" | 2539.4
+|| {{Splashtag|title=Gleaming Forehead|name=86|banner=11032|tagnumber=1494|badge1=Splash-o-matic 5|badge2=Crab Tank 1200|badge3=Rockenberg 30}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Sneaky Lone Wolf|name=ちゅん|banner=10003|tagnumber=2372|badge1=Challenge Top 5 Percent|badge2=X Battle Top 3000|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+|| {{Splashtag|title=Deadeye Swimmer|name=しょっちゃん|banner=14001|tagnumber=9506}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Salty Tempura|name=てしおさんち|banner=800|tagnumber=1427}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="4" | 48
+|rowspan="4" | 2539.1
+|| {{Splashtag|title=Brute Squid Roller|name=フルバスS|banner=11051|tagnumber=2604|badge1=Splat Roller 5|badge2=Rank S+|badge3=Splat Zones 100}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|| {{Splashtag|title=Sappy Paradigm|name=はれのちはろー|banner=11040|tagnumber=9573|badge1=Trizooka 1200|badge2=Splattershot 5|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=One-in-a-Million Super Chump User|name=くーくー★かめのよめ|banner=11003|tagnumber=1376|badge1=Dualie Squelchers 5|badge2=Wave Breaker 1200|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Dualie Squelchers 2D Current.png|24px|link=Dualie Squelchers]] [[Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Precocious Imp|name=0xykltd|banner=2101|tagnumber=7008}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|rowspan="3" | 49
+|rowspan="3" | 2537.7
+|| {{Splashtag|title=Half-Hearted Life Itself|name=1かくとれないマン|banner=11036|tagnumber=3299|badge1=Ultra Stamp 30|badge2=Challenge Top 5 Percent|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Tenta Sorella Brella 2D Current.png|24px|link=Tenta Sorella Brella]] [[Tenta Sorella Brella]]
+|-
+|| {{Splashtag|title=Mostly ω-3 Fan|name=みりゃ|banner=11005|tagnumber=1960|badge1=Splat Zones 100}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|| {{Splashtag|title=Stand-Up Little Brother|name=SRゴミプラ|banner=1|tagnumber=1205|badge1=Splat Zones 1000|badge2=Splat Roller 5|badge3=Big Bubbler 1200}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|rowspan="4" | 50
+|rowspan="4" | 2536.4
+|| {{Splashtag|title=Midsummer Gadabout|name=Summer*SKY|banner=14002|tagnumber=2661|badge1=X Battle Top 500|badge2=Splatana Stamper 5|badge3=Rapid Blaster Deco 4}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|| {{Splashtag|title=One-in-a-Million Grand Master|name=WSK◆シロえもん★|banner=12001|tagnumber=2428|badge1=Rainmaker 1000|badge2=Glooga Dualies 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Mostly Little Brother|name=Re:revive|banner=11008|tagnumber=7789}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=One-in-a-Million Chosen One|name=WSK_りょか|banner=12002|tagnumber=2548|badge1=Challenge Top 5 Percent|badge2=X Battle Top 500}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|rowspan="4" | 51
+|rowspan="4" | 2535.5
+|| {{Splashtag|title=Savvy Youth|name=DieForYou|banner=11053|tagnumber=1006|badge1=.52 Gal 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=The Best Life Itself|name=ゆちぃ オプレ|banner=11005|tagnumber=2647|badge1=Naut Couture 1M|badge2=Crush Station 1M|badge3=Man-o'-Wardrobe 1M}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Midsummer Hippie|name=^_ー☆|banner=11051|tagnumber=2241}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Ace Extrovert|name=りんごちゃ|banner=10002|tagnumber=9424|badge1=Naut Couture 1M|badge2=Man-o'-Wardrobe 1M|badge3=Crush Station 1M}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 52
+|rowspan="3" | 2534.5
+|| {{Splashtag|title=Splatoon Rainmaker Legend|name=みき*love*TM|banner=11067|tagnumber=4411|badge1=Rainmaker 100|badge2=Neo Splash-o-matic 5|badge3=Splattershot 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=First-Wave Dapple Dualies User|name=おーるまいてぃさんえ|banner=11063|tagnumber=9283|badge1=Ballpoint Splatling 5|badge2=X Battle Top 3000|badge3=Dapple Dualies Nouveau 4}}
+| [[File:S3 Weapon Main Snipewriter 5H 2D Current.png|24px|link=Snipewriter 5H]] [[Snipewriter 5H]]
+|-
+|| {{Splashtag|title=Lovable Object of Affection|name=りう*love*YR|banner=11002|tagnumber=7770|badge1=E-liter 4K Scope 5|badge2=Eggstra Work Top 5 Percent|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|rowspan="4" | 53
+|rowspan="4" | 2533.9
+|| {{Splashtag|title=Underground Magician|name=Nia|banner=11006|tagnumber=1943|badge1=Splatterscope 5|badge2=Z+F Splatterscope 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Fortunate Trizooka User|name=しのあ　オプレ|banner=11004|tagnumber=2704|badge1=.52 Gal 5|badge2=Sloshing Machine 5|badge3=Takoroka 100}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=Meaty Tempura|name=kizuru|banner=11077|tagnumber=2883|badge1=Turf War 1200|badge2=Inkline 100|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=The Great Dog|name=chleon|banner=1|tagnumber=2269|badge1=Splash-o-matic 4|badge2=Crab Tank 30|badge3=Splat Zones 100}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="4" | 54
+|rowspan="4" | 2530.9
+|| {{Splashtag|title=Unrivaled Pop Star|name=ほしの アイ|banner=911|tagnumber=3582|badge1=Ballpoint Splatling 4|badge2=Ballpoint Splatling 5|badge3=Inkjet 1200}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Law-Breaking Suction Bomb User|name=エマージェンシー|banner=911|tagnumber=3022|badge2=Ink Vac 1200|badge3=Drizzler 100}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|| {{Splashtag|title=Daydreamin' Dog|name=YY|banner=911|tagnumber=1214|badge3=Big Swig Roller Express 4}}
+| [[File:S3 Weapon Main Krak-On Splat Roller 2D Current.png|24px|link=Krak-On Splat Roller]] [[Krak-On Splat Roller]]
+|-
+|| {{Splashtag|title=Ambidextrous Tenta Brella User|name=あ|banner=911|tagnumber=12764}}
+| [[File:S3 Weapon Main Krak-On Splat Roller 2D Current.png|24px|link=Krak-On Splat Roller]] [[Krak-On Splat Roller]]
+|-
+|rowspan="4" | 55
+|rowspan="4" | 2530.6
+|| {{Splashtag|title=Swoon-Worthy Little Sister|name=ういっす³|banner=2010|tagnumber=2771|badge1=Splattershot Pro 5|badge2=Hydra Splatling 5|badge3=Forge Splattershot Pro 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Official-Grizzco Part-Timer|name=でりしゃすみかん|banner=2103|tagnumber=2878|badge1=Big Shot 10000|badge2=X Battle Top 500}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Wannabe Shark|name=りん|banner=11010|tagnumber=1974|badge1=Reefslider 1200|badge2=Dapple Dualies Nouveau 5|badge3=Dapple Dualies 5}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|| {{Splashtag|title=Just Another Little Brother|name=たすけて|banner=11078|tagnumber=1281|badge1=Z+F Splatterscope 5|badge2=Dark Tetra Dualies 5|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main Rapid Blaster Pro Deco 2D Current.png|24px|link=Rapid Blaster Pro Deco]] [[Rapid Blaster Pro Deco]]
+|-
+|rowspan="3" | 56
+|rowspan="3" | 2528.6
+|| {{Splashtag|title=Intuitive Splat Brella User|name=コウモリくれ|banner=11003|tagnumber=1934|badge1=Drizzler 100|badge2=Drizzler 1000}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|| {{Splashtag|title=World's Best Cornrows|name=べこ|banner=11077|tagnumber=1048|badge1=Splat Zones 1000|badge2=Splat Roller 5|badge3=Fish Stick 1000}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|| {{Splashtag|title=Top-Ranked Dog|name=いつぞやのこいぬ|banner=11055|tagnumber=2206|badge1=Rainmaker 100|badge2=X Battle Top 3000|badge3=Splat Roller 5}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|rowspan="4" | 57
+|rowspan="4" | 2527.1
+|| {{Splashtag|title=Spineless Sushi|name=おそめのパブロン|banner=11068|tagnumber=1862|badge1=Inkbrush 5|badge2=Killer Wail 5.1 1200|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main Inkbrush 2D Current.png|24px|link=Inkbrush]] [[Inkbrush]]
+|-
+|| {{Splashtag|title=Multiplying Punk|name=あみちゃん|banner=10004|tagnumber=1196|badge1=Tacticooler 30|badge2=Tacticooler 180|badge3=Tacticooler 1200}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Hidden B-Girl|name=たこやき|banner=11005|tagnumber=20878|badge1=Scrapper 1000|badge2=Shell-Out Machine Jackpot 4|badge3=Food 100}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Big Honkin' Big Brother|name=ドライム|banner=11027|tagnumber=1366|badge1=Spawning Grounds 999|badge2=Splatana Wiper 5|badge3=Shrimp Kicks 100K}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+|rowspan="4" | 58
+|rowspan="4" | 2526.4
+|| {{Splashtag|title=Praiseworthy Pack Leader|name=よっち|banner=11082|tagnumber=1353|badge1=Bamboozler 14 Mk I 5|badge2=Z+F Splatterscope 5|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main Bamboozler 14 Mk I 2D Current.png|24px|link=Bamboozler 14 Mk I]] [[Bamboozler 14 Mk I]]
+|-
+|| {{Splashtag|title=Celestial Turf War Legend|name=アイスドロップ♪|banner=912|tagnumber=3193|badge1=REEF-LUX 450 5|badge2=Explosher 5|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Explosher 2D Current.png|24px|link=Explosher]] [[Explosher]]
+|-
+|| {{Splashtag|title=Enigmatic Superhero|name=あいのぼーるどせんし|banner=1|tagnumber=3321|badge2=Sploosh-o-matic 5|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Better-Than-You Forehead|name=みかたありがとうch|banner=11053|tagnumber=2710|badge1=Dark Tetra Dualies 4|badge2=Reefslider 180|badge3=Light Tetra Dualies 4}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|rowspan="4" | 59
+|rowspan="4" | 2526.2
+|| {{Splashtag|title=The Eternal Tornado|name=トラのスターらいあん|banner=11001|tagnumber=1667|badge1=Eggstra Work Top 5 Percent|badge2=X Battle Top 500|badge3=Big Run Top 5 Percent}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|| {{Splashtag|title=All-Purpose Grand Master|name=UsuiKirio|banner=1002|tagnumber=7775|badge1=Splat Zones 1000|badge2=Hydra Splatling 5|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Hydra Splatling 2D Current.png|24px|link=Hydra Splatling]] [[Hydra Splatling]]
+|-
+|| {{Splashtag|title=Zipped-Lips Part-Timer|name=タケヤン|banner=11033|tagnumber=2941|badge1=Max Hazard Level|badge2=X Battle Top 500|badge3=Spawning Grounds 999}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|| {{Splashtag|title=Overpowering Gadabout|name=たいさん|banner=11003|tagnumber=8910|badge1=Marooner's Bay 999|badge2=Spawning Grounds 999|badge3=Gone Fission Hydroplant 999}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|rowspan="3" | 60
+|rowspan="3" | 2526
+|| {{Splashtag|title=The Eternal Lifestyle|name=ででんねのおねんね～|banner=14001|tagnumber=3240|badge1=Turf War 50|badge2=Turf War 250|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|| {{Splashtag|title=MakoMart Clerk|name=のす|banner=11065|tagnumber=1643|badge2=Shell-Out Machine Jackpot 4}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+|| {{Splashtag|title=Fluttering Dad|name=ででんねのあごヒゲ|banner=2104|tagnumber=1756|badge1=Zipcaster 180|badge2=Food 100|badge3=Big Shot 100}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 61
+|rowspan="4" | 2525.1
+|| {{Splashtag|title=Endangered L-3 Nozzlenose User|name=やぐ|banner=11021|tagnumber=4958|badge1=L-3 Nozzlenose D 4|badge2=Ultra Stamp 1200|badge3=Crab Tank 1200}}
+| [[File:S3 Weapon Main L-3 Nozzlenose D 2D Current.png|24px|link=L-3 Nozzlenose D]] [[L-3 Nozzlenose D]]
+|-
+|| {{Splashtag|title=Phantasmagoric Wave Breaker User|name=[カネイヤ]Luck|banner=11003|tagnumber=2369|badge1=Slosher Deco 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Avant-Garde Fashionista|name=まるっとふぉい|banner=11031|tagnumber=1111|badge1=Rockenberg 30|badge2=Skalop 30|badge3=Enperry 30}}
+| [[File:S3 Weapon Main Dapple Dualies Nouveau 2D Current.png|24px|link=Dapple Dualies Nouveau]] [[Dapple Dualies Nouveau]]
+|-
+|| {{Splashtag|title=Fluffy Snacks|name=わたあめぇ|banner=11036|tagnumber=2125|badge1=Dapple Dualies 5|badge2=X Battle Top 500|badge3=Clam Blitz 100}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 62
+|rowspan="4" | 2523.6
+|| {{Splashtag|title=Groundbreaking Tofu|name=&4_かえんエース♭|banner=10004|tagnumber=2777|badge1=X Battle Top 500|badge2=Rainmaker 1000|badge3=Inkjet 1200}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|| {{Splashtag|title=Swoon-Worthy Duchess|name=&4_ゆぴちゃ|banner=10001|tagnumber=3881|badge1=Forge Splattershot Pro 5|badge2=Challenge Top 5 Percent|badge3=Booyah Bomb 1200}}
+| [[File:S3 Weapon Main Forge Splattershot Pro 2D Current.png|24px|link=Forge Splattershot Pro]] [[Forge Splattershot Pro]]
+|-
+|| {{Splashtag|title=Splatlandian Youth|name=AS_でれすけ。|banner=800|tagnumber=8850|badge1=Carbon Roller Deco 5|badge2=Locker 1M|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Climactic Fist|name=&4_がんくしゃ|banner=10004|tagnumber=7912|badge1=Tableturf Cards 150|badge2=Challenge Top 5 Percent|badge3=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="3" | 63
+|rowspan="3" | 2521.2
+|| {{Splashtag|title=High-Performing Splattershot User|name=まぐなずきこうせい♪|banner=11031|tagnumber=5527|badge1=Tower Control 1000|badge2=Splat Zones 1000|badge3=Splattershot 5}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Nameless Monarch|name=サタ|banner=11005|tagnumber=2951|badge1=X Battle Top 3000|badge2=Dark Tetra Dualies 5|badge3=Reefslider 1200}}
+| [[File:S3 Weapon Main Dark Tetra Dualies 2D Current.png|24px|link=Dark Tetra Dualies]] [[Dark Tetra Dualies]]
+|-
+|| {{Splashtag|title=Basic Bear|name=KRs_ためぃご|banner=10004|tagnumber=2179|badge1=Hydra Splatling 5|badge2=Ballpoint Splatling 5|badge3=Toni Kensa 30}}
+| [[File:S3 Weapon Main Snipewriter 5H 2D Current.png|24px|link=Snipewriter 5H]] [[Snipewriter 5H]]
+|-
+|rowspan="3" | 64
+|rowspan="3" | 2518.5
+|| {{Splashtag|title=Catch-of-the-Day Heavy Splatling User|name=あまっこい|banner=11028|tagnumber=9514|badge1=Heavy Splatling 5|badge2=Wave Breaker 1200|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Heavy Splatling Deco 2D Current.png|24px|link=Heavy Splatling Deco]] [[Heavy Splatling Deco]]
+|-
+|| {{Splashtag|title=Dandy Muscle|name=ぷろていん|banner=11011|tagnumber=5359|badge1=Rapid Blaster Pro Deco 4|badge2=Range Blaster 5|badge3=Big Swig Roller 4}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=All-Purpose Fuzzball|name=しゃっこい|banner=11035|tagnumber=7120|badge1=Dark Tetra Dualies 5|badge2=Reefslider 1200|badge3=X Battle Top 3000}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 65
+|rowspan="4" | 2515.6
+|| {{Splashtag|title=AKA Eye of the Storm|name=。° Shadow|banner=11003|tagnumber=2081|badge2=Jet Squelcher 4|badge3=X Battle Top 10}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=The Final Snowstorm|name=。° SSNolan|banner=11003|tagnumber=2488|badge2=X Battle Top 10|badge3=.96 Gal Deco 5}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Bursting Burst Bomb User|name=。° Omegα|banner=11003|tagnumber=2020|badge1=Trizooka 180|badge2=Carbon Roller Deco 4|badge3=Splatana Wiper Deco 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Silent Angel|name=。° Basil|banner=11003|tagnumber=1645|badge1=E-liter 4K 5|badge2=X Battle Top 10|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|rowspan="4" | 66
+|rowspan="4" | 2513.6
+|| {{Splashtag|title=The Lone Monarch|name=(　。 v。　)|banner=14002|tagnumber=3033|badge1=Squeezer 5|badge2=Splatana Stamper 5|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=High-Rolling President|name=ACX_おしるこ_〆|banner=11056|tagnumber=1552|badge1=Neo Splash-o-matic 4|badge2=X Battle Top 500|badge3=Splash-o-matic 4}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+|| {{Splashtag|title=Glimmering World Champ|name=ε(;-; )みかん|banner=912|tagnumber=7721|badge1=Tri-Stringer 5|badge2=Tricolor Defender 10|badge3=Tri-Stringer 4}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Evil Reefslider User|name=ACX_こもしゅう〆|banner=11065|tagnumber=1701|badge1=Splat Zones 1000|badge2=Tower Control 1000|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|rowspan="4" | 67
+|rowspan="4" | 2512.8
+|| {{Splashtag|title=Sensational Dynamo Roller User|name=スポティファイもりた|banner=11006|tagnumber=2040|badge3=Dynamo Roller 5}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|| {{Splashtag|title=Self-Taught Dynamo Roller User|name=ドリンクバーそばもと|banner=11025|tagnumber=3703|badge1=Splat Zones 1000|badge2=Dynamo Roller 5|badge3=Tacticooler 1200}}
+| [[File:S3 Weapon Main Dynamo Roller 2D Current.png|24px|link=Dynamo Roller]] [[Dynamo Roller]]
+|-
+|| {{Splashtag|title=Studious Dynamo Roller User|name=ウタっちょ|banner=11025|tagnumber=5274|badge1=X Battle Top 500|badge2=Dynamo Roller 5|badge3=Tacticooler 1200}}
+| [[File:S3 Weapon Main Tri-Stringer 2D Current.png|24px|link=Tri-Stringer]] [[Tri-Stringer]]
+|-
+|| {{Splashtag|title=Growing Splat Dualies User|name=マニュにジェッパくれ|banner=11077|tagnumber=3264|badge1=Splash-o-matic 4|badge2=Z+F 100|badge3=Neo Splash-o-matic 4}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|rowspan="4" | 68
+|rowspan="4" | 2509.7
+|| {{Splashtag|title=The True Ultimate Pop Star|name=かわいいボトル♪|banner=11001|tagnumber=1666|badge1=Squeezer 5|badge2=Trizooka 1200|badge3=Eggstra Work Top 5 Percent}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Instantaneous World Champ|name=テト|banner=10003|tagnumber=8067|badge1=Jammin' Salmon Junction 999|badge2=Range Blaster 5|badge3=Horrorboros 100}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=A Complex King|name=もちちーずめんたい♪|banner=11057|tagnumber=2517|badge1=Splatana Stamper 5|badge2=Max Hazard Level|badge3=Rockenberg 100}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Ace Free Spirit|name=あすぱらべーこんまき|banner=10004|tagnumber=3050|badge1=Cohozuna 100|badge2=Big Shot 1000|badge3=Horrorboros 100}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|rowspan="3" | 69
+|rowspan="3" | 2507.6
+|| {{Splashtag|title=Super-Duper Lucky Manta Ray|name=よよ|banner=10001|tagnumber=6112|badge1=Squeezer 5|badge2=Tableturf Cards 150|badge3=Rank S+}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Sneaky Magician|name=はにゃ？|banner=14002|tagnumber=2652|badge1=Eggstra Work Top 5 Percent|badge2=X Battle Top 3000|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Faithful Wall|name=Ki12-ひまどり|banner=11005|tagnumber=2115|badge1=Carbon Roller Deco 5|badge3=Food 10}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="4" | 70
+|rowspan="4" | 2507.2
+|| {{Splashtag|title=Splatlandian Youth|name=XX|banner=1|tagnumber=7882}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Homecoming Splat Bomber|name=ホップソナー！|banner=14001|tagnumber=1256}}
+| [[File:S3 Weapon Main Z+F Splat Charger 2D Current.png|24px|link=Z+F Splat Charger]] [[Z+F Splat Charger]]
+|-
+|| {{Splashtag|title=Lonely Adventurer|name=こうこう|banner=2004|tagnumber=1562|badge1=Splattershot 5|badge2=Jammin' Salmon Junction 999|badge3=E-liter 4K 5}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=Local Duchess|name=めろみ　は　ねむみ|banner=10002|tagnumber=2728|badge1=Trizooka 1200|badge2=Splattershot 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 71
+|rowspan="4" | 2506.5
+|| {{Splashtag|title=Tenacious Splattershot User|name=ぺろりんちょ|banner=11027|tagnumber=1000|badge1=Splat Zones 1000|badge2=Splattershot 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Big-Sky Splattershot User|name=56ちゃん♭|banner=10004|tagnumber=4647|badge1=Splat Zones 1000|badge2=Tower Control 1000|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Sleepy Splattershot User|name=dog|banner=11065|tagnumber=1487|badge1=Triple Inkstrike 1200|badge2=Tower Control 1000|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Explosive Striker|name=ごまあぶらうまし|banner=13001|tagnumber=1497|badge1=X Battle Top 3000|badge2=Splattershot 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 72
+|rowspan="4" | 2504
+|| {{Splashtag|title=Legit Blade of Grass|name=ばけもんきーch.|banner=1|tagnumber=1704|badge1=Splattershot 5|badge2=Rank A|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Dark Carbon Roller User|name=RGTO|banner=11035|tagnumber=2573|badge2=Carbon Roller Deco 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Honorary Workhorse|name=　あわい　ちとせ|banner=10003|tagnumber=2070}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=One-in-a-Million Life|name=サンタクロース|banner=10003|tagnumber=33590|badge1=E-liter 4K 5|badge2=X Battle Top 3000|badge3=Wave Breaker 180}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+|rowspan="4" | 73
+|rowspan="4" | 2503.3
+|| {{Splashtag|title=Painted Youngster|name=ばぶらるたる|banner=10003|tagnumber=4843|badge1=Splattershot Jr. 5|badge2=Big Bubbler 1200|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splattershot Jr. 2D Current.png|24px|link=Splattershot Jr.]] [[Splattershot Jr.]]
+|-
+|| {{Splashtag|title=Howling Big Mouth|name=yuki|banner=11003|tagnumber=2773|badge1=X Battle Top 500|badge2=Ultra Stamp 1200|badge3=Splatana Wiper 5}}
+| [[File:S3 Weapon Main Splatana Wiper 2D Current.png|24px|link=Splatana Wiper]] [[Splatana Wiper]]
+|-
+|| {{Splashtag|title=Spring-Lovin' Member|name=あさてぃ|banner=1|tagnumber=7025|badge1=Big Run Top 50 Percent|badge3=Kraken Royale 30}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=A Complex Teardrop|name=なっちぇりー！|banner=11033|tagnumber=6922}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="3" | 74
+|rowspan="3" | 2500
+|| {{Splashtag|title=South Pacific Vitamin|name=seras|banner=1|tagnumber=4619|badge1=Krak-On 100|badge2=Tentatek Splattershot 5|badge3=Rockenberg 100}}
+| [[File:S3 Weapon Main Tentatek Splattershot 2D Current.png|24px|link=Tentatek Splattershot]] [[Tentatek Splattershot]]
+|-
+|| {{Splashtag|title=Homecoming Mom|name=みどちゃん|banner=800|tagnumber=2120|badge1=Callie|badge2=Trizooka 1200|badge3=Hero Shot Replica 5}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=Intuitive Imp|name=ウェーーーィ_|banner=800|tagnumber=1135|badge1=Tableturf Cards 90|badge2=Tableturf Cards 150|badge3=Tableturf Cards 120}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|rowspan="4" | 75
+|rowspan="4" | 2500
+|| {{Splashtag|title=Inkslinging Bird|name=●|banner=11076|tagnumber=1883|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Flingza Roller 2D Current.png|24px|link=Flingza Roller]] [[Flingza Roller]]
+|-
+|| {{Splashtag|title=Self-Identified Clubgoer|name=かかおまめぇ|banner=11004|tagnumber=2447|badge1=Reefslider 180|badge2=Zipcaster 1200|badge3=Ink Vac 180}}
+| [[File:S3 Weapon Main Flingza Roller 2D Current.png|24px|link=Flingza Roller]] [[Flingza Roller]]
+|-
+|| {{Splashtag|title=Super-Rare Flingza Roller User|name=れちぴよ！|banner=12002|tagnumber=8065|badge1=Max Hazard Level|badge2=Cuttlefish|badge3=Flingza Roller 4}}
+| [[File:S3 Weapon Main Flingza Roller 2D Current.png|24px|link=Flingza Roller]] [[Flingza Roller]]
+|-
+|| {{Splashtag|title=All-Purpose Ultimate Weapon|name=ryo|banner=10003|tagnumber=2971|badge1=Flingza Roller 5|badge2=Spawning Grounds 999|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Flingza Roller 2D Current.png|24px|link=Flingza Roller]] [[Flingza Roller]]
+|-
+|rowspan="4" | 76
+|rowspan="4" | 2500
+|| {{Splashtag|title=Fluttering Therapist|name=Molong|banner=11082|tagnumber=1356|badge1=Range Blaster 5|badge2=Wave Breaker 1200|badge3=Tower Control 1000}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|| {{Splashtag|title=Daylit Eye of the Storm|name=みそたこ|banner=11037|tagnumber=2459|badge1=Nautilus 47 5|badge2=Big Run Top 50 Percent|badge3=Ink Storm 180}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|| {{Splashtag|title=Slapdash Rookie|name=Fakeshiny|banner=1001|tagnumber=1585|badge1=Splat Dualies 5|badge3=Crab Tank 1200}}
+| [[File:S3 Weapon Main Splat Dualies 2D Current.png|24px|link=Splat Dualies]] [[Splat Dualies]]
+|-
+|| {{Splashtag|title=Bursting Festivalgoer|name=arcana|banner=11076|tagnumber=1719}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|rowspan="4" | 77
+|rowspan="4" | 2500
+|| {{Splashtag|title=Summer-Breaking Security Guard|name=さとウ　かつお★Ξ|banner=800|tagnumber=1533|badge1=Inkjet 180|badge2=Wave Breaker 1200|badge3=Zipcaster 180}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=One-in-a-Million Gadabout|name=かげやまゆうかおし♪|banner=11004|tagnumber=6136|badge1=Challenge Top 5 Percent|badge2=Big Run Top 5 Percent|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Fall-Themed Slosher User|name=くれないいってん|banner=11077|tagnumber=1702|badge1=Splash-o-matic 5|badge2=Sloshing Machine 5|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main Sloshing Machine 2D Current.png|24px|link=Sloshing Machine]] [[Sloshing Machine]]
+|-
+|| {{Splashtag|title=Jet-Black Demon|name=なぞのカーボンせんし|banner=10003|tagnumber=5926|badge1=Splatana Stamper 5|badge2=Carbon Roller Deco 5|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="4" | 78
+|rowspan="4" | 2497.9
+|| {{Splashtag|title=Headstrong Life|name=Neo*Λegis|banner=14002|tagnumber=1741|badge1=Challenge Top 5 Percent|badge2=Rockenberg 100|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Forge Splattershot Pro 2D Current.png|24px|link=Forge Splattershot Pro]] [[Forge Splattershot Pro]]
+|-
+|| {{Splashtag|title=One-in-a-Million Superhero|name=Neo*Sonic|banner=11033|tagnumber=1267|badge1=Slosher 4|badge2=X Battle Top 500|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Early-Summer Firecracker|name=Neo*star|banner=11082|tagnumber=1570|badge1=Booyah Bomb 180|badge2=X Battle Top 500|badge3=Wave Breaker 180}}
+| [[File:S3 Weapon Main Tri-Slosher 2D Current.png|24px|link=Tri-Slosher]] [[Tri-Slosher]]
+|-
+|| {{Splashtag|title=Headstrong Range Blaster User|name=うさだあかくん！ん|banner=11011|tagnumber=2770|badge1=Range Blaster 5|badge2=X Battle Top 500|badge3=Wave Breaker 1200}}
+| [[File:S3 Weapon Main Range Blaster 2D Current.png|24px|link=Range Blaster]] [[Range Blaster]]
+|-
+|rowspan="4" | 79
+|rowspan="4" | 2497.3
+|| {{Splashtag|title=Lightning-Fast Gelatin|name=ゅぅ|banner=11082|tagnumber=1517|badge1=Marooner's Bay 999|badge2=Eggstra Work Top 5 Percent|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+|| {{Splashtag|title=Intuitive Traveler|name=あぅ...。|banner=13002|tagnumber=2692|badge1=Splash-o-matic 4|badge2=Crab Tank 180|badge3=Big Run Top 50 Percent}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Overpowering Trizooka User|name=*|banner=11014|tagnumber=1294|badge1=Splattershot 4|badge2=Squeezer 4|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Fun Girl|name=パラシェルター|banner=11048|tagnumber=7854|badge2=X Battle Top 500|badge3=Ink Storm 30}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="4" | 80
+|rowspan="4" | 2496.4
+|| {{Splashtag|title=Half-Hearted Kraken Royale User|name=ぱかお|banner=10003|tagnumber=2159|badge1=X Battle Top 3000|badge2=Heavy Splatling 5|badge3=Rockenberg 100}}
+| [[File:S3 Weapon Main Heavy Splatling Deco 2D Current.png|24px|link=Heavy Splatling Deco]] [[Heavy Splatling Deco]]
+|-
+|| {{Splashtag|title=Shadowy World Champ|name=しまうまちゃん|banner=11036|tagnumber=3099|badge1=Splat Zones 1000|badge2=Splatana Stamper 5|badge3=Zipcaster 180}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=The Strongest Lucky Duck|name=かごさゆぺったんたん|banner=10002|tagnumber=2855|badge3=Turf War 1200}}
+| [[File:S3 Weapon Main Annaki Splattershot Nova 2D Current.png|24px|link=Annaki Splattershot Nova]] [[Annaki Splattershot Nova]]
+|-
+|| {{Splashtag|title=Slippery Son|name=±√mèòĺç|banner=1|tagnumber=2261|badge2=Crab Tank 1200}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="3" | 81
+|rowspan="3" | 2494.3
+|| {{Splashtag|title=Ace Gadabout|name=【SYN】うゆぴ|banner=10004|tagnumber=2519|badge1=Sploosh-o-matic 5|badge2=Rainmaker 1000|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Mini Splatling 2D Current.png|24px|link=Mini Splatling]] [[Mini Splatling]]
+|-
+|| {{Splashtag|title=Fragrant Fizzy Bomb User|name=アメリ|banner=11064|tagnumber=2890|badge1=E-liter 4K 5|badge2=Tower Control 1000|badge3=Rainmaker 1000}}
+| [[File:S3 Weapon Main Splattershot Pro 2D Current.png|24px|link=Splattershot Pro]] [[Splattershot Pro]]
+|-
+|| {{Splashtag|title=Sensational Deity of Destruction|name=【SYN】つ　むじ|banner=10001|tagnumber=1372|badge1=Range Blaster 5|badge2=Tower Control 1000|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|rowspan="4" | 82
+|rowspan="4" | 2493.8
+|| {{Splashtag|title=Splatlandian Youth|name=スキマchアンチ|banner=1|tagnumber=4960}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Not-So-Fresh Stylist|name=へなちょこミスティー|banner=10002|tagnumber=4851|badge1=Splatana Stamper 5|badge2=Sloshing Machine 5|badge3=Squeezer 4}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Dodge-Rolling Dodge Roller|name=XaXa|banner=11082|tagnumber=1217|badge1=Dualie Squelchers 5}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Tear-Stained Shark Tamer|name=やまみちVSりーふw|banner=11011|tagnumber=3164|badge1=Squeezer 5|badge2=Custom Jet Squelcher 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|rowspan="4" | 83
+|rowspan="4" | 2493
+|| {{Splashtag|title=Day-Seizing Content Creator|name=イーシャンテンいわた|banner=11071|tagnumber=2859|badge1=Carbon Roller Deco 5|badge2=Trizooka 1200|badge3=Zipcaster 1200}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Smooth Curling Bomb User|name=うわああああああああ|banner=13001|tagnumber=7745|badge1=REEF-LUX 450 5|badge2=Splash-o-matic 5|badge3=Neo Splash-o-matic 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Punk Manta Ray|name=damn|banner=11016|tagnumber=1764|badge1=Naut Couture 1M|badge2=Ballpoint Splatling 5|badge3=Hydra Splatling 5}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Bright-Blue Slosher User|name=　　　　　　　バケツ|banner=11003|tagnumber=1348|badge3=Slosher 5}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|rowspan="3" | 84
+|rowspan="3" | 2491.9
+|| {{Splashtag|title=Whimsical Cat|name=ソルじゃー|banner=11004|tagnumber=8064|badge1=X Battle Top 500|badge2=.52 Gal 4|badge3=Booyah Bomb 180}}
+| [[File:S3 Weapon Main .52 Gal 2D Current.png|24px|link=.52 Gal]] [[.52 Gal]]
+|-
+|| {{Splashtag|title=Honorary Camper|name=がまちょ|banner=11034|tagnumber=8224|badge1=Tenta Brella 5|badge2=Tenta Sorella Brella 5|badge3=X Battle Top 500}}
+| [[File:S3 Weapon Main Tenta Sorella Brella 2D Current.png|24px|link=Tenta Sorella Brella]] [[Tenta Sorella Brella]]
+|-
+|| {{Splashtag|title=Mind-Blowing Traveler|name=つきみうどん|banner=2001|tagnumber=7492}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|rowspan="4" | 85
+|rowspan="4" | 2490.9
+|| {{Splashtag|title=Headstrong Bug|name=セミくん|banner=11056|tagnumber=2192|badge1=Tower Control 1000|badge2=Zipcaster 1200|badge3=Gone Fission Hydroplant 999}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Saddle-Straddlin' Cyclist|name=kazu!!`ω´|banner=1|tagnumber=2128}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Fightin' Duchess|name=SCARF*IZ|banner=11026|tagnumber=3077|badge1=Trizooka 1200|badge2=Callie|badge3=Carbon Roller Deco 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Soft-and-Fluffy Rookie|name=いかしし|banner=11025|tagnumber=1804|badge1=Carbon Roller Deco 5|badge2=X Battle Top 500|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="4" | 86
+|rowspan="4" | 2489.3
+|| {{Splashtag|title=Fluffy Cat|name=ゆうめい|banner=11064|tagnumber=3180|badge1=Classic Squiffer 4|badge2=Snipewriter 5H 5|badge3=Tacticooler 1200}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+|| {{Splashtag|title=Lovable City Girl|name=S-TUKA19|banner=10003|tagnumber=7701|badge1=Splatana Stamper 5|badge2=S-BLAST '92 5|badge3=Range Blaster 5}}
+| [[File:S3 Weapon Main REEF-LUX 450 2D Current.png|24px|link=REEF-LUX 450]] [[REEF-LUX 450]]
+|-
+|| {{Splashtag|title=The True Ultimate Pop Star|name=ここぺろマンTV|banner=11002|tagnumber=3062|badge1=Squeezer 5|badge2=X Battle Top 500|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Reincarnated Dynamo|name=-ゆーたこ-|banner=800|tagnumber=1281|badge1=X Battle Top 500|badge2=Jammin' Salmon Junction 999|badge3=Carbon Roller Deco 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|rowspan="4" | 87
+|rowspan="4" | 2489.1
+|| {{Splashtag|title=Normcore Life Itself|name=おちは? はっぱ?|banner=11021|tagnumber=8165|badge1=Splatana Wiper 5|badge2=Splatana Wiper Deco 5|badge3=Takoroka 100}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Just Another Target|name=あいどる♭ぶっちんび|banner=11067|tagnumber=7727|badge1=Dark Tetra Dualies 5|badge2=Light Tetra Dualies 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Lovable Carbon Roller User|name=   -Aru-|banner=11045|tagnumber=1564|badge1=Z+F 100|badge2=Carbon Roller Deco 5|badge3=Marooner's Bay 999}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Legit Blade of Grass|name=ら　　　っ　　　て|banner=800|tagnumber=2204|badge1=E-liter 4K 5|badge2=Snipewriter 5H 4|badge3=Z+F Splatterscope 5}}
+| [[File:S3 Weapon Main Splatterscope 2D Current.png|24px|link=Splatterscope]] [[Splatterscope]]
+|-
+|rowspan="4" | 88
+|rowspan="4" | 2487.9
+|| {{Splashtag|title=Dazzling Angel|name=り。|banner=11069|tagnumber=3047}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Infinite Wall|name=NNS*バKãれい|banner=11061|tagnumber=1884|badge1=Splat Zones 1000|badge2=X Battle Top 500|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Overall Grand Master|name=27♪|banner=11010|tagnumber=1955|badge1=Splash-o-matic 5|badge2=Tableturf Cards 150|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Ballpoint Splatling 2D Current.png|24px|link=Ballpoint Splatling]] [[Ballpoint Splatling]]
+|-
+|| {{Splashtag|title=Ace Pop Star|name=*MEM*|banner=11003|tagnumber=2774|badge1=Jelly Fresh 100K|badge2=Splat Roller 5|badge3=Turf War 50}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|rowspan="3" | 89
+|rowspan="3" | 2486.9
+|| {{Splashtag|title=The Final Material|name=クマムシ|banner=11082|tagnumber=25337|badge1=Trizooka 180|badge2=Tenta Brella 4|badge3=Ink Vac 180}}
+| [[File:S3 Weapon Main Tenta Brella 2D Current.png|24px|link=Tenta Brella]] [[Tenta Brella]]
+|-
+|| {{Splashtag|title=Super-Scary Gadabout|name=しぬきでぼうえい|banner=14002|tagnumber=6128|badge1=Challenge Top 5 Percent|badge2=Splatana Stamper 4|badge3=Zipcaster 180}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Central Recollection|name=メモリーズ|banner=10002|tagnumber=2517|badge1=Splatana Wiper 5|badge2=Splash-o-matic 5|badge3=Level 100}}
+| [[File:S3 Weapon Main Nautilus 47 2D Current.png|24px|link=Nautilus 47]] [[Nautilus 47]]
+|-
+|rowspan="3" | 90
+|rowspan="3" | 2485.7
+|| {{Splashtag|title=Midnight Material|name=ばーゆ|banner=1|tagnumber=9675|badge1=Splash-o-matic 5|badge2=Turf War 1200|badge3=Neo Splash-o-matic 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=The Best Fuzzball|name=みゃ|banner=11063|tagnumber=1926}}
+| [[File:S3 Weapon Main Splatana Stamper 2D Current.png|24px|link=Splatana Stamper]] [[Splatana Stamper]]
+|-
+|| {{Splashtag|title=Gaming Duchess|name=CC_ちゃそうさじ|banner=11078|tagnumber=2437|badge1=Range Blaster 5|badge2=Bloblobber 4|badge3=Forge Splattershot Pro 5}}
+| [[File:S3 Weapon Main Tentatek Splattershot 2D Current.png|24px|link=Tentatek Splattershot]] [[Tentatek Splattershot]]
+|-
+|rowspan="4" | 91
+|rowspan="4" | 2480.7
+|| {{Splashtag|title=Heartfelt AI|name=むさお!|banner=11066|tagnumber=1614|badge1=Splattershot 5|badge2=X Battle Top 3000|badge3=Hero Shot Replica 5}}
+| [[File:S3 Weapon Main Hero Shot Replica 2D Current.png|24px|link=Hero Shot Replica]] [[Hero Shot Replica]]
+|-
+|| {{Splashtag|title=The Real Ultimate Bro|name=しーやま！|banner=10003|tagnumber=5468|badge1=Explosher 5|badge2=Splattershot 5|badge3=Rank S+}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Lovable Mother|name=ひじき！|banner=10003|tagnumber=1724|badge1=Splash-o-matic 5|badge2=Jelly Fresh 1M|badge3=Man-o'-Wardrobe 1M}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Economical Clock Puncher|name=( ・_・)|banner=14001|tagnumber=6615|badge1=Classic Squiffer 5|badge2=Rank S+|badge3=Big Bubbler 180}}
+| [[File:S3 Weapon Main Snipewriter 5H 2D Current.png|24px|link=Snipewriter 5H]] [[Snipewriter 5H]]
+|-
+|rowspan="4" | 92
+|rowspan="4" | 2473.8
+|| {{Splashtag|title=Out-of-Options Foreman|name=くまこうじょうちょう|banner=11078|tagnumber=2992|badge1=Tri-Slosher Nouveau 4|badge2=Sloshing Machine 5|badge3=Mr. Grizz}}
+| [[File:S3 Weapon Main Sloshing Machine 2D Current.png|24px|link=Sloshing Machine]] [[Sloshing Machine]]
+|-
+|| {{Splashtag|title=Easy-Peasy Bloblobber User|name=っちょ|banner=10003|tagnumber=2237|badge1=X Battle Top 500|badge2=Tri-Stringer 5|badge3=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+|| {{Splashtag|title=Late-Night Sploosh-o-matic User|name=【RP】ばにらぱ|banner=2101|tagnumber=3064|badge1=Ultra Stamp 30|badge2=Ultra Stamp 180|badge3=Ultra Stamp 1200}}
+| [[File:S3 Weapon Main Sploosh-o-matic 2D Current.png|24px|link=Sploosh-o-matic]] [[Sploosh-o-matic]]
+|-
+|| {{Splashtag|title=Daydreamin' Angle Shooter User|name=そいちゅ|banner=11055|tagnumber=1802|badge1=L-3 Nozzlenose 4|badge2=Goo Tuber 4|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|rowspan="3" | 93
+|rowspan="3" | 2472.3
+|| {{Splashtag|title=Lovely Angel|name=Re_えりす|banner=11027|tagnumber=3000|badge1=Spawning Grounds 999|badge2=Tri-Stringer 5|badge3=Splatana Stamper 5}}
+| [[File:S3 Weapon Main Neo Splash-o-matic 2D Current.png|24px|link=Neo Splash-o-matic]] [[Neo Splash-o-matic]]
+|-
+|| {{Splashtag|title=Calamari Inkantation|name=Re_みるる|banner=11025|tagnumber=2280|badge1=Callie|badge2=Killer Wail 5.1 30|badge3=Marie}}
+| [[File:S3 Weapon Main Jet Squelcher 2D Current.png|24px|link=Jet Squelcher]] [[Jet Squelcher]]
+|-
+|| {{Splashtag|title=Lovely Sis|name=Re_ここあ|banner=11028|tagnumber=4779|badge1=Gone Fission Hydroplant 999|badge2=Spawning Grounds 999|badge3=Sockeye Station 999}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="4" | 94
+|rowspan="4" | 2469.7
+|| {{Splashtag|title=Shining Title Holder|name=フレンディなかにし|banner=11049|tagnumber=1023|badge2=SquidForce 100|badge3=Carbon Roller 5}}
+| [[File:S3 Weapon Main Carbon Roller Deco 2D Current.png|24px|link=Carbon Roller Deco]] [[Carbon Roller Deco]]
+|-
+|| {{Splashtag|title=Windy Teardrop|name=らんすうはやばすぎる|banner=2101|tagnumber=1553|badge1=Splat Zones 1000|badge2=Challenge Top 5 Percent}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|| {{Splashtag|title=Infinite Caller|name=いじめないで ;¢;|banner=11051|tagnumber=1410|badge1=Marie|badge2=Splash-o-matic 4|badge3=Callie}}
+| [[File:S3 Weapon Main Splash-o-matic 2D Current.png|24px|link=Splash-o-matic]] [[Splash-o-matic]]
+|-
+|| {{Splashtag|title=Half Object of Affection|name=963ワ|banner=14001|tagnumber=2793|badge1=Splattershot 4|badge2=X Battle Top 3000|badge3=Trizooka 30}}
+| [[File:S3 Weapon Main Rapid Blaster Pro 2D Current.png|24px|link=Rapid Blaster Pro]] [[Rapid Blaster Pro]]
+|-
+|rowspan="4" | 95
+|rowspan="4" | 2464.3
+|| {{Splashtag|title=The Great Booyah|name=ゆうちょん。|banner=10004|tagnumber=1375|badge1=Splattershot 5|badge2=X Battle Top 500|badge3=Splash-o-matic 5}}
+| [[File:S3 Weapon Main Squeezer 2D Current.png|24px|link=Squeezer]] [[Squeezer]]
+|-
+|| {{Splashtag|title=Fully Kid|name=か　^._.^　ぴ|banner=10001|tagnumber=7364|badge2=Food 100}}
+| [[File:S3 Weapon Main Z+F Splatterscope 2D Current.png|24px|link=Z+F Splatterscope]] [[Z+F Splatterscope]]
+|-
+|| {{Splashtag|title=Decade-Experienced Material|name=オプレ　ACトマト|banner=10004|tagnumber=1561|badge1=DJ Octavio|badge2=Cuttlefish|badge3=Food 10}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Feral Material|name=ゆん。|banner=10004|tagnumber=2521|badge1=Splash-o-matic 4|badge2=Blaster 5|badge3=Splat Zones 1000}}
+| [[File:S3 Weapon Main Blaster 2D Current.png|24px|link=Blaster]] [[Blaster]]
+|-
+|rowspan="4" | 96
+|rowspan="4" | 2464.3
+|| {{Splashtag|title=Summer-Lovin' Firecracker|name=Nsv_Eill|banner=11075|tagnumber=5938}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Headstrong Range Blaster User|name=お～ちゃ|banner=11035|tagnumber=8444|badge2=Trizooka 1200|badge3=Kraken Royale 1200}}
+| [[File:S3 Weapon Main .96 Gal Deco 2D Current.png|24px|link=.96 Gal Deco]] [[.96 Gal Deco]]
+|-
+|| {{Splashtag|title=Scientific Imp|name=Nsv_Noru|banner=11077|tagnumber=2256|badge1=Cooler Heads 100K|badge2=Locker 100K|badge3=Marie}}
+| [[File:S3 Weapon Main Rapid Blaster Deco 2D Current.png|24px|link=Rapid Blaster Deco]] [[Rapid Blaster Deco]]
+|-
+|| {{Splashtag|title=Fluffy Superstar|name=AP_やまもふ〆|banner=800|tagnumber=7797|badge1=Splash-o-matic 5|badge2=Turf War 1200|badge3=Sloshing Machine 5}}
+| [[File:S3 Weapon Main N-ZAP '85 2D Current.png|24px|link=N-ZAP '85]] [[N-ZAP '85]]
+|-
+|rowspan="4" | 97
+|rowspan="4" | 2464.1
+|| {{Splashtag|title=Intuitive Pigtail Pro|name=ßea*|banner=11056|tagnumber=1723|badge1=Marooner's Bay 600|badge2=Fish Stick 1000|badge3=Turf War 250}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Lonely Flower|name=すいじゃくなわらな|banner=10004|tagnumber=9407|badge1=Splash-o-matic 4|badge2=Challenge Top 5 Percent|badge3=Squeezer 5}}
+| [[File:S3 Weapon Main Explosher 2D Current.png|24px|link=Explosher]] [[Explosher]]
+|-
+|| {{Splashtag|title=Merciless Splat Roller User|name=つよがりあいくちゃん|banner=11035|tagnumber=2742|badge1=Splat Roller 5|badge2=Level 100|badge3=Big Bubbler 1200}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|-
+|| {{Splashtag|title=Unnoticed AI|name=ょうりゅう|banner=11067|tagnumber=1843|badge2=Locker 1M}}
+| [[File:S3 Weapon Main Luna Blaster Neo 2D Current.png|24px|link=Luna Blaster Neo]] [[Luna Blaster Neo]]
+|-
+|rowspan="3" | 98
+|rowspan="3" | 2464.1
+|| {{Splashtag|title=Gullible Frye Fan|name=HoNeX|banner=11073|tagnumber=2423|badge1=Challenge Top 50 Percent|badge2=Big Run Top 50 Percent|badge3=Locker 100K}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|| {{Splashtag|title=Avaricious Bodyguard|name=おくやますみれ|banner=11030|tagnumber=5361|badge1=Zipcaster 30|badge2=Takoroka 100|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Tri-Slosher Nouveau 2D Current.png|24px|link=Tri-Slosher Nouveau]] [[Tri-Slosher Nouveau]]
+|-
+|| {{Splashtag|title=Evil Scientist|name=ファンデルワールスカ|banner=11062|tagnumber=2612|badge1=Marooner's Bay 999|badge2=Tacticooler 30|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main Bloblobber 2D Current.png|24px|link=Bloblobber]] [[Bloblobber]]
+|-
+|rowspan="4" | 99
+|rowspan="4" | 2463
+|| {{Splashtag|title=Growing Duchess|name=ラズリ|banner=11045|tagnumber=1304|badge1=Tricolor Defender 10|badge2=Big Run Top 5 Percent|badge3=Tableturf Cards 120}}
+| [[File:S3 Weapon Main Classic Squiffer 2D Current.png|24px|link=Classic Squiffer]] [[Classic Squiffer]]
+|-
+|| {{Splashtag|title=Old-Fashioned Uncle|name=オレオ3ごう|banner=11055|tagnumber=2849|badge1=Splattershot Nova 4|badge2=Big Swig Roller 4|badge3=Snipewriter 5H 4}}
+| [[File:S3 Weapon Main .96 Gal 2D Current.png|24px|link=.96 Gal]] [[.96 Gal]]
+|-
+|| {{Splashtag|title=Silent Forehead|name=マヨ|banner=10003|tagnumber=1270|badge2=Light Tetra Dualies 4|badge3=Dark Tetra Dualies 5}}
+| [[File:S3 Weapon Main Light Tetra Dualies 2D Current.png|24px|link=Light Tetra Dualies]] [[Light Tetra Dualies]]
+|-
+|| {{Splashtag|title=Super-Scary Trizooka User|name=shochan°ε°|banner=11025|tagnumber=8250|badge1=Splattershot 5|badge2=Splat Zones 1000|badge3=Trizooka 1200}}
+| [[File:S3 Weapon Main Splattershot 2D Current.png|24px|link=Splattershot]] [[Splattershot]]
+|-
+|rowspan="3" | 100
+|rowspan="3" | 2462.1
+|| {{Splashtag|title=Fun Girl|name=パラシェルター|banner=11048|tagnumber=7854|badge2=X Battle Top 500|badge3=Ink Storm 30}}
+| [[File:S3 Weapon Main Custom Dualie Squelchers 2D Current.png|24px|link=Custom Dualie Squelchers]] [[Custom Dualie Squelchers]]
+|-
+|| {{Splashtag|title=Lightning-Fast Gelatin|name=ゅぅ|banner=11082|tagnumber=1517|badge1=Marooner's Bay 999|badge2=Eggstra Work Top 5 Percent|badge3=Jammin' Salmon Junction 999}}
+| [[File:S3 Weapon Main E-liter 4K 2D Current.png|24px|link=E-liter 4K]] [[E-liter 4K]]
+|-
+|| {{Splashtag|title=Intuitive Traveler|name=あぅ...。|banner=13002|tagnumber=2692|badge1=Splash-o-matic 4|badge2=Crab Tank 180|badge3=Big Run Top 50 Percent}}
+| [[File:S3 Weapon Main Splat Roller 2D Current.png|24px|link=Splat Roller]] [[Splat Roller]]
+|}

@@ -3,26 +3,17 @@ import os
 import time
 import json
 from pathlib import Path
-import tkinter as tk
-from tkinter import filedialog
 
 import utils as _utils
-
-def _ask_for_file():
-    root = tk.Tk()
-    root.withdraw()
-    return filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
 
 def process(input_path=None, output_dir=None, logger=print):
     """
     Converted from challenge_lists_splatnet3.py
     Produces a wiki-formatted .txt output for Solo / Pair / Team leaderboards.
     """
+
     if not input_path:
-        input_path = _ask_for_file()
-    if not input_path:
-        logger("No file selected.")
-        return
+        raise ValueError("process() requires 'input_path' when used headless.")
 
     start_time = time.time()
 

@@ -17,7 +17,7 @@ MODULES = {
 }
 
 # Central version and update URL — check for updates only once (here)
-current_version = "0.1.7"
+current_version = "0.1.8"
 update_url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/main.py"
 
 class App(tk.Tk):
