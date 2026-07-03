@@ -1051,3 +1051,4 @@ Playing:Playing
 支援者:Booster
 歯ごたえ:Resilience
 エンディング:Finale
+メカニック:Mechanic
