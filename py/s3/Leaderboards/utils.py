@@ -10,20 +10,21 @@ import sys
 import json
 
 # Basic update checker — modules call this (keeps previous behavior)
-def check_for_updates(current_version="0.1.0", url=None, logger=print):
+def check_for_updates(current_ink_script_version="0.1.0", current_splatoon3_version="1.0.0", url=None, logger=print):
     if not url:
         return
     try:
         logger("Checking for updates...")
         resp = requests.get(url, timeout=5)
         resp.raise_for_status()
-        m = re.search(r'current_version = "([\d.]*)"', resp.text)
+        m = re.search(r'current_ink_script_version = "([\d.]*)"', resp.text)
         if not m:
             logger("Could not parse remote version.")
             return
         remote = m.group(1)
-        logger(f"Local: v{current_version} / Remote: v{remote}")
-        if version.parse(remote) > version.parse(current_version):
+        logger(f"Up to Splatoon 3 data from: {current_splatoon3_version}")
+        logger(f"Ink Script Version- Local: v{current_ink_script_version} / Remote: v{remote}")
+        if version.parse(remote) > version.parse(current_ink_script_version):
             logger(f"Update available: v{remote}")
             # If repo is a git clone (heuristic), prompt on console (keeps old behavior)
             parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))

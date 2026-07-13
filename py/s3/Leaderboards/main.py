@@ -17,7 +17,8 @@ MODULES = {
 }
 
 # Central version and update URL
-current_version = "0.1.9"
+current_ink_script_version = "0.1.10"
+current_splatoon3_version = "11.2.0"
 update_url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/main.py"
 
 class App(tk.Tk):
@@ -115,7 +116,7 @@ class App(tk.Tk):
 def main():
     # check for updates once here
     try:
-        _utils.check_for_updates(current_version, update_url, logger=print)
+        _utils.check_for_updates(current_ink_script_version, current_splatoon3_version, update_url, logger=print)
     except Exception as e:
         # keep it non-fatal for GUI
         print(f"Update check failed: {e}")

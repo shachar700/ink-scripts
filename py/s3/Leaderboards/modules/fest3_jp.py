@@ -59,6 +59,7 @@ def process(input_path=None, output_dir=None, logger=print):
                     if "|" in name or "~" in name:
                         name = "<nowiki>" + name + "</nowiki>"
                     power = player.get("festPower", "")
+                    power = f"{float(player['festPower']):.1f}"
                     weapon = player["weapon"]["name"]
 
                     # translate weapon if matches Japanese name
@@ -110,6 +111,7 @@ def process(input_path=None, output_dir=None, logger=print):
                 if "|" in name or "~" in name:
                     name = "<nowiki>" + name + "</nowiki>"
                 power = player.get("festPower", "")
+                power = f"{float(player['festPower']):.1f}"
                 weapon = player["weapon"]["name"]
 
                 # translate weapon if matches Japanese name
