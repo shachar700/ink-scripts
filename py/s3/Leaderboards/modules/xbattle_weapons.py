@@ -110,6 +110,7 @@ def process(input_path=None, output_dir=None, logger=print):
                 if "|" in name or "~" in name:
                     name = "<nowiki>" + name + "</nowiki>"
                 power = player.get("xPower", "")
+                power = f"{float(power):.1f}"
                 weapon = player["weapon"]["name"]
                 title = player.get("byname", "")
                 banner = _utils.decode_base64_id(

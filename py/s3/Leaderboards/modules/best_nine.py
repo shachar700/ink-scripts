@@ -59,6 +59,7 @@ def process(input_path=None, output_dir=None, logger=print):
             # Best Nine details
             best_nine = player.get("bestNine", {})
             power_total = best_nine.get("powerTotal", "")
+            power_total = f"{float(power_total):.1f}"
             weapon_orders = best_nine.get("weaponPowerOrders9", {}).get("nodes", [])
 
             # Build weapon cell
@@ -66,6 +67,7 @@ def process(input_path=None, output_dir=None, logger=print):
             for weapon_entry in weapon_orders:
                 weapon_name = weapon_entry.get("weapon", {}).get("name", "")
                 weapon_power = weapon_entry.get("weaponPower", "")
+                weapon_power = f"{float(weapon_power):.1f}"
                 if weapon_name:
                     weapons_cell.append(
                         f"[[File:S3 Weapon Main {weapon_name} 2D Current.png|24px|link={weapon_name}]] "

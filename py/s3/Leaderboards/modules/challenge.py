@@ -47,6 +47,7 @@ def process(input_path=None, output_dir=None, logger=print):
             if "|" in name or "~" in name:
                 name = "<nowiki>" + name + "</nowiki>"
             power = player.get('power', '')
+            power = f"{float(power):.1f}"
             weapon = pl["weapon"]["name"]
             title = pl.get("byname", "")
 
@@ -74,6 +75,7 @@ def process(input_path=None, output_dir=None, logger=print):
         for position in data_pair:
             rank = position.get('rank', '')
             power = position.get('power', '')
+            power = f"{float(power):.1f}"
             out.write("|-\n")
             out.write("|rowspan=\"2\" | " + str(rank) + "\n")
             out.write("|rowspan=\"2\" | " + str(power) + "\n")
@@ -112,6 +114,7 @@ def process(input_path=None, output_dir=None, logger=print):
             for position in data_team:
                 rank = position.get('rank', '')
                 power = position.get('power', '')
+                power = f"{float(power):.1f}"
                 out.write("|-\n")
                 if len(position["players"]) == 3:
                     out.write("|rowspan=\"3\" | " + str(rank) + "\n")
