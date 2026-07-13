@@ -22,12 +22,12 @@ def check_for_updates(current_ink_script_version="0.1.0", current_splatoon3_vers
             logger("Could not parse remote version.")
             return
         remote = m.group(1)
-        logger(f"Up to Splatoon 3 data from: {current_splatoon3_version}")
-        logger(f"Ink Script Version- Local: v{current_ink_script_version} / Remote: v{remote}")
+        logger(f"Up to Splatoon 3 data from: v{current_splatoon3_version}")
+        logger(f"Ink Script Version: Local v{current_ink_script_version} / Remote v{remote}")
         if version.parse(remote) > version.parse(current_ink_script_version):
             logger(f"Update available: v{remote}")
             # If repo is a git clone (heuristic), prompt on console (keeps old behavior)
-            parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+            parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.."))
             if os.path.isdir(os.path.join(parent_dir, ".git")):
                 logger("Repository appears to be a git repo. Run 'git pull' to update.")
             else:
