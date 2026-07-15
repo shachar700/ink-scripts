@@ -10,21 +10,21 @@ import sys
 import json
 
 # Basic update checker — modules call this (keeps previous behavior)
-def check_for_updates(current_ink_script_version="0.1.0", current_splatoon3_version="1.0.0", url=None, logger=print):
+def check_for_updates(current_s3splatop_version="0.1.0", current_splatoon3_version="1.0.0", url=None, logger=print):
     if not url:
         return
     try:
         logger("Checking for updates...")
         resp = requests.get(url, timeout=5)
         resp.raise_for_status()
-        m = re.search(r'current_ink_script_version = "([\d.]*)"', resp.text)
+        m = re.search(r'current_s3splatop_version = "([\d.]*)"', resp.text)
         if not m:
             logger("Could not parse remote version.")
             return
         remote = m.group(1)
         logger(f"Up to Splatoon 3 data from: v{current_splatoon3_version}")
-        logger(f"Ink Script Version: Local v{current_ink_script_version} / Remote v{remote}")
-        if version.parse(remote) > version.parse(current_ink_script_version):
+        logger(f"Ink Script Version: Local v{current_s3splatop_version} / Remote v{remote}")
+        if version.parse(remote) > version.parse(current_s3splatop_version):
             logger(f"Update available: v{remote}")
             # If repo is a git clone (heuristic), prompt on console (keeps old behavior)
             parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.."))
@@ -38,9 +38,13 @@ def check_for_updates(current_ink_script_version="0.1.0", current_splatoon3_vers
 def home_downloads_path():
     return str(Path.home() / "Downloads")
 
-def ensure_output_path(input_path, output_dir=None):
-    base = os.path.splitext(os.path.basename(input_path))[0]
-    fname = f"{base}_out.txt"
+def ensure_output_path(input_path, output_dir=None, output_name=None):
+    if output_name:
+        fname = output_name
+    else:
+        base = os.path.splitext(os.path.basename(input_path))[0]
+        fname = f"{base}_out.txt"
+
     if output_dir:
         return os.path.join(output_dir, fname)
     return os.path.join(home_downloads_path(), fname)

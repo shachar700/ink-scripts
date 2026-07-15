@@ -13,9 +13,9 @@ def _ask_for_file():
     return filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
 
 
-def process(input_path=None, output_dir=None, logger=print):
+def process(input_path=None, output_dir=None, output_name=None, logger=print):
     """
-    Handles all X Rank leaderboard modes (Cl, Lf, Ar, Gl).
+    Handles all X Rank weapon top modes (Cl, Lf, Ar, Gl).
     Supports both splatnet3 and splatoon3.ink JSON formats.
     """
     if not input_path:
@@ -38,7 +38,7 @@ def process(input_path=None, output_dir=None, logger=print):
         season_data = data["data"]["xRanking"]["currentSeason"]
 
         def get_edges(key):
-            nodes = season_data.get(key, {}).get("nodes", [])
+            nodes = season_data.get(key.replace("weaponTops", "xRanking"), {}).get("nodes", [])
             return [{"node": n} for n in nodes]
 
     elif "node" in data.get("data", {}):
@@ -53,10 +53,10 @@ def process(input_path=None, output_dir=None, logger=print):
 
     # Mode map
     mode_map = {
-        "xRankingCl": "Clam Blitz",
-        "xRankingLf": "Tower Control",
-        "xRankingAr": "Splat Zones",
-        "xRankingGl": "Rainmaker",
+        "weaponTopsCl": "Clam Blitz",
+        "weaponTopsLf": "Tower Control",
+        "weaponTopsAr": "Splat Zones",
+        "weaponTopsGl": "Rainmaker",
     }
 
     for key, mode_name in mode_map.items():
@@ -64,8 +64,8 @@ def process(input_path=None, output_dir=None, logger=print):
         if not edges:
             continue
 
-        # Build suffixed output path
-        base_out_path = _utils.ensure_output_path(input_path, output_dir)
+        # Build suffixed output path (honour explicit output_name if provided)
+        base_out_path = _utils.ensure_output_path(input_path, output_dir, output_name=output_name)
         out_path = str(
             Path(base_out_path).with_name(
                 Path(base_out_path).stem + f"_{key}" + Path(base_out_path).suffix
@@ -74,12 +74,36 @@ def process(input_path=None, output_dir=None, logger=print):
         logger(f"Writing output to {out_path}")
 
         with open(out_path, "w", encoding="utf8") as out:
-            out.write(f"==== X Rank Leaderboard ({mode_name}) ====\n")
+            out.write(f"==== Top Weapon Wielders ({mode_name}) ====\n")
             out.write("{| class=\"wikitable sitecolor-s3 mw-collapsible mw-collapsed\n")
             out.write("! Rank !! Power !! Splashtag !! <br>Weapon\n")
 
+            last_category = None
+            flag = False
+
             for edge in edges:
-                player = edge["node"]
+                node = edge["node"]
+
+                # keep original break-on-Sploosh logic
+                if flag is True and node["weapon"]["name"] == "Sploosh-o-matic":
+                    break
+                if node["weapon"]["name"] == "Sploosh-o-matic":
+                    flag = True
+
+                # Category section header
+                if (
+                    node.get("weapon")
+                    and node["weapon"].get("weaponCategory")
+                    and node["weapon"]["weaponCategory"].get("name")
+                ):
+                    weapon_category_name = node["weapon"]["weaponCategory"]["name"]
+                    if weapon_category_name != last_category:
+                        out.write("|-\n")
+                        out.write("! colspan=\"4\" | " + weapon_category_name + "\n")
+                        last_category = weapon_category_name
+
+                # Player row
+                player = node
                 rank = player.get("rank", "")
                 name = player.get("name", "")
                 nameid = player.get("nameId", "")

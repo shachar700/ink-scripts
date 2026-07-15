@@ -6,7 +6,7 @@ from pathlib import Path
 
 import utils as _utils
 
-def process(input_path=None, output_dir=None, logger=print):
+def process(input_path=None, output_dir=None, output_name=None, logger=print):
     """
     Converted from challenge_lists_splatnet3.py
     Produces a wiki-formatted .txt output for Solo / Pair / Team leaderboards.
@@ -31,7 +31,7 @@ def process(input_path=None, output_dir=None, logger=print):
     data_pair = teams[1]['details']['nodes'] if len(teams) > 1 else []
     data_team = teams[2]['details']['nodes'] if len(teams) > 2 else None
 
-    out_path = _utils.ensure_output_path(input_path, output_dir)
+    out_path = _utils.ensure_output_path(input_path, output_dir, output_name=output_name)
     logger(f"Writing output to {out_path}")
 
     with open(out_path, 'w', encoding="utf8") as out:

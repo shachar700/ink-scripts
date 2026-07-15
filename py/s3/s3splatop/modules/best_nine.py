@@ -5,7 +5,7 @@ from pathlib import Path
 
 import utils as _utils
 
-def process(input_path=None, output_dir=None, logger=print):
+def process(input_path=None, output_dir=None, output_name=None, logger=print):
     """
     Converted from challenge_lists_splatnet3.py
     Produces a wiki-formatted .txt output for Solo / Pair / Team leaderboards.
@@ -30,8 +30,8 @@ def process(input_path=None, output_dir=None, logger=print):
     season_name = node.get("name", "Unknown Season")
     ranking_nodes = node.get("ranking", {}).get("nodes", [])
 
-    # Build output path
-    base_out_path = _utils.ensure_output_path(input_path, output_dir)
+    # Build output path (honour explicit output_name if provided)
+    base_out_path = _utils.ensure_output_path(input_path, output_dir, output_name=output_name)
     out_path = str(
         Path(base_out_path).with_name(
             Path(base_out_path).stem + "_bestnine" + Path(base_out_path).suffix

@@ -11,7 +11,7 @@ def _ask_for_file():
     root.withdraw()
     return filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
 
-def process(input_path=None, output_dir=None, logger=print):
+def process(input_path=None, output_dir=None, output_name=None, logger=print):
     """
     Process challenge JSON for Solo / Pair / Team leaderboards.
     Supports GUI (with input_path provided) and headless/auto_run.
@@ -34,7 +34,7 @@ def process(input_path=None, output_dir=None, logger=print):
     this_dir = Path(__file__).resolve().parent
     data_dict_badges = _utils.load_badgemap(this_dir)
 
-    out_path = _utils.ensure_output_path(input_path, output_dir)
+    out_path = _utils.ensure_output_path(input_path, output_dir, output_name=output_name)
     logger(f"Writing output to {out_path}")
 
     with open(out_path, "w", encoding="utf8") as out:
