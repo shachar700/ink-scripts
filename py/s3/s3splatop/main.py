@@ -1,4 +1,5 @@
 # main.py
+import ctypes
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import os
@@ -17,9 +18,11 @@ MODULES = {
 }
 
 # Central version and update URL
-current_s3splatop_version = "0.1.11"
+current_s3splatop_version = "0.1.12"
 current_splatoon3_version = "11.2.0"
-update_url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/Leaderboards/main.py"
+update_url = "https://raw.githubusercontent.com/shachar700/ink-scripts/refs/heads/main/py/s3/s3splatop/main.py"
+myappid = "com.shahar.s3splatop"  # Any unique string
+ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 class App(tk.Tk):
     def __init__(self):
@@ -77,6 +80,12 @@ class App(tk.Tk):
         self.raw_output_text = tk.Text(self.raw_scroll_container, height=10, width=50, state="disabled", wrap="word")
         self.raw_output_text.pack(side="left", fill="both", expand=True)
         self.notebook.add(self.raw_tab, text="Raw Output")
+        self.raw_copy_button = ttk.Button(
+            self.raw_tab,
+            text="Copy",
+            command=self.copy_raw_to_clipboard
+        )
+        self.raw_copy_button.pack(anchor="ne", padx=4, pady=(4,0))
 
         frm.columnconfigure(1, weight=1)
         frm.rowconfigure(2, weight=1)
@@ -149,6 +158,27 @@ class App(tk.Tk):
 
     def log_msg(self, text):
         self._append_text(self.log_text, text)
+
+    def copy_raw_to_clipboard(self):
+        raw_text = self.raw_output_text.get("1.0", "end-1c")
+
+        if raw_text.strip():
+            self.clipboard_clear()
+            self.clipboard_append(raw_text)
+            text = "Copied!"
+        else:
+            text = "Empty!"
+
+        self.raw_copy_button.config(text=text)
+
+        # Cancel any previous reset timer
+        if hasattr(self, "_raw_copy_reset_job"):
+            self.after_cancel(self._raw_copy_reset_job)
+
+        self._raw_copy_reset_job = self.after(
+            1000,
+            lambda: self.raw_copy_button.config(text="Copy", state="normal")
+        )
 
     def on_process(self):
         module_key = self.selected_module_key.get()
