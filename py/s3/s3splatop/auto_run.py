@@ -15,8 +15,8 @@ def main():
     mode = sys.argv[1].lower()
     base_dir = Path(__file__).resolve().parent
 
-    target_folder = base_dir / f"{mode}_top100"
-    output_folder = base_dir / f"{mode}_top100_output"
+    target_folder = base_dir / f"{mode}_top"
+    output_folder = base_dir / f"{mode}_top_output"
 
     module_name = f"modules.{mode}"
 
